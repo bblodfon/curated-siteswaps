@@ -30,7 +30,7 @@ ball sections
 
 **Stability++**  
 - 5-cascade (one good run at least), play with dwell time (high throws)
-- Half shower, shower (91) - don't stay too much in here
+- 5-reverse cascade, Half shower, shower (91) - don't stay too much in here
 
 **Core**
 - 77722 (3up), 7777700 (5up), **66|771**
