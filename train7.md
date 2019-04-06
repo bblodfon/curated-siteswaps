@@ -8,13 +8,11 @@ ball sections
 **Warm it up!**  
 - 3-cascade: play with dwell time, high throws (722+), 3up
 - Snake (4|55050), transition to: 45|70701
-- 531, 72312, 5|61701 (favourite)
-- 46|801 (for a little change :)
 
 ## 4 Balls
 
 **Warm up more (do not burn it yet!)**  
-- 53, 552, 55514, 46451, 534, 561,...
+- Example: 53, 552, 55514, 46451, 534, 561,...
 
 **Time to get more serious with the 7s**  
 - 741, 714
@@ -47,7 +45,7 @@ ball sections
 - 6|6771671
 - 66|7770770 (3 and 2)
 
-**7,4,1**
+**7,4,1 To check ??? **
 - 747-741-744
 - 747-771-714
 - 774-714-744
