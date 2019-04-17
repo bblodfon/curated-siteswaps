@@ -17,7 +17,6 @@ ball sections
 **Time to get more serious with the 7s**  
 - 741, 714
 - 71 (shower), 5|7272712 (baby juggling)
-- 7427242 **nice but I don't know if it is good for 7**
 
 **Core 7s**
 - 56|7707070 (snake)
@@ -29,8 +28,8 @@ ball sections
 - 5-cascade, play with dwell time (high throws)
 - 77722 (**3up**), 7777700 (**5up**)
 - **5|77272** (snake - tough)                                                   
-- 6|7777070 (4 and 1)                                                           
-- 66|7770770 (3 and 2)
+- 6|7777070 (4 and 1) - really good                                                          
+- 66|7770770 (3 and 2) - harder
 - **66|771**
 - **744**
 - 97531 (flash it both sides)
@@ -41,13 +40,12 @@ ball sections
 
 **To check ???**  
 - 7742744 (seemed good)
-- 6|7777016
 - 6|6771671
 
 **7,4,1 To check ???**
-- 747-741-744 (difficult, to play again)
+- 747-741-744 (hardester, to play again)
 - 747-771-714
-- 774-714-744
+- 774-714-744 (very nice combinations)
 - 774-717-741
 
 **Breaking the 7's**  
