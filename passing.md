@@ -2,13 +2,20 @@
 
 ## 2-person
 
+### 3 clubs
+- 720 (501-like)
+- 522
+
+### 4 clubs
+- 552
+
 ### 5 clubs
 - 1-count, psz (726)
 - 41p31 (why not)
 - Parsnip (ppzpz)
 
 With zaps:
-- 564
+- 645
 - 6662555
 - 852 (heff, zip, zap)
 
@@ -44,6 +51,9 @@ To enter from normal 2,3-counts, one juggler throws a crossing pass
 Var: Runaround (when the feeder changes - base pattern for Scramble-V)
 - pps 9-club feed
 
+- [Bruno's Nightmare](https://www.passingdb.com/patterns.php?id=49)  
+A giant juggles 3 jugglers while they do 2-count feed runaround
+
 ## 10 clubs
 - 2-count 10-club feed  
 Var: Runaround (when the feeder changes - base pattern for Ample-V)
@@ -52,6 +62,9 @@ runaround part. The runaround can be: 3 slow selfs, 1 double self + 2 normal
 for example (you have to fill 5 bits of time in there :)
 
 # 4-person
+
+- Shooting star (single passes, one juggler runs to the extra corner of the 
+pentagram)
 
 - Y (2,4-count). Variations:
   - Rotating Y  
