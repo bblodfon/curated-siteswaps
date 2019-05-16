@@ -1,13 +1,14 @@
 # 7 Balls training program
 
 Note: warmup with 3 and 4 ball section, put more effort and time to the 5+ 
-ball sections
+ball sections. Can also skip sections, e.g. start from 5 ball section!
 
 ## 3 Balls
 
 **Warm it up!**  
 - 3-cascade: play with dwell time, high throws (722+), 3up
 - Snake: 4|55050 => 45|70701 => 45|90501
+- **4|57030, 44|70350** (snake variations)
 
 ## 4 Balls
 
@@ -20,7 +21,7 @@ ball sections
 
 **Core 7s**
 - 56|7707070 (snake)
-- 5|7770700 (3 and 1), 555|7077700 (1 and 3)
+- 5|7770700 (3 and 1), 555|7077700 (1 and 3 - **to be removed ???**)
 
 ## 5 Balls
 
@@ -28,25 +29,19 @@ ball sections
 - 5-cascade, play with dwell time (high throws)
 - 77722 (**3up**), 7777700 (**5up**)
 - **5|77272** (snake - tough)                                                   
-- 6|7777070 (4 and 1) - really good                                                          
-- 66|7770770 (3 and 2) - harder
-- **66|771**
+- 6|7777070 (4 and 1), 66|7770770 (3 and 2) - harder
 - **744**
-- 97531 (flash it both sides)
+- **66|771**
 
 **Others (quickly to pass through)**  
 - Half shower, 5-reverse cascade
 - shower (91)
+- 97531 (flash both sides)
 
-**To check ???**  
-- 7742744 (seemed good)
-- 6|6771671
-
-**7,4,1 To check ???**
-- 747-741-744 (hardester, to play again)
-- 747-771-714
-- 774-714-744 (very nice combinations)
-- 774-717-741
+**Some more 7's**  
+- 6|6771671 (???)
+- 774-2-744 (nice one)
+- 774-714-744 (very nice combo)
 
 **Breaking the 7's**  
 - **645**, (6x,4)\*
