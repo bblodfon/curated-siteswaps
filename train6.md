@@ -1,6 +1,6 @@
 # 3 balls
 
-- 3|61611, 4|6161601
+- 4|61611, 4|6161601
 - 46|801
 
 **3 balls in one hand**  
@@ -18,7 +18,7 @@
 
 # 5 balls
 
-(while playing 5 cascade...)  
+**(while playing 5 cascade...)**  
 - 64
 - 666-2-555 (3 6's, 3 5's)
 - 666660

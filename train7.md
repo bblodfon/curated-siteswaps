@@ -28,10 +28,10 @@ ball sections. Can also skip sections, e.g. start from 5 ball section!
 **Stability + Core**  
 - 5-cascade, play with dwell time (high throws)
 - 77722 (**3up**), 7777700 (**5up**)
-- **5|77272** (snake - tough)                                                   
-- 6|7777070 (4 and 1), 66|7770770 (3 and 2) - harder
-- **744**
+- Some half shower, 5-reverse cascade                                        
+- **744**, 753
 - **66|771**
+- **5|77272** (snake - tough)
 
 **Others (quickly to pass through)**  
 - Half shower, 5-reverse cascade
@@ -39,7 +39,7 @@ ball sections. Can also skip sections, e.g. start from 5 ball section!
 - 97531 (flash both sides)
 
 **Some more 7's**  
-- 6|6771671 (???)
+- 6|6771671 (to be removed ???), 6777161 (55514-like)
 - 774-2-744 (nice one)
 - 774-714-744 (very nice combo)
 
@@ -54,7 +54,7 @@ ball sections. Can also skip sections, e.g. start from 5 ball section!
 
 **Relax before 7**  
 - 77[22] \(552 on steroids - Antonis)
-- **774, 756**
+- **774, 75, 756**
 
 ## 7 balls
 
