@@ -11,3 +11,8 @@
   * [6 Balls Train](train6.md)
   * [7 Balls Train](train7.md)
 * [Passing](passing.md)
+  * [Manipulation](manipulation.md)
+  * [2 jugglers](2_person_passing.md)
+  * [3+ jugglers](3_person_or_more_passing.md)
+  * [Minis](minis.md)
+  * [Workshops](passing_workshops.md)

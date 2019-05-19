@@ -1,0 +1,61 @@
+# Non-manipulation patterns for 3 or more jugglers
+
+### 9-clubs
+- 2-count 9-club feed  
+Var: Runaround (when the feeder changes - base pattern for Scramble-V)
+- pps 9-club feed
+
+- [Bruno's Nightmare](https://www.passingdb.com/patterns.php?id=49)  
+A giant juggles 3 jugglers while they do 2-count feed runaround
+
+### 10 clubs
+- 2-count 10-club feed  
+Var: Runaround (when the feeder changes - base pattern for Ample-V)
+Feeder does a 2-count to the same person when the other juggler does the 
+runaround part. The runaround can be: 3 slow selfs, 1 double self + 2 normal 
+for example (you have to fill 5 bits of time in there :)
+
+## 4-person
+
+- Shooting star (single passes, one juggler runs to the extra corner of the 
+pentagram)
+
+- Y (2,4-count). Variations:
+  - Rotating Y  
+Always moving clockwise, both groups change position every n passes (2 or 3 
+ususally), always pass and receive from the same juggler as before
+  - Boxy-I Y (coolest variation of Y)  
+US vs THEM, always moving clockwise, every n passes (2 or 3 usually) of 4-count 
+ONLY one group changes position, at every moving one group (only) of jugglers 
+changes the jugglers that they pass at, so generally you pass to both of the 
+other group (but this is true only for one of the groups, the other does not 
+change to whom they pass at). Each juggler in the group moves in a 
+diamond-shaped path!
+
+- Phantoms (nice and easy). Positioning:  
+(Phantom) A B (Phantom)  
+(Phantom) C D (Phantom)  
+A pass to the phantom is  a pass to yourself! (or to some other person that 
+might be coming there and fill in the 'phantom' position). Each juggler does 
+a 2-count, windshield style. Example - D's throw sequence is: (Phantom), B, A, 
+B, (Phantom), ...
+
+- Weaver  
+Feeder: 2-count and feeds like a windshield 3 people  
+Feedes: 6-count and moving as a 3-people cascade
+
+## 5-person
+
+- Feast  
+Pentagram positioning, 4-count.
+Each time throw a pass to a different person's left hand (I mean do a 4-count 
+with different person each time, following the circle orientation), find next 
+person by going clockwise, start by throwing to the person on your left, could 
+be vanilla, chocolate bar, banana and generally different kind of passes between 
+each person (but have to be in a 4-count)
+
+- Hand-feast (nice)  
+Pentagram positioning, 4-count. 
+Each time throw a pass to a different hand in the circle going clockwise,
+when it is time to throw to your hands, 'throw' a self, feels like Jim's
+
