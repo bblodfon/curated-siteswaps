@@ -8,6 +8,7 @@
 ### 4 clubs
 
 - 552
+- 52562 (zap,zap,zip,zip,self)
 
 ### 5 clubs
 
@@ -35,6 +36,8 @@ With zaps:
 - Why not
   - 2|2 vs 1|2: p3p41 (s) vs 41p3p (c)
   - 1|2 vs 1|2: p41p3 (s) vs p3p41 (c)
+- 972
+  - 2|1 vs 1|2: dp1p (c,s) vs pdp1 (c,s)
 
 ### 7 clubs
 
