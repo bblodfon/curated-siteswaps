@@ -59,6 +59,6 @@ gulp.task('clean_book', function () {
 });
 
 gulp.task('default', gulp.series('clean_docs', 'build_book', 
-  'copy_html_content', 'clean_book', 'gitsend',  function (done) {
+  'copy_html_content', 'clean_book', 'add','commit','push', function (done) {
   done();
 }));
