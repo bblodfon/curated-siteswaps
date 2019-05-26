@@ -46,15 +46,28 @@ Feedes: 6-count and moving as a 3-people cascade
 
 ## 5 jugglers
 
+- **2,3,4-count Star**  
+  - Pentagram positiong
+  - Throw to the person that's righty-next to the person that's right of you! 
+  - In 3-count, throws are *outside*
 - **Feast**  
-Pentagram positioning, 4-count.
-Each time throw a pass to a different person's left hand (I mean do a 4-count 
-with different person each time, following the circle orientation), find next 
-person by going clockwise, start by throwing to the person on your left, could 
-be vanilla, chocolate bar, banana and generally different kind of passes between 
-each person (but have to be in a 4-count)
+  - Pentagram positioning, 4-count
+  - Each time throw a pass to a different person's left hand (I mean do a 
+4-count with different person each time, following the circle orientation) - 
+find next person by going clockwise, start by throwing to the person on your left
+  - Throw sequence could be vanilla, chocolate bar, banana and generally 
+different kind of passes between each person (but have to be in a 4-count)
 - **Hand-feast (nice)**  
-Pentagram positioning, 4-count. 
-Each time throw a pass to a different hand in the circle going clockwise,
+  - Pentagram positioning, 4-count
+  - Each time throw a pass to a different hand in the circle going clockwise,
 when it is time to throw to your hands, 'throw' a self, feels like Jim's
+- **5-count Star with doubles (and 16 clubs)**  
+  - Pentagram positioning, 5-count
+  - Double passes
+  - 16 clubs (one person holds 4 clubs and starts throwing in the 1st beat)
+  - In each beat a different person throws a double (5 beats in total)
+  - Throw **crossing passes** to the same person (the same person you would throw
+if you were doing a 4-count Star). Your right hand pass goes to his right hand,
+etc.
+
 

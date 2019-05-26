@@ -2,10 +2,33 @@ const gulp = require('gulp');
 const del = require('del');
 const exec = require('child_process').exec;
 const gulpLoadPlugins = require('gulp-load-plugins');
-
+const git = require('gulp-git');
+const argv = require('yargs').argv;
 
 const $ = gulpLoadPlugins();
 
+gulp.task('add', function() {
+  console.log('adding...');
+  return gulp.src('.').pipe(git.add());
+});
+
+gulp.task('commit', function() {
+  console.log('commiting');
+  if (argv.m) {
+    return gulp.src('.').pipe(git.commit(argv.m));
+  }
+});
+
+gulp.task('push', function(){
+  console.log('pushing...');
+  git.push('origin', 'master', function (err) {
+    if (err) throw err;
+  });
+});
+
+gulp.task('gitsend', gulp.series('add', 'commit', 'push', done => {
+  done();
+}));
 
 gulp.task('clean_docs', function () {
   return del(['docs/**', 'docs/.*', '!docs'], {
@@ -35,7 +58,7 @@ gulp.task('clean_book', function () {
   });
 });
 
-gulp.task('default', gulp.series('clean_docs', 'build_book', 'copy_html_content',
-	  'clean_book', function (done) {
+gulp.task('default', gulp.series('clean_docs', 'build_book', 
+  'copy_html_content', 'clean_book', 'gitsend',  function (done) {
   done();
 }));
