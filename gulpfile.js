@@ -19,11 +19,12 @@ gulp.task('commit', function() {
   }
 });
 
-gulp.task('push', function(){
+gulp.task('push', function() {
   console.log('pushing...');
-  return git.push('origin', 'master', function (err) {
-    if (err) throw err;
-  });
+  return git.push({                      
+            repository: 'origin',
+            refspec: 'HEAD'
+        })
 });
 
 gulp.task('gitsend', gulp.series('add', 'commit', 'push', done => {
@@ -59,6 +60,6 @@ gulp.task('clean_book', function () {
 });
 
 gulp.task('default', gulp.series('clean_docs', 'build_book', 
-  'copy_html_content', 'clean_book', 'add','commit','push', function (done) {
+  'copy_html_content', 'clean_book', 'add', 'commit', 'push', function (done) {
   done();
 }));
