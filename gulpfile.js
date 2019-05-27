@@ -2,7 +2,6 @@ const gulp = require('gulp');
 const del = require('del');
 const exec = require('child_process').exec;
 const gulpLoadPlugins = require('gulp-load-plugins');
-const git = require('gulp-git');
 const argv = require('yargs').argv;
 
 const $ = gulpLoadPlugins();
