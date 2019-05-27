@@ -47,8 +47,9 @@ gulp.task('git_add', function (callback) {
 });
 
 gulp.task('git_commit', function(callback) {
-  console.log('commiting');
-  exec('git commit -m ' + argv.m, function (err, stdout, stderr) {
+  console.log('commiting...');
+  var cmd = 'git commit -m ' + argv.m;
+  exec(cmd, function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
     callback();
