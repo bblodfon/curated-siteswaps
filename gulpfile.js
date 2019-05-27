@@ -2,40 +2,9 @@ const gulp = require('gulp');
 const del = require('del');
 const exec = require('child_process').exec;
 const gulpLoadPlugins = require('gulp-load-plugins');
-const git = require('gulp-git');
 const argv = require('yargs').argv;
 
 const $ = gulpLoadPlugins();
-
-gulp.task('add', function() {
-  console.log('adding...');
-  return gulp.src('.').pipe(git.add());
-});
-
-gulp.task('commit', function() {
-  console.log('commiting');
-  if (argv.m) {
-    return gulp.src('.').pipe(git.commit(argv.m));
-  }
-});
-
-gulp.task('push', function() {
-  console.log('pushing...');
-  return git.push({
-            repository: 'origin',
-            refspec: 'HEAD'
-        })
-});
-
-gulp.task('git-commands', function() {
-  return gulp.src('.')
-	  .pipe(git.add())
-	  .pipe(git.commit(argv.m))
-	  .pipe(git.push({
-      repository: 'origin',
-      refspec: 'HEAD'
-	  }));
-});
 
 gulp.task('git_add', function (callback) {
   console.log('adding...');
