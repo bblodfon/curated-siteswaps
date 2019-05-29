@@ -53,7 +53,7 @@ gulp.task('copy_html_content', function () {
   return gulp.src([
       '_book/**/*'
     ])
-    .pipe(gulp.dest('docs'));git status
+    .pipe(gulp.dest('docs'));
 });
 
 gulp.task('clean_book', function () {
