@@ -21,14 +21,14 @@ ball sections. Can also skip sections, e.g. start from 5 ball section!
 
 **Core 7s**
 - 56|7707070 (snake)
-- 5|7770700 (3 and 1), 555|7077700 (1 and 3 - **to be removed ???**)
+- 5|7770700 (3 and 1), 555|7077700 (1 and 3)
 
 ## 5 Balls
 
 **Stability + Core**  
 - 5-cascade, play with dwell time (high throws)
 - 77722 (**3up**), 7777700 (**5up**)
-- Some half shower, 5-reverse cascade                                        
+- Some half shower, 5-reverse cascade
 - **744**, 753
 - **66|771**
 - **5|77272** (snake - tough)
@@ -39,7 +39,7 @@ ball sections. Can also skip sections, e.g. start from 5 ball section!
 - 97531 (flash both sides)
 
 **Some more 7's**  
-- 6|6771671 (to be removed ???), 6777161 (55514-like)
+- 6777161 (55514-like)
 - 774-2-744 (nice one)
 - 774-714-744 (very nice combo)
 

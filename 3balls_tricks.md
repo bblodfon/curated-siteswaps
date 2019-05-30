@@ -17,7 +17,7 @@
   - Frantic Cascade (continuous under the catches)
   - Reverse Frantic Cascade (like 5D22-MM)
 - Tennis (in,in,out)
-- Penguin Cascade
+- **Penguin Cascade**
 - Claw Cascade
   - Reverse Claw Cascade
 - Chops
@@ -53,7 +53,8 @@
 
 - [The Shapeshifter](https://www.youtube.com/watch?v=Wrbzlipw0gA)
 - [What is this mess?](https://www.youtube.com/watch?v=cUfOLJbIMQ4)
-  - 3MM var (take the Down thrown ball and carry it to the other end) - 0:26
+  - 3MM var (take the Down thrown ball and carry it to the other end, 
+sw: 3U3M3D + 3U3D - reverse cascade croos-handed on the other side) - 0:26
     - Var: 3D(and carried)3U + 4D4U1 MM (really nice!)
   - 5M31-3D3U, 5U31-3M3D - 0:52
   - 4D23-MM + 5D1-like  - 1:30 (really smooth)
