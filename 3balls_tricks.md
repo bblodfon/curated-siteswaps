@@ -1,6 +1,4 @@
-# 3 Balls tricks
-
-### Various Catch/Throw Techniques
+# Various Catch/Throw Techniques
 
 - Penguin
 - Claw
@@ -10,7 +8,7 @@
 - Pinball
 - Carry
 
-### Cascade Variations
+# Cascade Variations
 
 - Cross-arm Cascade
   - Reverse cross-arm Cascade
@@ -32,7 +30,7 @@
   - 333 (normal,rbxx,normal) - catch rbxx ball "inside" arm
 - 333 (normal, reverse/catch under the leg, throw under the leg)
 
-### 423 Variations
+# 423 Variations
 
 - 423 Tennis
 - 423 MM, FMM (Takeouts)
@@ -49,7 +47,7 @@
 - 423 (4 high throw and 3 overhead throw, catches 4)
 - 423 overheads
 
-### From noslowerDNA videos
+# From noslowerDNA videos
 
 - [The Shapeshifter](https://www.youtube.com/watch?v=Wrbzlipw0gA)
 - [What is this mess?](https://www.youtube.com/watch?v=cUfOLJbIMQ4)
@@ -60,7 +58,7 @@ sw: 3U3M3D + 3U3D - reverse cascade croos-handed on the other side) - 0:26
   - 4D23-MM + 5D1-like  - 1:30 (really smooth)
   - 5U1(sync)-3M3D (MM Var) - 2:20
 
-### Mills Mess Variations
+# Mills Mess Variations
 
 - 3M3U + 4M4U1 FMM (4 in one side, 4 in the other)
 - **Peruvian Mess**: 4D23D + 3U3M 
