@@ -33,7 +33,7 @@
 - 72312 (looking like 531 but not...)
 - 4|67011, **5|61701 (one of my favourites)**
 - **45|70701** (good exercise for 7)
-- 4|57030, 44|70350 (snake variations)
+- **44|70350** (cool snake variation)
 
 **Max Throw: 8**  
 - 4|84012, 4|81312, 4|81231
