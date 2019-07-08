@@ -1,5 +1,12 @@
 # 3 balls
 
+### One Hand
+
+- inward (most important)
+- cascade, reverse cascade, columns (play around)
+- 8040 (hi-low var)
+- 80 (4 balls in one hand!)
+
 ### Period 3
 
 - 423, 441, 531

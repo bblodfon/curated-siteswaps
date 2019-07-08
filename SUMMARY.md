@@ -11,7 +11,6 @@
   * [Mills Mess](mills_mess.md)
   * [Sync](sync.md)
   * [Multiplex](multiplex.md)
-  * [6 Balls Train](train_6.md)
   * [7 Balls Train](train_7.md)
 * [Passing](passing.md)
   * [Manipulation](manipulation.md)

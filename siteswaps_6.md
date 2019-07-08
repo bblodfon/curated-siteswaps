@@ -1,6 +1,6 @@
 # 6 balls
 
-- 6 Fountain
+- 6 Fountain (practice until failure :)
 - Half-shower: 75
 - **756**
 - 774

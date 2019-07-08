@@ -22,7 +22,7 @@
 - **63524**, 45623 (columns + 3 out)
 - 45641 (columns)
 - 5+561+3
-- 5|66161 (6 ball practice favourite)
+- 5|66161 (**6 ball practice favourite**)
 - 64613 =>(perm.) 63+641 => 63+623
 - **63551** (63501 evolution!)
 - 66251
