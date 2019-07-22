@@ -6,8 +6,9 @@
 - **2-count 9-club feed**  
 Var: Runaround (when the feeder changes - base pattern for Scramble-V)
 - **pps 9-club feed**
-- [Bruno's Nightmare](https://www.passingdb.com/patterns.php?id=49)  
-A giant juggles 3 jugglers while they do 2-count feed runaround
+- [Bruno's Nightmare (3-count version)](https://www.passingdb.com/patterns.php?id=48)  
+A giant juggles 3 jugglers (2 do 6-count, one feeds in 3-count and they change
+roles)
 
 ### 10 clubs
 - **2-count 10-club feed**  
@@ -15,6 +16,11 @@ Var: Runaround (when the feeder changes - base pattern for Ample-V)
 Feeder does a 2-count to the same person when the other juggler does the 
 runaround part. The runaround can be: 3 slow selfs, 1 double self + 2 normal 
 for example (you have to fill 5 bits of time in there :)
+
+### 11 clubs
+- **pps 10-club feed** (996 vs 2x966)  
+Feeder: pps (out,out,in,in - like in the 9-club version), starts with 5 clubs. 
+Feedes: 3-count, crossing.
 
 ## 4 jugglers
 
