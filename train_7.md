@@ -3,17 +3,15 @@
 Note: warmup with 3 and 4 ball section, put more effort and time to the 5+ 
 ball sections. Can also skip sections, e.g. start from 5 ball section!
 
-## 3 Balls
+## 3 Balls (warm up)
 
-**Warm it up!**  
 - 3-cascade: play with dwell time, high throws (722+), 3up
-- Snake: 4|55050 => 45|70701 => 45|90501
+- Snake: 4|55050
 
-## 4 Balls
+## 4 Balls (more warm up)
 
-**More warm-up, focus on 7's**  
 - 741, 714
-- Various: 1234567, 71 (shower), 5|7272712 (baby juggling)
+- 71 (shower), 5|7272712 (baby juggling), others...
 
 **Core 7s**
 - 56|7707070 (snake)
@@ -35,7 +33,6 @@ ball sections. Can also skip sections, e.g. start from 5 ball section!
 
 **Some more 7's**  
 - 6777161 (55514-like)
-- 774-2-744 (nice one)
 - 774-714-744 (very nice combo)
 
 **Breaking the 7's**  
@@ -48,10 +45,10 @@ ball sections. Can also skip sections, e.g. start from 5 ball section!
 - 77772 (four 7's)
 
 **Relax before 7**  
-- 77[22] \(552 on steroids - Antonis) => 774
-- **75, 756**
+- Half-shower: **75**
+- **756**
+- 774 (difficult)
 
 ## 7 balls
 
 - 7-cascade (until failure :)
-
