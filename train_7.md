@@ -20,23 +20,18 @@ ball sections. Can also skip sections, e.g. start from 5 ball section!
 ## 5 Balls
 
 **Stability + Core**  
-- 5-cascade, play with dwell time (high throws)
+- 5-cascade (endurance!) + play with dwell time (high throws)
 - 77722 (**3up**), 7777700 (**5up**)
 - Half shower, 5-reverse cascade
-- **744**, 753
-- **66|771**
+- **744, 66|771**
 - **5|77272** (snake - tough)
+- **645**, (6x,4)\* (for fun!)
 
-**Others (quickly to pass through)**  
+**Others + R&D (don't spend too much time)**  
+- 753, 97531 
 - Shower (91)
-- 97531 (flash both sides)
-
-**Some more 7's**  
 - 6777161 (55514-like)
 - 774-714-744 (very nice combo)
-
-**Breaking the 7's**  
-- **645**, (6x,4)\*
 
 ## 6 Balls
 
@@ -44,10 +39,9 @@ ball sections. Can also skip sections, e.g. start from 5 ball section!
 - 7777770 (six 7's)
 - 77772 (four 7's)
 
-**Relax before 7**  
+**Extra**  
 - Half-shower: **75**
 - **756**
-- 774 (difficult)
 
 ## 7 balls
 

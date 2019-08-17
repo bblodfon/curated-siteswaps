@@ -29,6 +29,7 @@
   - claw catch the bxx ball
   - 333 (normal,rbxx,normal) - catch rbxx ball "inside" arm
 - 333 (normal, reverse/catch under the leg, throw under the leg)
+- 3 (various under-leg throws+catches)
 
 # 423 Variations
 
