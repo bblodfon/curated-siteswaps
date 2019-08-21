@@ -10,11 +10,11 @@ ball sections. Can also skip sections, e.g. start from 5 ball section!
 
 ## 4 Balls (more warm up)
 
-- 741, 714
-- 71 (shower), 5|7272712 (baby juggling), others...
+- 741, 714, others...
 
 **Core 7s**
-- 56|7707070 (snake)
+- 71(shower), 5|7272712 (baby juggling)
+- 5|72722, 56|7707070 (snake)
 - 5|7770700 (3 and 1), 555|7077700 (1 and 3)
 
 ## 5 Balls

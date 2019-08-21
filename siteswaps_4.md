@@ -34,6 +34,7 @@
 - 855+11
 
 **With a 7 :)**  
+- 5|72722 (552 extension to almost snake :)
 - 5|74162 (6 as out column), 74612
 - **75251** (async => sync => async => ...)
 - 73451 (4 as out column, 12345 on steroids)
