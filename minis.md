@@ -1,4 +1,6 @@
-# Minis (mostly side-by-side passing)
+# Minis
+
+Side-by-side + clubs only (for now)
 
 ## 4 clubs
 - 42p11p  

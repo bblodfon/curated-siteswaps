@@ -17,4 +17,3 @@
   * [2 jugglers](2person_passing.md)
   * [3+ jugglers](3person_plus_passing.md)
   * [Minis](minis.md)
-  * [Workshops](passing_workshops.md)
