@@ -1,7 +1,8 @@
 # 7 Balls training program
 
 Note: warmup with 3 and 4 ball section, put more effort and time to the 5+ 
-ball sections. Can also skip sections, e.g. start from 5 ball section!
+ball sections. 
+You can also skip sections or mix them, e.g. start from 5 ball section, etc.!
 
 ## 3 Balls (warm up)
 
