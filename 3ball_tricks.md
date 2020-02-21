@@ -107,3 +107,10 @@
 - [Inverted Box](http://www.libraryofjuggling.com/Tricks/3balltricks/InvertedBox.html)
 - [Full-switched Box](https://www.youtube.com/watch?v=_wFKUqT1fnw)!!! - 2 versions
 
+# Slams
+
+- [Shuffle](http://www.libraryofjuggling.com/Tricks/3balltricks/Shuffle.html) - shower with slams!
+- [Boston Shuffle](http://www.libraryofjuggling.com/Tricks/3balltricks/BostonShuffle.html)
+  - [Burke's Slam](http://www.libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html) - with takeouts!
+  - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
+
