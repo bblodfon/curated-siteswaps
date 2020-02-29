@@ -59,8 +59,10 @@
   - 4D23-MM + 5D1-like ([really smooth](https://youtu.be/cUfOLJbIMQ4?t=90))
   - [5U1(sync)-3M3D (MM Var)](https://youtu.be/cUfOLJbIMQ4?t=141)
 
-# Mills Mess Variations
+# Mills Mess (MM) Variations
 
+- MM shower: 441+3M3D
+- Penguin MM
 - 3M3U + 4M4U1 FMM (4 in one side, 4 in the other)
 - **Peruvian Mess**: 4D23D + 3U3M 
 
@@ -104,7 +106,7 @@
 - [Karas's Box](http://www.libraryofjuggling.com/Tricks/3balltricks/Karas'Box.html) - 2 x (2x)!
 
 **TODO**:  
-- [Inverted Box](http://www.libraryofjuggling.com/Tricks/3balltricks/InvertedBox.html)
+- [Inverted/Upside-Down Box](http://www.libraryofjuggling.com/Tricks/3balltricks/InvertedBox.html)
 - [Full-switched Box](https://www.youtube.com/watch?v=_wFKUqT1fnw)!!! - 2 versions
 
 # Slams
@@ -114,3 +116,7 @@
   - [Burke's Slam](http://www.libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html) - with takeouts!
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
 
+# Others
+
+- 52512 (first 5 smaller than second, 51 synced, catch the 1 with a penguin)
+- 23[43]423 ([43] as a 'traffic light' - all in a line, same colored balls)
