@@ -36,7 +36,7 @@ D(down)
 - 4516131
 
 ---
-**Research**  
+**Research**
 - 4512+531
 - 5241+531
 - 5261313
@@ -52,6 +52,13 @@ D(down)
 - 531441423
 - 52413|53142|34512 (U,D,M)
 
+### Mills Mess Tricks
+
+- MM shower: 441+3M3D
+- Penguin MM
+- 3M3U + 4M4U1 FMM (4 in one side, 4 in the other)
+- **Peruvian Mess**: 4D23D + 3U3M
+
 # 4 balls
 
 - 4 (MM,**???FMM,RMM,Boston Mess???**)
@@ -63,7 +70,7 @@ D(down)
 - 46451 ???
 
 ---
-**Research**  
+**Research**
 - 45623
 - 45641
 - 63524
