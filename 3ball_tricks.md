@@ -40,7 +40,7 @@
 - 423 claw (everything!)
 - 423 penguin variation (4 or 2 as penguin catches)
 - 423 bxx (4 or 3 as bxx)
-- 423 **follow variation**: active 2 that circles the 3, claw throw the 4
+- 423 **follow variation**: active 2 that circles the 3 (carry around), claw throw the 4
   - 423(follow var) + 3(carry)3 - [Relf's Factory](http://www.libraryofjuggling.com/Tricks/3balltricks/Relf'sFactory.html)!
 - 423 **tornado**: 2 active in infinity motion
 - [423 Weave (S)](http://www.libraryofjuggling.com/Tricks/3balltricks/Weave.html)
@@ -49,30 +49,6 @@
 - 423 (4 high throw and 3 overhead throw, catches 4)
 - 423 overheads
 
-# From [noslowerdna videos](https://www.youtube.com/user/noslowerdna)
-
-- [The Shapeshifter](https://www.youtube.com/watch?v=Wrbzlipw0gA)
-- [What is this mess?](https://www.youtube.com/watch?v=cUfOLJbIMQ4)
-  - 3MM var (take the *Down* thrown ball and carry it to the other end)
-    - Var: 3D(and carried)3U + 4D4U1 MM (really nice!)
-  - [5M31-3D3U](https://youtu.be/cUfOLJbIMQ4?t=52), 5U31-3M3D
-  - 4D23-MM + 5D1-like ([really smooth](https://youtu.be/cUfOLJbIMQ4?t=90))
-  - [5U1(sync)-3M3D (MM Var)](https://youtu.be/cUfOLJbIMQ4?t=141)
-
-# Mills Mess (MM) Variations
-
-- MM shower: 441+3M3D
-- Penguin MM
-- 3M3U + 4M4U1 FMM (4 in one side, 4 in the other)
-- **Peruvian Mess**: 4D23D + 3U3M 
-
-# Rubinstein's Revenge
-
-- Rubinstein's Revenge (522-33)
-- Romeo's Revenge
-- [Relf's Rubensteins](http://www.libraryofjuggling.com/Tricks/3balltricks/Relf'sRubensteins.html) (combo of Romeo's + Rubi's)
-- Extended Rubistein (Rubi + kraken!)
-
 # Columns + Factory
 
 - 1up2up
@@ -80,7 +56,7 @@
 - Infinity Columns, Reverse Infinity Columns
 - Boxy-Columns
 - Tennis-Columns
-- Fake Columns                                                                  
+- Fake Columns
   - Yo-Yo (+many variations on this)
 - Factory (Symmetric version, 3-count)
 - Pendulum-Drop (Factory in 2-count, normal vs pendulum version)
@@ -105,18 +81,21 @@
 - [Bizarre Box](http://www.libraryofjuggling.com/Tricks/3balltricks/BizarreBox.html) - fake 2x, bring it back!
 - [Karas's Box](http://www.libraryofjuggling.com/Tricks/3balltricks/Karas'Box.html) - 2 x (2x)!
 
-**TODO**:  
+**TODO**:
 - [Inverted/Upside-Down Box](http://www.libraryofjuggling.com/Tricks/3balltricks/InvertedBox.html)
 - [Full-switched Box](https://www.youtube.com/watch?v=_wFKUqT1fnw)!!! - 2 versions
 
-# Slams
+# Others
 
 - [Shuffle](http://www.libraryofjuggling.com/Tricks/3balltricks/Shuffle.html) - shower with slams!
 - [Boston Shuffle](http://www.libraryofjuggling.com/Tricks/3balltricks/BostonShuffle.html)
   - [Burke's Slam](http://www.libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html) - with takeouts!
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
-
-# Others
-
-- 52512 (first 5 smaller than second, 51 synced, catch the 1 with a penguin)
+- [The Shapeshifter](https://www.youtube.com/watch?v=Wrbzlipw0gA)
+- **52512-Var** (first 5 smaller than second, 51 synced, catch the 1 with a penguin)
 - 23[43]423 ([43] as a 'traffic light' - all in a line, same colored balls)
+- Rubinstein's Revenge (522-33)
+  - Romeo's Revenge
+  - [Relf's Rubensteins](http://www.libraryofjuggling.com/Tricks/3balltricks/Relf'sRubensteins.html) (combo of Romeo's + Rubi's)
+  - Extended Rubistein (Rubi + kraken!)
+

@@ -34,18 +34,8 @@ D(down)
 - 4612413
 - 5314413 ???
 - 4516131
-
----
-**Research**
-- 4512+531
-- 5241+531
-- 5261313
-- 6251403
-- 6231+531
-- 6312+531
-- 6315141
-- 6316131 (Andreas)
-- 6415041 (4615140 permutation)
+- 4512+531 ???
+- 5241+531 ???
 
 ### Others
 
@@ -54,10 +44,30 @@ D(down)
 
 ### Mills Mess Tricks
 
+- Windmill, Reverse Windmill
+- Half-Mess (2 in each side, 3M3D3U + 3reverse)
+  - **Claw Half-Mess**
+- Boston Mess (2 directions)
+  - **[Cherry Picker](http://www.libraryofjuggling.com/Tricks/3balltricks/CherryPicker.html)** - a claw half Boston Mess
 - MM shower: 441+3M3D
-- Penguin MM
-- 3M3U + 4M4U1 FMM (4 in one side, 4 in the other)
+- **Penguin MM**
+- FMM with *wrist-drop* on parallel with the middle throw
+- 3M3U + 4M4U1 FMM (4 in each side)
 - **Peruvian Mess**: 4D23D + 3U3M
+- [Frostbite](https://youtu.be/UpTUpHQlMas)
+- [Orka's Mess](https://youtu.be/Iv4U7EHWMKc) - (4,4)(4x,0)(2,4)\*
+- [Reach over](https://youtu.be/qRvepXfoyZ0?t=183)
+- [Reach-under](https://youtu.be/qRvepXfoyZ0?t=263)
+- **Mess Sync Var**: (6U,4D)(0,2x)(4D,2)\* (color-coded)
+- [Kraken](https://youtu.be/K8rw8gxM2CA)
+  - Var: Takeout (on the medium ball)
+  - Var: Orbit (carry around)
+  - Staken
+- 3MM var (take the *Down* thrown ball and carry it to the other end)
+    - Var: 3D(and carried)3U + 4D4U1 MM (really nice!)
+- [Shuffle Mess](https://youtu.be/cUfOLJbIMQ4?t=52) (5M31-3D3U + claw the 3's)
+  - 4D23-MM + 5D1-like ([really smooth](https://youtu.be/cUfOLJbIMQ4?t=90))
+  - [5U1(sync)-3M3D (MM Var)](https://youtu.be/cUfOLJbIMQ4?t=141)
 
 # 4 balls
 
@@ -68,14 +78,10 @@ D(down)
 - 5|561 (D)
 - 55514 ???
 - 46451 ???
-
----
-**Research**
-- 45623
-- 45641
-- 63524
-- 62551
-- 5561524
+- 45623 ???
+- 45641 ???
+- 63524 ???
+- 5561524 ???
 
 # 5 balls
 
