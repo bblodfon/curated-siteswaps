@@ -11,3 +11,10 @@ me best) and other miscellaneous stuff.
 > *Push forward and hard*                                                       
                                                                                 
 John
+
+---
+
+- **Update 2020**: After 10 years of Juggling, I understood this: it's all about the *form*, siteswaps especially.
+Also, **solidity of a siteswap/pattern** seems to hold a different meaning for each person but given 2 jugglers with different *solidity* everybody agrees to who is more solid!
+Lastly, 7 still is too much (balls) and I really don't find numbers above 7 worth pursuing anymore in siteswaps (form gets loose and unasthetic).
+Found more meaning in 3 and 4 ball tricks, using imagination and of course club juggling that epitomizes that.
