@@ -17,6 +17,7 @@
 - **Penguin Cascade**
 - Claw Cascade
   - Reverse Claw Cascade
+  - (4x,2)\* with 2 as active claws!
 - Chops
   - Reverse Chops
 - 3-MM (MM => Mills Mess)
@@ -30,6 +31,8 @@
 - 333 (normal, reverse/catch under the leg, throw under the leg)
 - 3 (various under-the-leg throws+catches)
 - 3-Factory (normal,normal,carry)
+- 3 continuous under-the-arm throw (Mike's Mess - 5D22)
+  - Var: 5D2wd2 (wd = wrist-drop)
 
 # 423 Variations
 
@@ -91,11 +94,18 @@
 - [Boston Shuffle](http://www.libraryofjuggling.com/Tricks/3balltricks/BostonShuffle.html)
   - [Burke's Slam](http://www.libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html) - with takeouts!
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
+- Georgian Shuffle
 - [The Shapeshifter](https://www.youtube.com/watch?v=Wrbzlipw0gA)
-- **52512-Var** (first 5 smaller than second, 51 synced, catch the 1 with a penguin)
+- **The confused Penguin** - a 52512-like variation where the first 5 is smaller than second, 51 feels like synced and you catch the 1 with a penguin-catch
 - 23[43]423 ([43] as a 'traffic light' - all in a line, same colored balls)
 - Rubinstein's Revenge (522-33)
   - Romeo's Revenge
   - [Relf's Rubensteins](http://www.libraryofjuggling.com/Tricks/3balltricks/Relf'sRubensteins.html) (combo of Romeo's + Rubi's)
   - Extended Rubistein (Rubi + kraken!)
+- [Georgian Shuffle (Symmetric)](https://youtu.be/HgiMI46j0WY?t=307)
+  - [Georgian Scuffle (Symmetric)](https://youtu.be/HgiMI46j0WY?t=491) - G.Shuffle + a little bit of kraken
+- 531, 53142, 52413 *overheads*
+- 53pen1, **4pen41** (*pen* = penguin-catch th previous throw)
+- Penguin-box (penguin catch the *side* balls!)
+- [Statue of Liberty](http://www.libraryofjuggling.com/Tricks/3balltricks/StatueofLiberty.html)
 

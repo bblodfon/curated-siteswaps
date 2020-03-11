@@ -13,10 +13,10 @@ D(down)
 ### Period 3
 
 - 3 (MM,RMM,FMM,RFMM)
-- 423, 441, 531 (MM,FMM)
+- 423, 441 (MM,FMM) 
+- 531 (MM), 5U3D1 (FMM)
 - 51
-- 522 (D - Mike's Mess), 450 (D - Luke's Lobotomy)
-- 450 (U - in FMM)
+- 4M-5D-0
 
 ### Period 5
 
