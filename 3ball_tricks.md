@@ -32,7 +32,7 @@
 - 3 (various under-the-leg throws+catches)
 - 3-Factory (normal,normal,carry)
 - 3 continuous under-the-arm throw (Mike's Mess - 5D22)
-  - Var: 5D2wd2 (wd = wrist-drop)
+  - Var: 52{wd}2 (wd = wrist-drop)
 
 # 423 Variations
 
@@ -86,7 +86,6 @@
 
 **TODO**:
 - [Inverted/Upside-Down Box](http://www.libraryofjuggling.com/Tricks/3balltricks/InvertedBox.html)
-- [Full-switched Box](https://www.youtube.com/watch?v=_wFKUqT1fnw)!!! - 2 versions
 
 # Others
 
@@ -105,7 +104,8 @@
 - [Georgian Shuffle (Symmetric)](https://youtu.be/HgiMI46j0WY?t=307)
   - [Georgian Scuffle (Symmetric)](https://youtu.be/HgiMI46j0WY?t=491) - G.Shuffle + a little bit of kraken
 - 531, 53142, 52413 *overheads*
-- 53pen1, **4pen41** (*pen* = penguin-catch th previous throw)
+- 53pen1, **4pen41** (*pen* = penguin-catch the previous throw)
 - Penguin-box (penguin catch the *side* balls!)
 - [Statue of Liberty](http://www.libraryofjuggling.com/Tricks/3balltricks/StatueofLiberty.html)
+- **2-sides 51**: normal throw + underhand throw
 

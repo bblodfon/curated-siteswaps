@@ -6,40 +6,41 @@ D(down)
 
 # 2 balls
 
-- 312 (MM,FMM)
+- 312 (3xMM with active 2)
+  - 2 Var: wrist-up (MM, 3D), wrist-down (FMM, 3U)
 
 # 3 balls
 
 ### Period 3
 
 - 3 (MM,RMM,FMM,RFMM)
-- 423, 441 (MM,FMM) 
+- 423, 441 (MM,FMM)
 - 531 (MM), 5U3D1 (FMM)
-- 51
+- 51 (both hands!)
 - 4M-5D-0
 
 ### Period 5
 
 - 44403 (preparing for 4MM)
 - 45141
-- 52512 (baby juggling, the baby cries)
-- **53142, 34512, 52413** (magic sequence)
-- **53403**
+- 52512 (baby juggling, the baby cries!)
+- **53142, 34512, 52413** (magic sequences)
+- **53403** (nice!)
 - 63141, 46131, 46401
 - **62313**
 
 ### Period 7
 
-- 4615140
-- 4612413
-- 5314413 ???
-- 4516131
 - 4512+531 ???
 - 5241+531 ???
+- 5314413 ???
+- 4615140
+- 4612413
+- 4516131
 
 ### Others
 
-- 531441423
+- 531-441-423
 - 52413|53142|34512 (U,D,M)
 
 ### Mills Mess Tricks
