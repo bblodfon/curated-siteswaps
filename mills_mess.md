@@ -6,7 +6,7 @@ D(down)
 
 # 2 balls
 
-- 312 (3xMM with active 2)
+- [312 (3xMM with active 2)](https://www.instagram.com/tv/B9_3dENA-_b)
   - 2 Var: wrist-up (MM, 3D), wrist-down (FMM, 3U)
 
 # 3 balls
@@ -23,8 +23,8 @@ D(down)
 
 - 44403 (preparing for 4MM)
 - 45141
-- 52512 (baby juggling, the baby cries!)
-- **53142, 34512, 52413** (magic sequences)
+- [52512](https://www.instagram.com/tv/B-KpToKg5x_) (baby juggling, the baby cries!)
+- [53142](https://www.instagram.com/tv/B-KpToKg5x_), [34512, 52413](https://www.instagram.com/tv/B-CcpDEA4pH) (magic sequences)
 - **53403** (nice!)
 - 63141, 46131, 46401
 - **62313**
@@ -57,7 +57,7 @@ D(down)
 - **Peruvian Mess**: 4D23D + 3U3M
 - [Frostbite](https://youtu.be/UpTUpHQlMas)
 - [Orka's Mess](https://youtu.be/Iv4U7EHWMKc) - (4,4)(4x,0)(2,4)\*
-- [Reach over](https://youtu.be/qRvepXfoyZ0?t=183)
+- [Reach-over](https://youtu.be/qRvepXfoyZ0?t=183)
 - [Reach-under](https://youtu.be/qRvepXfoyZ0?t=263)
 - **Mess Sync Var**: (6U,4D)(0,2x)(4D,2)\* (color-coded)
 - [Kraken](https://youtu.be/K8rw8gxM2CA)

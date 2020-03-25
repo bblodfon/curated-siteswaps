@@ -95,7 +95,7 @@
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
 - Georgian Shuffle
 - [The Shapeshifter](https://www.youtube.com/watch?v=Wrbzlipw0gA)
-- **The confused Penguin** - a 52512-like variation where the first 5 is smaller than second, 51 feels like synced and you catch the 1 with a penguin-catch
+- [The confused Penguin](https://www.instagram.com/tv/B-FFADRAcWn/) - a 52530 variation where the first 5 is smaller than second, 53 feels like synced and you catch the 3 with a penguin-catch
 - 23[43]423 ([43] as a 'traffic light' - all in a line, same colored balls)
 - Rubinstein's Revenge (522-33)
   - Romeo's Revenge
