@@ -29,20 +29,16 @@ D(down)
 - 63141, 46131, 46401
 - **62313**
 
-### Period 7
+### Other siteswaps
 
-- 4512+531 ???
-- 5241+531 ???
-- 5314413 ???
-- 4615140
-- 4612413
-- 4516131
+- 531+441+423 (D)
+- 531+441+3
+- 5241+531
+- 4615140 ???
+- 4612413 ???
+- 4516131 ???
 
-### Others
-
-- 5D31-4D41-4D23
-
-### Mills Mess Tricks
+### Tricks
 
 - Windmill, Reverse Windmill
 - Half-Mess (2 in each side, 3M3D3U + 3reverse)
