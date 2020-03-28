@@ -16,13 +16,13 @@ D(down)
 - 3 (MM,RMM,FMM,RFMM)
 - 423, 441 (MM,FMM)
 - 531 (MM), 5U3D1 (FMM)
-- 51 (both hands!)
+- [51 + Var](https://www.instagram.com/p/B-Nakt2ACDU)
 - 4M-5D-0
 
 ### Period 5
 
 - 44403 (preparing for 4MM)
-- 45141
+- [45141](https://www.instagram.com/tv/B-Nakt2ACDU)
 - [52512](https://www.instagram.com/tv/B-KpToKg5x_) (baby juggling, the baby cries!)
 - [53142](https://www.instagram.com/tv/B-KpToKg5x_), [34512, 52413](https://www.instagram.com/tv/B-CcpDEA4pH) (magic sequences)
 - **53403** (nice!)
@@ -40,8 +40,7 @@ D(down)
 
 ### Others
 
-- 531-441-423
-- 52413|53142|34512 (U,D,M)
+- 5D31-4D41-4D23
 
 ### Mills Mess Tricks
 
@@ -51,7 +50,7 @@ D(down)
 - Boston Mess (2 directions)
   - **[Cherry Picker](http://www.libraryofjuggling.com/Tricks/3balltricks/CherryPicker.html)** - a claw half Boston Mess
 - MM shower: 441+3M3D
-- **Penguin MM**
+- [Penguin MM](https://www.instagram.com/tv/B-PblMDAD9A)
 - FMM with *wrist-drop* on parallel with the middle throw
 - 3M3U + 4M4U1 FMM (4 in each side)
 - **Peruvian Mess**: 4D23D + 3U3M
@@ -59,6 +58,7 @@ D(down)
 - [Orka's Mess](https://youtu.be/Iv4U7EHWMKc) - (4,4)(4x,0)(2,4)\*
 - [Reach-over](https://youtu.be/qRvepXfoyZ0?t=183)
 - [Reach-under](https://youtu.be/qRvepXfoyZ0?t=263)
+  - [Reach-under-penguin-catch](https://www.instagram.com/tv/B-PblMDAD9A)
 - **Mess Sync Var**: (6U,4D)(0,2x)(4D,2)\* (color-coded)
 - [Kraken](https://youtu.be/K8rw8gxM2CA)
   - Var: Takeout (on the medium ball)

@@ -83,6 +83,7 @@
 - [Threaded Box](http://www.libraryofjuggling.com/Tricks/3balltricks/ThreadedBox.html) - continuous under the arm catches
 - [Bizarre Box](http://www.libraryofjuggling.com/Tricks/3balltricks/BizarreBox.html) - fake 2x, bring it back!
 - [Karas's Box](http://www.libraryofjuggling.com/Tricks/3balltricks/Karas'Box.html) - 2 x (2x)!
+- [Penguin Box](https://www.instagram.com/p/B-PblMDAD9A)
 
 **TODO**:
 - [Inverted/Upside-Down Box](http://www.libraryofjuggling.com/Tricks/3balltricks/InvertedBox.html)
@@ -104,8 +105,6 @@
 - [Georgian Shuffle (Symmetric)](https://youtu.be/HgiMI46j0WY?t=307)
   - [Georgian Scuffle (Symmetric)](https://youtu.be/HgiMI46j0WY?t=491) - G.Shuffle + a little bit of kraken
 - 531, 53142, 52413 *overheads*
-- 53pen1, **4pen41** (*pen* = penguin-catch the previous throw)
-- Penguin-box (penguin catch the *side* balls!)
+- 53pen1, [4pen41](https://www.instagram.com/p/B-PblMDAD9A) (*pen* = penguin-catch that throw)
 - [Statue of Liberty](http://www.libraryofjuggling.com/Tricks/3balltricks/StatueofLiberty.html)
-- **2-sides 51**: normal throw + underhand throw
 
