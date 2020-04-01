@@ -13,30 +13,26 @@ D(down)
 
 ### Period 3
 
-- 3 (MM,RMM,FMM,RFMM)
-- 423, 441 (MM,FMM)
+- [3 (MM,RMM,FMM,RFMM)](https://www.instagram.com/tv/B-ZqO9VgbhW)
+- [423](https://www.instagram.com/tv/B-cRXzog5pQ), 441 (MM,FMM)
 - 531 (MM), 5U3D1 (FMM)
 - [51 + Var](https://www.instagram.com/p/B-Nakt2ACDU)
 - 4M-5D-0
 
 ### Period 5
 
-- 44403 (preparing for 4MM)
+- [44403](https://www.instagram.com/tv/B-UaOtPAvYN) (preparing for 4MM)
 - [45141](https://www.instagram.com/tv/B-Nakt2ACDU)
 - [52512](https://www.instagram.com/tv/B-KpToKg5x_) (baby juggling, the baby cries!)
 - [53142](https://www.instagram.com/tv/B-KpToKg5x_), [34512, 52413](https://www.instagram.com/tv/B-CcpDEA4pH) (magic sequences)
-- **53403** (nice!)
-- 63141, 46131, 46401
-- **62313**
+- [53403](https://www.instagram.com/tv/B-UaOtPAvYN) (nice!)
+- 63141, 46131, 46401, **62313**
 
 ### Other siteswaps
 
 - 531+441+423 (D)
 - 531+441+3
 - 5241+531
-- 4615140 ???
-- 4612413 ???
-- 4516131 ???
 
 ### Tricks
 
@@ -70,7 +66,7 @@ D(down)
 
 - 4 (MM,**???FMM,RMM,Boston Mess???**)
 - 534, 522, 642
-- **534552642 (D)**
+- **534+552+642 (D)**
 - **53444 ???**
 - 5|561 (D)
 - 55514 ???
