@@ -30,9 +30,9 @@ D(down)
 
 ### Other siteswaps
 
-- 531+441+423 (D)
-- 531+441+3
-- 5241+531 (favourite!!!)
+- [531+441+423 (D)](https://www.instagram.com/tv/B-ibBaagZ_R/)
+- [531+441+3](https://www.instagram.com/tv/B-ibBaagZ_R/)
+- [5241+531](https://www.instagram.com/tv/B-ibBaagZ_R/) (favourite!!!)
 
 ### Tricks
 
@@ -40,7 +40,7 @@ D(down)
 - Half-Mess (2 in each side, 3M3D3U + 3reverse)
   - **Claw Half-Mess**
 - Boston Mess (2 directions)
-  - **[Cherry Picker](http://www.libraryofjuggling.com/Tricks/3balltricks/CherryPicker.html)** - a claw half Boston Mess
+  - [Cherry Picker](http://www.libraryofjuggling.com/Tricks/3balltricks/CherryPicker.html) - a claw half Boston Mess
 - MM shower: 441+3M3D
 - [Penguin MM](https://www.instagram.com/tv/B-PblMDAD9A/)
 - FMM with *wrist-drop* on parallel with the middle throw
@@ -64,8 +64,10 @@ D(down)
 
 # 4 balls
 
-- 4 (MM,**???FMM,RMM,Boston Mess???**)
-- 534, 522, 642
+- 4MM, 4FMM
+- 4 Ball Boston Mess
+- 534, 552, 642
+- 534-FMM, 552-FMM
 - **534+552+642 (D)**
 - **53444 ???**
 - 5|561 (D)

@@ -51,6 +51,7 @@
 - 423 with 2 active drop, *catch under the leg* (nice)
 - 423 (4 high throw and 3 overhead throw, catches 4)
 - 423 overheads
+- 423 with 4 as a pinball!
 
 # Columns + Factory
 
@@ -83,10 +84,7 @@
 - [Threaded Box](http://www.libraryofjuggling.com/Tricks/3balltricks/ThreadedBox.html) - continuous under the arm catches
 - [Bizarre Box](http://www.libraryofjuggling.com/Tricks/3balltricks/BizarreBox.html) - fake 2x, bring it back!
 - [Karas's Box](http://www.libraryofjuggling.com/Tricks/3balltricks/Karas'Box.html) - 2 x (2x)!
-- [Penguin Box](https://www.instagram.com/p/B-PblMDAD9A)
-
-**TODO**:
-- [Inverted/Upside-Down Box](http://www.libraryofjuggling.com/Tricks/3balltricks/InvertedBox.html)
+- [Penguin Box](https://www.instagram.com/tv/B-PblMDAD9A)
 
 # Others
 
@@ -107,4 +105,8 @@
 - 531, 53142, 52413 *overheads*
 - 53pen1, [4pen41](https://www.instagram.com/p/B-PblMDAD9A) (*pen* = penguin-catch that throw)
 - [Statue of Liberty](http://www.libraryofjuggling.com/Tricks/3balltricks/StatueofLiberty.html)
-
+- [Hector's bisector](https://www.youtube.com/watch?v=BQC9Q2wKPsA)
+  - [One-side bisector](https://youtu.be/BQC9Q2wKPsA?t=230)
+  - [Twice per side bisector](https://youtu.be/BQC9Q2wKPsA?t=241)
+  - [Hold-up the bisector](https://youtu.be/BQC9Q2wKPsA?t=334)
+  - [Taffy Puller](https://youtu.be/BQC9Q2wKPsA?t=299)
