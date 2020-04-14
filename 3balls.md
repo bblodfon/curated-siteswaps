@@ -110,5 +110,5 @@
   - [One-side bisector](https://youtu.be/BQC9Q2wKPsA?t=230)
   - [Twice per side bisector](https://youtu.be/BQC9Q2wKPsA?t=241)
   - [Taffy Puller](https://youtu.be/BQC9Q2wKPsA?t=299)
-  - [Bursty Bisector](https://youtu.be/QyQ9pNvy4bY?t=24)
+  - [Bursty Bisector/Parenthetical Perplexion](https://youtu.be/QyQ9pNvy4bY?t=24)
 
