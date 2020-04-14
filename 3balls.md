@@ -95,6 +95,7 @@
 - Georgian Shuffle
 - [The Shapeshifter](https://www.youtube.com/watch?v=Wrbzlipw0gA)
 - [The confused Penguin](https://www.instagram.com/tv/B-FFADRAcWn/) - a 52530 variation where the first 5 is smaller than second, 53 feels like synced and you catch the 3 with a penguin-catch
+- [Hi there!](https://www.instagram.com/tv/B-9bbRbgvHc/) - a 52530 variation where you catch the 3 with a horizontal claw-catch + other tricks based on that catch
 - 23[43]423 ([43] as a 'traffic light' - all in a line, same colored balls)
 - Rubinstein's Revenge (522-33)
   - Romeo's Revenge
@@ -108,5 +109,6 @@
 - [Hector's bisector](https://www.youtube.com/watch?v=BQC9Q2wKPsA)
   - [One-side bisector](https://youtu.be/BQC9Q2wKPsA?t=230)
   - [Twice per side bisector](https://youtu.be/BQC9Q2wKPsA?t=241)
-  - [Hold-up the bisector](https://youtu.be/BQC9Q2wKPsA?t=334)
   - [Taffy Puller](https://youtu.be/BQC9Q2wKPsA?t=299)
+  - [Bursty Bisector](https://youtu.be/QyQ9pNvy4bY?t=24)
+
