@@ -65,6 +65,7 @@ D(down)
 # 4 balls
 
 - 4MM, 4FMM
+- 4 Windmill, 4 Reverse Windmill
 - 4 Ball Boston Mess
 - 534, 552, 642
 - 534-FMM, 552-FMM
