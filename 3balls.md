@@ -114,4 +114,5 @@
   - [Twice per side bisector](https://youtu.be/BQC9Q2wKPsA?t=241)
   - [Taffy Puller](https://youtu.be/BQC9Q2wKPsA?t=299)
   - [Bursty Bisector/Parenthetical Perplexion](https://youtu.be/QyQ9pNvy4bY?t=24)
+  - [Burke's Bender](https://www.instagram.com/p/B_TmCCQgUVs/) - a 423 bisector variation
 
