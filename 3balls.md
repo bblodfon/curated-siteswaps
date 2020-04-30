@@ -14,6 +14,7 @@
   - Reverse Cross-arm Cascade
   - Frantic Cascade (continuous under the catches)
 - Tennis (in,in,out)
+  - [2-colorable Tennis Variations](https://www.instagram.com/p/B_mNs8_g81n/)
 - **Penguin Cascade**
 - Claw Cascade
   - Reverse Claw Cascade
@@ -92,11 +93,7 @@
 - [Boston Shuffle](http://www.libraryofjuggling.com/Tricks/3balltricks/BostonShuffle.html)
   - [Burke's Slam](http://www.libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html) - with takeouts!
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
-- Georgian Shuffle
-- [The Shapeshifter](https://www.youtube.com/watch?v=Wrbzlipw0gA)
-- 4413 - color-coded: ball that does the 0013!
-  - [441+33](https://www.instagram.com/p/B_N0FyTA2qx/) *shapeshift* the 2nd 4 (33 is done with the same hand)
-- [441 reverse + burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
+- [441 reverse + Burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
 - [The confused Penguin](https://www.instagram.com/tv/B-FFADRAcWn/) - a 52530 variation where the first 5 is smaller than second, 53 feels like synced and you catch the 3 with a penguin-catch
 - [Hi there!](https://www.instagram.com/tv/B-9bbRbgvHc/) - a 52530 variation where you catch the 3 with a horizontal claw-catch + other tricks based on that catch
 - 23[43]423 ([43] as a 'traffic light' - all in a line, same colored balls)
@@ -115,4 +112,8 @@
   - [Taffy Puller](https://youtu.be/BQC9Q2wKPsA?t=299)
   - [Bursty Bisector/Parenthetical Perplexion](https://youtu.be/QyQ9pNvy4bY?t=24)
   - [Burke's Bender](https://www.instagram.com/p/B_TmCCQgUVs/) - a 423 bisector variation
-
+- [The Shapeshifter](https://www.youtube.com/watch?v=Wrbzlipw0gA)
+  - [2 balls shapeshift exercise](https://www.instagram.com/p/B_nbUe1gYBf/)
+  - [441+33](https://www.instagram.com/p/B_N0FyTA2qx/) *shapeshift* the 2nd 4 (33 is done with the same hand)
+  - [451 + 2x441(out) + shapeshift!](https://youtu.be/svtqDpN6i78?t=25)
+  - [Burst box + shapeshift](https://youtu.be/svtqDpN6i78?t=46) - 2-colorable!
