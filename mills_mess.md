@@ -58,9 +58,13 @@ D(down)
   - Staken
 - 5-beat MM var (take the *Down* thrown ball and carry it to the other end)
     - Var: 3D(and carried)3U + 4D4U1 MM ([really nice](https://youtu.be/QyQ9pNvy4bY?t=95))
-- [Shuffle Mess](https://youtu.be/cUfOLJbIMQ4?t=52) (5M31-3D3U + claw the 3's)
-  - 4D23-MM + 5D1-like ([really smooth](https://youtu.be/cUfOLJbIMQ4?t=90))
-  - [5U1(sync)-3M3D (MM Var)](https://youtu.be/cUfOLJbIMQ4?t=141)
+- NoSlowerDNA messes!
+  - [Shuffle Mess](https://youtu.be/cUfOLJbIMQ4?t=52) (5M31-3D3U + claw the 3's)
+  - 4D23-MM + 5D1-like ([really smooth](https://youtu.be/cUfOLJbIMQ4?t=90)) - 2-colorable!
+  - [(4x{U},2x)-3M3D (MM Var)](https://youtu.be/cUfOLJbIMQ4?t=141) - 2-colorable (the 4x{U} is the one-color ball, the 3D becomes the 3M)
+  - [Monkey Mess Variation](https://www.instagram.com/p/Bccc2KRAt9w/)
+  - [Monkey Mess - 44133](https://youtu.be/zJNVgO7RT10?t=29)
+  - [Moose Mess - 4413441](https://youtu.be/zJNVgO7RT10?t=16)
 
 # 4 balls
 
@@ -82,3 +86,4 @@ D(down)
 # 5 balls
 
 - 5 MM is enough :)
+

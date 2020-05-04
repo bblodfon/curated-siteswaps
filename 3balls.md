@@ -89,12 +89,15 @@
 
 # Others
 
-- [Shuffle](http://www.libraryofjuggling.com/Tricks/3balltricks/Shuffle.html) - shower with slams!
 - [Boston Shuffle](http://www.libraryofjuggling.com/Tricks/3balltricks/BostonShuffle.html)
+  - [Shuffle](http://www.libraryofjuggling.com/Tricks/3balltricks/Shuffle.html) - shower with slams!
   - [Burke's Slam](http://www.libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html) - with takeouts!
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
-- [441 reverse + Burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
-- [The confused Penguin](https://www.instagram.com/tv/B-FFADRAcWn/) - a 52530 variation where the first 5 is smaller than second, 53 feels like synced and you catch the 3 with a penguin-catch
+  - [Boston Shuffle + Bisector/Shapeshifter](https://www.instagram.com/tv/B_s_40TgB1f/)
+- 441/45141 Variations
+  - [441 reverse + Burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
+  - 45141, with 5 as an under-the-arm catch - 2-colorable!
+  - [45141](https://youtu.be/svtqDpN6i78?t=361), with 5 as an over-the-arm catch - 2-colorable!
 - [Hi there!](https://www.instagram.com/tv/B-9bbRbgvHc/) - a 52530 variation where you catch the 3 with a horizontal claw-catch + other tricks based on that catch
 - 23[43]423 ([43] as a 'traffic light' - all in a line, same colored balls)
 - Rubinstein's Revenge (522+33)
@@ -104,7 +107,10 @@
 - [Georgian Shuffle (Symmetric)](https://youtu.be/HgiMI46j0WY?t=307)
   - [Georgian Scuffle (Symmetric)](https://youtu.be/HgiMI46j0WY?t=491) - G.Shuffle + a little bit of kraken
 - 531, 53142, 52413 *overheads*
-- 53pen1, [4pen41](https://www.instagram.com/p/B-PblMDAD9A) (*pen* = penguin-catch that throw)
+- Penguin Tricks
+  - [The confused Penguin](https://www.instagram.com/tv/B-FFADRAcWn/) - a 52530 variation where the first 5 is smaller than second, 53 feels like synced and you catch the 3 with a penguin-catch
+  - [4pen41](https://www.instagram.com/p/B-PblMDAD9A) (*pen* = penguin-catch that throw)
+  - 53pen1
 - [Statue of Liberty](http://www.libraryofjuggling.com/Tricks/3balltricks/StatueofLiberty.html)
 - [Hector's bisector](https://www.youtube.com/watch?v=BQC9Q2wKPsA)
   - [One-side bisector](https://youtu.be/BQC9Q2wKPsA?t=230)
@@ -116,4 +122,5 @@
   - [2 balls shapeshift exercise](https://www.instagram.com/p/B_nbUe1gYBf/)
   - [441+33](https://www.instagram.com/p/B_N0FyTA2qx/) *shapeshift* the 2nd 4 (33 is done with the same hand)
   - [451 + 2x441(out) + shapeshift!](https://youtu.be/svtqDpN6i78?t=25)
-  - [Burst box + shapeshift](https://youtu.be/svtqDpN6i78?t=46) - 2-colorable!
+  - [Broken Boston shifter!](https://youtu.be/svtqDpN6i78?t=46) - 2-colorable!
+
