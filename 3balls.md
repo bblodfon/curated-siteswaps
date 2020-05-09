@@ -44,7 +44,7 @@
 - 423 claw (everything!)
 - 423 penguin variation (4 or 2 as penguin catches)
 - 423 bxx (4 or 3 as bxx)
-- 423 **follow variation**: active 2 that circles the 3 (carry around), claw throw the 4
+- [423 **follow variation**](https://youtu.be/bQvlinPcW8c?t=80): active 2 that circles the 3 (carry around), claw throw the 4
   - 423(follow var) + 3(carry)3 - [Relf's Factory](http://www.libraryofjuggling.com/Tricks/3balltricks/Relf'sFactory.html)!
 - 423 **tornado**: 2 active in infinity motion
 - [423 Weave (S)](http://www.libraryofjuggling.com/Tricks/3balltricks/Weave.html)
@@ -84,7 +84,7 @@
 - [Switched Columns Box](http://www.libraryofjuggling.com/Tricks/3balltricks/SwitchedBox.html)
 - [Threaded Box](http://www.libraryofjuggling.com/Tricks/3balltricks/ThreadedBox.html) - continuous under the arm catches
 - [Bizarre Box](http://www.libraryofjuggling.com/Tricks/3balltricks/BizarreBox.html) - fake 2x, bring it back!
-- [Karas's Box](http://www.libraryofjuggling.com/Tricks/3balltricks/Karas'Box.html) - 2 x (2x)!
+- [Karas's Box](http://www.libraryofjuggling.com/Tricks/3balltricks/Karas'Box.html) - 2 x (fake 2x)!
 - [Penguin Box](https://www.instagram.com/tv/B-PblMDAD9A)
 
 # Others
@@ -94,6 +94,7 @@
   - [Burke's Slam](http://www.libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html) - with takeouts!
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
   - [Boston Shuffle + Bisector/Shapeshifter](https://www.instagram.com/tv/B_s_40TgB1f/)
+  - [Boston Shuffle + Broken box](https://youtu.be/bQvlinPcW8c?t=31) - 2-colorable (reach-under)
 - 441/45141 Variations
   - [441 reverse + Burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
   - 45141, with 5 as an under-the-arm catch - 2-colorable!
