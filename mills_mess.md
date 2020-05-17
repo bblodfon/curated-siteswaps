@@ -36,7 +36,9 @@ D(down)
 
 ### Tricks
 
-- Windmill, Reverse Windmill
+- Windmill
+  - Reverse Windmill
+  - [Twisted Windmill](https://www.instagram.com/p/BewpyxGg_DP/)
 - Half-Mess (2 in each side, 3M3D3U + 3reverse)
   - **Claw Half-Mess**
 - Boston Mess (2 directions)

@@ -4,9 +4,11 @@
 - Claw
 - Overhead
 - bxx, reverse bxx
+- bbb (blind behind back)
 - Under the leg
 - Pinball
 - Carry
+- Listen to the ball! (or ball in the cheek!)
 
 # Cascade Variations
 
@@ -14,7 +16,7 @@
   - Reverse Cross-arm Cascade
   - Frantic Cascade (continuous under the catches)
 - Tennis (in,in,out)
-  - [2-colorable Tennis Variations](https://www.instagram.com/p/B_mNs8_g81n/)
+  - [2-colorable Tennis Variations in 52413 and 45141](https://www.instagram.com/p/B_mNs8_g81n/)
 - **Penguin Cascade**
 - Claw Cascade
   - Reverse Claw Cascade
@@ -61,12 +63,13 @@
 - Infinity Columns, Reverse Infinity Columns
 - Boxy-Columns
 - Tennis-Columns
-- Fake Columns
+  - [1up2up-half-penguin-Tennis Var](https://www.instagram.com/p/CAQ2qu9ACmI/)
+- [Fake Columns](https://youtu.be/U6wti1TvDpc?t=185)
   - Yo-Yo (+many variations on this)
-- Factory (Symmetric version, 3-count)
-- Pendulum-Drop (Factory in 2-count, normal vs pendulum version)
-- **Time-reversed Factory** (Symmetric version, 3-count)
-- **Mess-Factory** or Cross-armed Factory
+- [Factory](https://youtu.be/U6wti1TvDpc?t=360) (Symmetric version, 3-count)
+- [Pendulum-Drop](https://youtu.be/U6wti1TvDpc?t=390) (Factory in 2-count, normal vs pendulum version)
+- **Time-reversed Factory** (Symmetric version, 3-count, [Asymmetric version clip](https://youtu.be/U6wti1TvDpc?t=755))
+- **Mess-Factory** or [Cross-armed Factory](https://youtu.be/U6wti1TvDpc?t=663)
 
 # Box
 
@@ -95,11 +98,14 @@
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
   - [Boston Shuffle + Bisector/Shapeshifter](https://www.instagram.com/tv/B_s_40TgB1f/)
   - [Boston Shuffle + Broken box](https://youtu.be/bQvlinPcW8c?t=31) - 2-colorable (reach-under)
+  - [L shower](https://www.instagram.com/p/CAHQAqbgm6y/) - shuffle + broken box
+  - [Symmetric L-shower](https://youtu.be/bQvlinPcW8c?t=28)
 - 441/45141 Variations
   - [441 reverse + Burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
   - 45141, with 5 as an under-the-arm catch - 2-colorable!
   - [45141](https://youtu.be/svtqDpN6i78?t=361), with 5 as an over-the-arm catch - 2-colorable!
 - [Hi there!](https://www.instagram.com/tv/B-9bbRbgvHc/) - a 52530 variation where you catch the 3 with a horizontal claw-catch + other tricks based on that catch
+  - [52413 Hi There! Var](https://www.instagram.com/p/CAIhBlvg_Jn/)
 - 23[43]423 ([43] as a 'traffic light' - all in a line, same colored balls)
 - Rubinstein's Revenge (522+33)
   - Romeo's Revenge
@@ -111,6 +117,7 @@
 - Penguin Tricks
   - [The confused Penguin](https://www.instagram.com/tv/B-FFADRAcWn/) - a 52530 variation where the first 5 is smaller than second, 53 feels like synced and you catch the 3 with a penguin-catch
   - [4pen41](https://www.instagram.com/p/B-PblMDAD9A) (*pen* = penguin-catch that throw)
+  - [1up2up-half-penguin-Tennis Var](https://www.instagram.com/p/CAQ2qu9ACmI/)
   - 53pen1
 - [Statue of Liberty](http://www.libraryofjuggling.com/Tricks/3balltricks/StatueofLiberty.html)
 - [Hector's bisector](https://www.youtube.com/watch?v=BQC9Q2wKPsA)
