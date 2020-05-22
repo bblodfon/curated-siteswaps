@@ -97,13 +97,12 @@
   - [Burke's Slam](http://www.libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html) - with takeouts!
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
   - [Boston Shuffle + Bisector/Shapeshifter](https://www.instagram.com/tv/B_s_40TgB1f/)
-  - [Boston Shuffle + Broken box](https://youtu.be/bQvlinPcW8c?t=31) - 2-colorable (reach-under)
   - [L shower](https://www.instagram.com/p/CAHQAqbgm6y/) - shuffle + broken box
-  - [Symmetric L-shower](https://youtu.be/bQvlinPcW8c?t=28)
+  - [Symmetric L-shower](https://youtu.be/bQvlinPcW8c?t=28) - 2-colorable, reach-under
 - 441/45141 Variations
   - [441 reverse + Burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
-  - 45141, with 5 as an under-the-arm catch - 2-colorable!
-  - [45141](https://youtu.be/svtqDpN6i78?t=361), with 5 as an over-the-arm catch - 2-colorable!
+  - [45141](https://www.instagram.com/p/CAVP8axglaG/), with 5 as an *under-the-arm* catch (async, sync + follow/S var) - 2-colorable!
+  - [45141](https://youtu.be/svtqDpN6i78?t=361), with 5 as an *over-the-arm* catch - 2-colorable!
 - [Hi there!](https://www.instagram.com/tv/B-9bbRbgvHc/) - a 52530 variation where you catch the 3 with a horizontal claw-catch + other tricks based on that catch
   - [52413 Hi There! Var](https://www.instagram.com/p/CAIhBlvg_Jn/)
 - 23[43]423 ([43] as a 'traffic light' - all in a line, same colored balls)
