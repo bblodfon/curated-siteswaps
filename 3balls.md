@@ -14,6 +14,7 @@
 
 - Cross-arm Cascade
   - Reverse Cross-arm Cascade
+  - Reverse Cross-arm Cascade with with the top hand doing a clawed elliptical chop - [video](https://www.instagram.com/p/CABUBdKgxwx/)
   - Frantic Cascade (continuous under the catches)
 - Tennis (in,in,out)
   - [2-colorable Tennis Variations in 52413 and 45141](https://www.instagram.com/p/B_mNs8_g81n/)
