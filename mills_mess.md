@@ -49,6 +49,8 @@ D(down)
 - 3M3U + 4M4U1 FMM (4 in each side)
 - **Peruvian Mess**: 4D23D + 3U3M
 - [Frostbite](https://youtu.be/UpTUpHQlMas)
+  - [Frostbite 531](https://youtu.be/cUfOLJbIMQ4?t=52)
+  - [Frostbite + Galerkin's Guitar](https://www.instagram.com/p/CAZFMX_g6St/)
 - [Orka's Mess](https://youtu.be/Iv4U7EHWMKc) - (4,4)(4x,0)(2,4)\*
 - [Reach-over](https://youtu.be/qRvepXfoyZ0?t=183)
 - [Reach-under](https://youtu.be/qRvepXfoyZ0?t=263)
@@ -61,7 +63,6 @@ D(down)
 - 5-beat MM var (take the *Down* thrown ball and carry it to the other end)
     - Var: 3D(and carried)3U + 4D4U1 MM ([really nice](https://youtu.be/QyQ9pNvy4bY?t=95))
 - NoSlowerDNA messes!
-  - [Shuffle Mess](https://youtu.be/cUfOLJbIMQ4?t=52) (5M31-3D3U + claw the 3's)
   - 4D23-MM + 5D1-like ([really smooth](https://youtu.be/cUfOLJbIMQ4?t=90)) - 2-colorable!
   - [(4x{U},2x)-3M3D (MM Var)](https://youtu.be/cUfOLJbIMQ4?t=141) - 2-colorable (the 4x{U} is the one-color ball, the 3D becomes the 3M)
   - [Monkey Mess Variation](https://www.instagram.com/p/Bccc2KRAt9w/)
