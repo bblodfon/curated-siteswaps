@@ -15,6 +15,9 @@ D(down)
 
 - [3 (MM,RMM,FMM,RFMM)](https://www.instagram.com/tv/B-ZqO9VgbhW/)
 - [423](https://www.instagram.com/tv/B-cRXzog5pQ/), [441](https://www.instagram.com/tv/B-eqNqUg3ED/) (MM,FMM)
+  - 4D23 - Burke's Barrage
+  - **Twisted Burke's Barrage** - see [video (3rd pattern)](https://www.instagram.com/p/CA-3M4XAvN2/)
+  - **Twisted Takeouts** - see [video (4th pattern)](https://www.instagram.com/p/CA-3M4XAvN2/)
 - 531 (MM), 5U3D1 (FMM)
 - [51 + Var](https://www.instagram.com/tv/B-Nakt2ACDU/)
 - 4M-5D-0
@@ -39,6 +42,7 @@ D(down)
 - Windmill
   - Reverse Windmill
   - [Twisted Windmill](https://www.instagram.com/p/BewpyxGg_DP/)
+  - [4233 Twisted Variation](https://www.instagram.com/p/CBBCgKrACeM/)
 - Half-Mess (2 in each side, 3M3D3U + 3reverse)
   - **Claw Half-Mess**
 - Boston Mess (2 directions)
@@ -52,7 +56,8 @@ D(down)
   - [Frostbite 531](https://youtu.be/cUfOLJbIMQ4?t=52)
   - [Frostbite + Galerkin's Guitar](https://www.instagram.com/p/CAZFMX_g6St/)
 - [Orka's Mess](https://youtu.be/Iv4U7EHWMKc) - (4,4)(4x,0)(2,4)\*
-- [Reach-over](https://youtu.be/qRvepXfoyZ0?t=183)
+- [Flo's Mess/Reach-over](https://youtu.be/qRvepXfoyZ0?t=183)
+  - **Twisted Flo's Mess** - see [video (1st pattern)](https://www.instagram.com/p/CA-3M4XAvN2/)
 - [Reach-under](https://youtu.be/qRvepXfoyZ0?t=263)
   - [Reach-under-penguin-catch](https://www.instagram.com/tv/B-PblMDAD9A/)
 - **Mess Sync Var**: (6U,4D)(0,2x)(4D,2)\* (color-coded)
@@ -60,13 +65,14 @@ D(down)
   - Var: Takeout (on the medium ball)
   - Var: Orbit (carry around)
   - Staken
-- 5-beat MM var (take the *Down* thrown ball and carry it to the other end)
-    - Var: 3D(and carried)3U + 4D4U1 MM ([really nice](https://youtu.be/QyQ9pNvy4bY?t=95))
-- NoSlowerDNA messes!
+- *NoSlowerDNA*-inspired tricks:
   - 4D23-MM + 5D1-like ([really smooth](https://youtu.be/cUfOLJbIMQ4?t=90)) - 2-colorable!
   - [(4x{U},2x)-3M3D (MM Var)](https://youtu.be/cUfOLJbIMQ4?t=141) - 2-colorable (the 4x{U} is the one-color ball, the 3D becomes the 3M)
-  - [Monkey Mess Variation](https://www.instagram.com/p/Bccc2KRAt9w/)
+  - 5-beat MM var (take the *Down* thrown ball and carry it to the other end)     
+    - Var: 3D(and carried)3U + 4D4U1 MM ([really nice](https://youtu.be/QyQ9pNvy4bY?t=95))
   - [Monkey Mess - 44133](https://youtu.be/zJNVgO7RT10?t=29)
+    - [Monkey Mess Variation](https://www.instagram.com/p/Bccc2KRAt9w/)
+    - Twisted Monkey Mess! - see [video (2nd pattern)](https://www.instagram.com/p/CBFzuH4A3xc/)
   - [Moose Mess - 4413441](https://youtu.be/zJNVgO7RT10?t=16)
 
 # 4 balls

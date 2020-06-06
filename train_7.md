@@ -23,8 +23,10 @@ You can also skip sections or mix them, e.g. start from 5 ball section, etc.!
 **Stability + Core**  
 - 5-cascade (endurance!) + play with dwell time (high throws)
 - 77722 (**3up**), 7777700 (**5up**)
-- Half shower, 5-reverse cascade
 - **744, 66|771**
+
+**Extra**  
+- Half shower, 5-reverse cascade
 - **5|77272** (snake - tough)
 - **645**, (6x,4)\* (for fun!)
 

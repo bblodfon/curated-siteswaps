@@ -1,39 +1,22 @@
-# Various Catch/Throw Techniques
-
-- Penguin
-- Claw
-- Overhead
-- bxx, reverse bxx
-- bbb (blind behind back)
-- Under the leg
-- Pinball
-- Carry
-- Listen to the ball! (or ball in the cheek!)
-
 # Cascade Variations
 
 - Cross-arm Cascade
   - Reverse Cross-arm Cascade
-  - Reverse Cross-arm Cascade with with the top hand doing a clawed elliptical chop - [video](https://www.instagram.com/p/CABUBdKgxwx/)
+  - Galerkin's Guitar - a Reverse Cross-arm Cascade with with the top hand doing a clawed elliptical chop - [video](https://www.instagram.com/p/CABUBdKgxwx/)
   - Frantic Cascade (continuous under the catches)
-- Tennis (in,in,out)
+- Tennis
   - [2-colorable Tennis Variations in 52413 and 45141](https://www.instagram.com/p/B_mNs8_g81n/)
 - **Penguin Cascade**
 - Claw Cascade
-  - Reverse Claw Cascade
   - (4x,2)\* with 2 as active claws!
 - Chops
-  - Reverse Chops
+  - [Time Reverse Chops](https://www.instagram.com/p/CBD2byIAY7J/)
 - 3-MM (MM => Mills Mess)
 - 3-Pinball
 - 3-bbb (blind behind the back)
-- 3-bbn (blind behind the neck, 3-count)
-- 3-bxx
 - 333 (normal,rbxx,bxx)
   - claw catch the bxx ball
-  - 333 (normal,rbxx,normal) - catch rbxx ball "inside" arm
 - 333 (normal, reverse/catch under the leg, throw under the leg)
-- 3 (various under-the-leg throws+catches)
 - 3-Factory (normal,normal,carry)
 - 3 continuous under-the-arm throw (Mike's Mess - 5D22)
   - Var: 52{wd}2 (wd = wrist-drop)
@@ -47,7 +30,7 @@
 - 423 claw (everything!)
 - 423 penguin variation (4 or 2 as penguin catches)
 - 423 bxx (4 or 3 as bxx)
-- [423 **follow variation**](https://youtu.be/bQvlinPcW8c?t=80): active 2 that circles the 3 (carry around), claw throw the 4
+- [423 follow variation](https://youtu.be/bQvlinPcW8c?t=80): active 2 that circles the 3 (carry around), claw throw the 4
   - 423(follow var) + 3(carry)3 - [Relf's Factory](http://www.libraryofjuggling.com/Tricks/3balltricks/Relf'sFactory.html)!
 - 423 **tornado**: 2 active in infinity motion
 - [423 Weave (S)](http://www.libraryofjuggling.com/Tricks/3balltricks/Weave.html)
@@ -56,6 +39,7 @@
 - 423 (4 high throw and 3 overhead throw, catches 4)
 - 423 overheads
 - 423 with 4 as a pinball!
+- 423 with 4 as a throw-and-stick-to-the-neck!
 
 # Columns + Factory
 
@@ -74,8 +58,7 @@
 
 # Box
 
-- Normal Box (4,2x)\*
-- Double Box
+- Normal Box (4,2x)\*, Double Box
 - [Swap Box](http://www.libraryofjuggling.com/Tricks/3balltricks/SwapBox.html) - (6,2x)(2x,2x)\*
 - [Underarm Box](http://www.libraryofjuggling.com/Tricks/3balltricks/UnderarmBox.html)
 - [Penman's Box](http://www.libraryofjuggling.com/Tricks/3balltricks/Penman'sBox.html)
@@ -83,8 +66,7 @@
 - Slow Shuffle Box
 - [Luke's Shuffle](http://www.libraryofjuggling.com/Tricks/3balltricks/Luke'sShuffle.html) (Box with slams)
 - [Levels](http://www.libraryofjuggling.com/Tricks/3balltricks/Levels.html) (3-count, 2-count = 'pop-up' Box)
-- [N-Box](http://www.libraryofjuggling.com/Tricks/3balltricks/N-Box.html)
-- [Burst Box](http://www.libraryofjuggling.com/Tricks/3balltricks/BurstBox.html) (2 versions: under and over the arm catches)
+- [Burst Box/Symmetric Broken Box](http://www.libraryofjuggling.com/Tricks/3balltricks/BurstBox.html) (2 versions: under and over the arm catches)
 - [Switched Columns Box](http://www.libraryofjuggling.com/Tricks/3balltricks/SwitchedBox.html)
 - [Threaded Box](http://www.libraryofjuggling.com/Tricks/3balltricks/ThreadedBox.html) - continuous under the arm catches
 - [Bizarre Box](http://www.libraryofjuggling.com/Tricks/3balltricks/BizarreBox.html) - fake 2x, bring it back!
@@ -100,6 +82,7 @@
   - [Boston Shuffle + Bisector/Shapeshifter](https://www.instagram.com/tv/B_s_40TgB1f/)
   - [L shower](https://www.instagram.com/p/CAHQAqbgm6y/) - shuffle + broken box
   - [Symmetric L-shower](https://youtu.be/bQvlinPcW8c?t=28) - 2-colorable, reach-under
+  - [Twisted Boston Shuffle](https://www.instagram.com/p/CBFzuH4A3xc/) - 1st pattern
 - 441/45141 Variations
   - [441 reverse + Burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
   - [45141](https://www.instagram.com/p/CAVP8axglaG/), with 5 as an *under-the-arm* catch (async, sync + follow/S var) - 2-colorable!
