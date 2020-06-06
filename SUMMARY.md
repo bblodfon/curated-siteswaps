@@ -9,6 +9,7 @@
     * [6 balls](siteswaps_6.md)
   * [3 Ball Tricks](3balls.md)
   * [Mills Mess](mills_mess.md)
+  * [One hand](one_hand.md)
   * [Sync](sync.md)
   * [Multiplex](multiplex.md)
   * [7 Balls Train](train_7.md)

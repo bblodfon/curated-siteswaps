@@ -6,7 +6,7 @@ through the siteswap numbering system. This is a collection of what feels
 good for me, without taking the difficulty to the extreme levels (e.g. 7 
 balls+).  
 I also include specialized training regimes (again what worked for 
-me best) and other miscellaneous stuff.
+me best) and other miscellaneous stuff like mills mess and 3 ball patterns.
 
 > *Push forward and hard*                                                       
                                                                                 

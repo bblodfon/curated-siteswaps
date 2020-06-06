@@ -7,7 +7,6 @@ You can also skip sections or mix them, e.g. start from 5 ball section, etc.!
 ## 3 Balls (warm up)
 
 - 3-cascade: play with dwell time, high throws (722+), 3up
-- Snake: 4|55050 => 7070700
 
 ## 4 Balls (more warm up)
 
@@ -29,12 +28,6 @@ You can also skip sections or mix them, e.g. start from 5 ball section, etc.!
 - **5|77272** (snake - tough)
 - **645**, (6x,4)\* (for fun!)
 
-**Others + R&D (don't spend too much time)**  
-- 753, 97531 
-- Shower (91)
-- 6777161 (55514-like)
-- 774-714-744 (very nice combo)
-
 ## 6 Balls
 
 **Core**  
@@ -48,3 +41,4 @@ You can also skip sections or mix them, e.g. start from 5 ball section, etc.!
 ## 7 balls
 
 - 7-cascade (until failure :)
+
