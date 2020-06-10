@@ -10,11 +10,12 @@
 - 7|963
 
 ### 5 Period
+
 - **9555 (have heard that it is gooooood**)
-- a5555
 - a8642
 
 ### 7 ball training                                                             
+
 - 7777770 (six 7's)                                                             
 - 77772 (552 on steroids, four 7's)
 
