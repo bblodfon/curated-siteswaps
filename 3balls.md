@@ -20,6 +20,7 @@
 - 3-Factory (normal,normal,carry)
 - 3 continuous under-the-arm throw (Mike's Mess - 5D22)
   - Var: 52{wd}2 (wd = wrist-drop)
+  - [Twisted Variation](https://youtu.be/QcLKwgk2pZ8?t=165)
 
 # 423 Variations
 
@@ -104,6 +105,7 @@
   - 53pen1
 - [Statue of Liberty](http://www.libraryofjuggling.com/Tricks/3balltricks/StatueofLiberty.html)
 - [Hector's bisector](https://www.youtube.com/watch?v=BQC9Q2wKPsA)
+  - [42333 Variations](https://youtu.be/BQC9Q2wKPsA?t=13) - both *inward* and *outward* 423's
   - [One-side bisector](https://youtu.be/BQC9Q2wKPsA?t=230)
   - [Twice per side bisector](https://youtu.be/BQC9Q2wKPsA?t=241)
   - [Taffy Puller](https://youtu.be/BQC9Q2wKPsA?t=299)
