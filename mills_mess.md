@@ -53,7 +53,12 @@ D(down)
 - 3M3U + 4M4U1 FMM (4 in each side)
 - **Peruvian Mess**: 4D23D + 3U3M
 - [Frostbite](https://youtu.be/UpTUpHQlMas)
-  - [Frostbite 531](https://youtu.be/cUfOLJbIMQ4?t=52)
+  - [First 4 inside](https://youtu.be/nP0364EYuxc?t=7)
+  - [441+3{M}3{U+claw}](https://youtu.be/nP0364EYuxc?t=28)
+  - [Frostbite 531](https://youtu.be/cUfOLJbIMQ4?t=52) - can be combined with 33 as M,U+claw as above
+  - [Twisted Frostbite](https://youtu.be/nP0364EYuxc?t=57)
+  - [Frostbitten Bisector](https://youtu.be/nP0364EYuxc?t=96) - the hand that claws is the same one that bisects!
+  - [Shapeshifted Frostbite](https://youtu.be/nP0364EYuxc?t=119)
   - [Frostbite + Galerkin's Guitar](https://www.instagram.com/p/CAZFMX_g6St/)
 - [Orka's Mess](https://youtu.be/Iv4U7EHWMKc) - (4,4)(4x,0)(2,4)\*
 - [Flo's Mess/Reach-over](https://youtu.be/qRvepXfoyZ0?t=183)
@@ -73,7 +78,7 @@ D(down)
   - [Monkey Mess - 44133](https://youtu.be/zJNVgO7RT10?t=29)
     - [Monkey Mess Variation](https://www.instagram.com/p/Bccc2KRAt9w/)
     - Twisted Monkey Mess! - see [video (2nd pattern)](https://www.instagram.com/p/CBFzuH4A3xc/)
-  - [Moose Mess - 4413441](https://youtu.be/zJNVgO7RT10?t=16)
+  - [Moose Mess - 4413441 (frostbite variation)](https://youtu.be/zJNVgO7RT10?t=16)
 
 # 4 balls
 
