@@ -9,7 +9,7 @@
 
 ## 4 Clubs
 
-- 552
+- 552 (Var: start with 3 clubs in one hand to practise the release!)
 - 55550
 - *Sugar*: 53, 534
 
