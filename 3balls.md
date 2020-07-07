@@ -6,6 +6,7 @@
   - Frantic Cascade (continuous under the catches)
 - Tennis
   - [2-colorable Tennis Variations in 52413 and 45141](https://www.instagram.com/p/B_mNs8_g81n/)
+  - [2-colorable Tennis Variations in 45303 and 53403](https://www.instagram.com/p/CCTnR_agkrL/)
 - **Penguin Cascade**
 - Claw Cascade
   - (4x,2)\* with 2 as active claws!
@@ -81,7 +82,8 @@
   - [Burke's Slam](http://www.libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html) - with takeouts!
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
   - [Boston Shuffle + Bisector/Shapeshifter](https://www.instagram.com/tv/B_s_40TgB1f/)
-  - [L shower](https://www.instagram.com/p/CAHQAqbgm6y/) - shuffle + broken box
+  - [Boston Shuffle + Shapeshifter (upwards trajectory!)](https://youtu.be/FzFEtSLN5Cg?t=66)
+  - [L-shower](https://www.instagram.com/p/CAHQAqbgm6y/) - shuffle + broken box
   - [Symmetric L-shower](https://youtu.be/bQvlinPcW8c?t=28) - 2-colorable, reach-under
   - [Twisted Boston Shuffle](https://www.instagram.com/p/CBFzuH4A3xc/) - 1st pattern
 - 441/45141 Variations
@@ -103,6 +105,8 @@
   - [4pen41](https://www.instagram.com/p/B-PblMDAD9A) (*pen* = penguin-catch that throw)
   - [1up2up-half-penguin-Tennis Var](https://www.instagram.com/p/CAQ2qu9ACmI/)
   - 53pen1
+  - [52512-pen](https://www.instagram.com/p/CCSAJ98AeGB/)
+- [Catch-up!](https://www.instagram.com/p/CCSAyt7gWvg/)
 - [Statue of Liberty](http://www.libraryofjuggling.com/Tricks/3balltricks/StatueofLiberty.html)
 - [Hector's bisector](https://www.youtube.com/watch?v=BQC9Q2wKPsA)
   - [42333 Variations](https://youtu.be/BQC9Q2wKPsA?t=13) - both *inward* and *outward* 423's

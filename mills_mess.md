@@ -57,9 +57,10 @@ D(down)
   - [441+3{M}3{U+claw}](https://youtu.be/nP0364EYuxc?t=28)
   - [Frostbite 531](https://youtu.be/cUfOLJbIMQ4?t=52) - can be combined with 33 as M,U+claw as above
   - [Twisted Frostbite](https://youtu.be/nP0364EYuxc?t=57)
-  - [Frostbitten Bisector](https://youtu.be/nP0364EYuxc?t=96) - the hand that claws is the same one that bisects!
+  - [Frostbitten Bisector](https://youtu.be/nP0364EYuxc?t=96) - the hand that claws is the same one that bisects ([my video](https://www.instagram.com/p/CCTmkhwgV3Q/))
   - [Shapeshifted Frostbite](https://youtu.be/nP0364EYuxc?t=119)
   - [Frostbite + Galerkin's Guitar](https://www.instagram.com/p/CAZFMX_g6St/)
+  - [Frostbiten Taffy Puller!](https://youtu.be/AMl03FZtLp8?t=38)
 - [Orka's Mess](https://youtu.be/Iv4U7EHWMKc) - (4,4)(4x,0)(2,4)\*
 - [Flo's Mess/Reach-over](https://youtu.be/qRvepXfoyZ0?t=183)
   - **Twisted Flo's Mess** - see [video (1st pattern)](https://www.instagram.com/p/CA-3M4XAvN2/)
