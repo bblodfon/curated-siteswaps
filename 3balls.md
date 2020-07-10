@@ -12,6 +12,7 @@
   - (4x,2)\* with 2 as active claws!
 - Chops
   - [Time Reverse Chops](https://www.instagram.com/p/CBD2byIAY7J/)
+  - [Time Reverse Chop Variation](https://youtu.be/MFpF8N_rHOE?t=323)
 - 3-MM (MM => Mills Mess)
 - 3-Pinball
 - 3-bbb (blind behind the back)
@@ -74,6 +75,7 @@
 - [Bizarre Box](http://www.libraryofjuggling.com/Tricks/3balltricks/BizarreBox.html) - fake 2x, bring it back!
 - [Karas's Box](http://www.libraryofjuggling.com/Tricks/3balltricks/Karas'Box.html) - 2 x (fake 2x)!
 - [Penguin Box](https://www.instagram.com/tv/B-PblMDAD9A)
+- [Claw Box](TODO)
 
 # Others
 
@@ -82,9 +84,11 @@
   - [Burke's Slam](http://www.libraryofjuggling.com/Tricks/3balltricks/Burke'sSlam.html) - with takeouts!
   - [Tom's trick](http://www.libraryofjuggling.com/Tricks/3balltricks/Tom'sTrick.html) - Boston shuffle + chop
   - [Boston Shuffle + Bisector/Shapeshifter](https://www.instagram.com/tv/B_s_40TgB1f/)
+  - **Boston Shuffle with 2x upwards** (changing trajectory, same as below)
   - [Boston Shuffle + Shapeshifter (upwards trajectory!)](https://youtu.be/FzFEtSLN5Cg?t=66)
-  - [L-shower](https://www.instagram.com/p/CAHQAqbgm6y/) - shuffle + broken box
+  - [L-shower](https://www.instagram.com/p/CAHQAqbgm6y/) - **shuffle + broken box**
   - [Symmetric L-shower](https://youtu.be/bQvlinPcW8c?t=28) - 2-colorable, reach-under
+  - [B.Shuffle + Broken Box extension](https://youtu.be/MFpF8N_rHOE?t=176) - like above + 1 extra throw to "give space"
   - [Twisted Boston Shuffle](https://www.instagram.com/p/CBFzuH4A3xc/) - 1st pattern
 - 441/45141 Variations
   - [441 reverse + Burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
