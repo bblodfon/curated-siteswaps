@@ -12,7 +12,8 @@
   - (4x,2)\* with 2 as active claws!
 - Chops
   - [Time Reverse Chops](https://www.instagram.com/p/CBD2byIAY7J/)
-  - [Time Reverse Chop Variation](https://youtu.be/MFpF8N_rHOE?t=323)
+  - [Time Reverse Chop Var (NoSlowerDNA)](https://youtu.be/MFpF8N_rHOE?t=323)
+  - [Time Reverse Chop + Claw-2x Box](https://www.instagram.com/p/CChJZCzgD6Y/) - 3rd and 4th patterns
 - 3-MM (MM => Mills Mess)
 - 3-Pinball
 - 3-bbb (blind behind the back)
@@ -31,6 +32,7 @@
 - 4D2U3 MM with 2 active as *wrist drop*
 - 423 with 2 active *goes outside* and is caught below other hand
 - 423 claw (everything!)
+  - Claw just the 3: [video](https://www.instagram.com/p/CChJZCzgD6Y/)
 - 423 penguin variation (4 or 2 as penguin catches)
 - 423 bxx (4 or 3 as bxx)
 - [423 follow variation](https://youtu.be/bQvlinPcW8c?t=80): active 2 that circles the 3 (carry around), claw throw the 4
@@ -75,7 +77,7 @@
 - [Bizarre Box](http://www.libraryofjuggling.com/Tricks/3balltricks/BizarreBox.html) - fake 2x, bring it back!
 - [Karas's Box](http://www.libraryofjuggling.com/Tricks/3balltricks/Karas'Box.html) - 2 x (fake 2x)!
 - [Penguin Box](https://www.instagram.com/tv/B-PblMDAD9A)
-- [Claw Box](TODO)
+- **Claw-2x** Box: 2nd pattern in the [video](https://www.instagram.com/p/CChJZCzgD6Y/)
 
 # Others
 
@@ -86,9 +88,11 @@
   - [Boston Shuffle + Bisector/Shapeshifter](https://www.instagram.com/tv/B_s_40TgB1f/)
   - **Boston Shuffle with 2x upwards** (changing trajectory, same as below)
   - [Boston Shuffle + Shapeshifter (upwards trajectory!)](https://youtu.be/FzFEtSLN5Cg?t=66)
-  - [L-shower](https://www.instagram.com/p/CAHQAqbgm6y/) - **shuffle + broken box**
+  - [L-shower](https://www.instagram.com/p/CAHQAqbgm6y/) - **shuffle + broken box asymmetric**
+  - [B.Shuffle + Broken Box (2x same ball always)](https://www.instagram.com/p/CChMYXAApe1/) - first trick
   - [Symmetric L-shower](https://youtu.be/bQvlinPcW8c?t=28) - 2-colorable, reach-under
   - [B.Shuffle + Broken Box extension](https://youtu.be/MFpF8N_rHOE?t=176) - like above + 1 extra throw to "give space"
+  - [B.Shuffle + Burst Box](https://www.instagram.com/p/CChMYXAApe1/) - last trick (2x same ball always)
   - [Twisted Boston Shuffle](https://www.instagram.com/p/CBFzuH4A3xc/) - 1st pattern
 - 441/45141 Variations
   - [441 reverse + Burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
