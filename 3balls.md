@@ -14,6 +14,7 @@
   - [Time Reverse Chops](https://www.instagram.com/p/CBD2byIAY7J/)
   - [Time Reverse Chop Var (NoSlowerDNA)](https://youtu.be/MFpF8N_rHOE?t=323)
   - [Time Reverse Chop + Claw-2x Box](https://www.instagram.com/p/CChJZCzgD6Y/) - 3rd and 4th patterns
+  - [Time Reverse Chop + Broken Box](https://www.instagram.com/p/CClYuZFA0qx/) - 3-colorable (1 ball is caught continously under the arm, 1 stays in the center and 1 is being choped out!)
 - 3-MM (MM => Mills Mess)
 - 3-Pinball
 - 3-bbb (blind behind the back)
