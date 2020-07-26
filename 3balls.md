@@ -17,7 +17,7 @@
   - [Time Reverse Chop + Broken Box](https://www.instagram.com/p/CClYuZFA0qx/) - 3-colorable (1 ball is caught continously under the arm, 1 stays in the center and 1 is being choped out!)
 - 3-MM (MM => Mills Mess)
 - 3-Pinball
-- 3-bbb (blind behind the back)
+- 3-bbb (blind behind the back) - [my attemps :)](https://www.instagram.com/p/CDHwAZHg7cl/)
 - 333 (normal,rbxx,bxx)
   - claw catch the bxx ball
 - 333 (normal, reverse/catch under the leg, throw under the leg)
@@ -115,6 +115,7 @@
   - [1up2up-half-penguin-Tennis Var](https://www.instagram.com/p/CAQ2qu9ACmI/)
   - 53pen1
   - [52512-pen](https://www.instagram.com/p/CCSAJ98AeGB/)
+  - [Penguin Shower](https://www.instagram.com/p/CDHralFAZ4_/)
 - [Catch-up!](https://www.instagram.com/p/CCSAyt7gWvg/)
 - [Statue of Liberty](http://www.libraryofjuggling.com/Tricks/3balltricks/StatueofLiberty.html)
 - [Hector's bisector](https://www.youtube.com/watch?v=BQC9Q2wKPsA)
