@@ -95,6 +95,7 @@
   - [B.Shuffle + Broken Box extension](https://youtu.be/MFpF8N_rHOE?t=176) - like above + 1 extra throw to "give space"
   - [B.Shuffle + Burst Box](https://www.instagram.com/p/CChMYXAApe1/) - last trick (2x same ball always)
   - [Twisted Boston Shuffle](https://www.instagram.com/p/CBFzuH4A3xc/) - 1st pattern
+  - [Peguinistic Boston Shuffle!](https://www.instagram.com/p/CDMwOVsAzEC/)
 - 441/45141 Variations
   - [441 reverse + Burst box](https://youtu.be/J67qbuuZ85I) - 2-colorable!
   - [45141](https://www.instagram.com/p/CAVP8axglaG/), with 5 as an *under-the-arm* catch (async, sync + follow/S var) - 2-colorable!
