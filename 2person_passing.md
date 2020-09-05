@@ -29,6 +29,7 @@ With zaps:
 - pps
 - ppsps (bookends)
 - Jim's 1-count: 774
+  - 1|2 vs 1|2: p2p (||,1st) vs pp2 (x,2nd)
 - Jim's 2-count: 77466
 - Jim's 3-count: 77466666
 - Jim's bookends!
@@ -36,6 +37,7 @@ With zaps:
   - 2|2 vs 1|2: p3p41 (||) vs 41p3p (x) 
   - 1|2 vs 1|2: p41p3 (||) vs p3p41 (x)
   - Straight-passes-fella (||) always starts first!
+- **5 club Why Not?** (p3141,||,1st) vs **5-count Popcorn** (44p33,x,2nd)
 - 972
   - 2|1 vs 1|2: dp1p (x,||) vs pdp1 (x,||)
 
@@ -60,5 +62,4 @@ With zaps:
   - 1|2 vs 2|2: 4414d (x,1st) vs 4d441 (||,2nd)
 - 9968926 (7 club why not - easier than it looks :)
   - 2|2 vs 1|2: d3d3d41 (x) vs d41d3d3 (||)
-- **5 club Why Not?** (p3141,||,1st) vs **5-count Popcorn** (44p33,x,2nd)
 
