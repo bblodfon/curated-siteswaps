@@ -47,8 +47,8 @@ With zaps:
 - 1-count (singles)
 - 2-count - s(dp) or sp (single passes)
 - 3-count
-  - Async version: ss(dp) - (||,1st) vs (x,2nd)
-  - Sync version (**Techno**): (RH p, LH 3)(RH 3)(LH p, RH 3)(LH 3) - (||,1st), (x,2nd)
+  - Async version (doubles): ss(dp) - (||,1st) vs (x,2nd)
+  - Sync version (**Techno**, singles): (RH p, LH 3)(RH 3)(LH p, RH 3)(LH 3) - (||,1st), (x,2nd)
 - **5-count popcorn** - 78686
   - 2|2| vs 1|2: p3344 (||) vs 44p33 (x)
   - 53p33 (4-count popcorn) - 5 as double, single pass
