@@ -12,10 +12,6 @@
 - 744, 753
 - 66|771, 66|861
 
-**TO DO/CHECK !!!**
-- **667|915**
-- 68|a41 (!!!!!)
-
 ### Period 5
 
 **6-ball training**  
@@ -26,13 +22,13 @@
 - 77722 (**3up**), 7777700 (**5up**)                                            
 - **6|77272** (snake)
 - 74464
-- 74635, 34567 (**I should be able to do them, but who knows!!!**)
+- 74635, 34567 (**TO CHECK!!!**)
 - **67+561**, 66751, 75661, 75751
 
 **Nice transition**  
 - 744 => 8444 => 94444 (5551)
 
-**Known, nice and difficult**  
+**Known & nice**  
 - 88441
 - 97531
 

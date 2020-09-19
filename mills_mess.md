@@ -29,7 +29,7 @@ D(down)
 - [52512](https://www.instagram.com/tv/B-KpToKg5x_/) (baby juggling, the baby cries!)
 - [53142](https://www.instagram.com/tv/B-KpToKg5x_/), [34512, 52413](https://www.instagram.com/tv/B-CcpDEA4pH/) (magic sequences)
 - [53403](https://www.instagram.com/tv/B-UaOtPAvYN/) (nice!)
-- 63141, 46131, 46401, **62313**
+- 63141, 46131, 46401, **62313** (**TO RE-CHECK!!!**)
 
 ### Other siteswaps
 
@@ -89,16 +89,16 @@ D(down)
 - 4 Windmill, 4 Reverse Windmill
 - [4 Ball Boston Mess](https://www.instagram.com/tv/CAkTvd2AVxK/)
 - 534, 552, 642
-- 534-FMM, 552-FMM
-- **534+552+642 (D)**
-- **53444 ???**
+
+**TO CHECK!!!**  
+- 534-FMM, 552-FMM (seem interesting!)
+- **534+552+642 (D)** (should be able to do it!)
+- **53444 ???** (same here!)
 - 5|561 (D)
 - 55514 ???
 - 46451 ???
-- 45623 ???
 - 45641 ???
 - 63524 ???
-- 5561524 ???
 
 # 5 balls
 
