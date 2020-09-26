@@ -14,7 +14,7 @@
 ### Period 5
 
 **Standards**
-- 534+44 => 7333444 (Tennis Var.)
+- 534+44 => 7333444 (Tennis Var. - just for the fun of it)
 - **55514, 46451**
 
 **Nice with 6s**
@@ -22,15 +22,10 @@
 - 45641 (columns)
 - 5+561+3
 - 5|66161 (**6 ball practice favourite**)
+- 666+11, 756+11
+- 66251
 - 64613 =>(perm.) 63+641
 - **63551** (63501 evolution!)
-- 66251
-
-**Almost 6 ball ss**
-- 666+11
-- 756+11
-- 864+11
-- 855+11
 
 **With a 7 :)**
 - 5|72722 (552 extension to almost snake :)
@@ -41,20 +36,18 @@
 - **7531(4)** (Tower)
 - **5|75161**
 
-**With an 8 (and 9!)**
+**With an 8**
 - **5|68141** (TENTA)
 - **55|81461** (TENTA)
 - 5|58142 (8 throw outside)
 - 5|68501
-- 5|95141, 55|91451 (high!)
 
 ### Period 7
 
 **Simple**
-- 5+561+551 (561)
-- 5+561+524 (561)
+- 5+561+551
 - 5+741+524
-- 63+561+34 (TENTA)
+- **63+561+34** (TENTA)
 
 **1-7 Permutations**
 - **1234567** (magic sequence)

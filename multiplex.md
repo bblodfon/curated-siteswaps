@@ -30,7 +30,7 @@
 ## 5 balls
 
 - 1up4up
-- 1up3up
+- 1up3up (the 1up crosses)
 - [54][22]2 (normal duplex)
   - Reverse
   - MM with [54] as the 'down' throw
@@ -38,7 +38,7 @@
 - [33][33]3 (Cascade)
 - [44][22]3 (423 Var)
 - [44][44]14[22] (441 Var)
-- [64][21]2 (box Var)
+- [44]14 Var
 - 25[62] (Martin's)
 
 ## 6 balls
@@ -65,3 +65,4 @@
 ## 7 balls
 
 - ([444x],2)\*
+
