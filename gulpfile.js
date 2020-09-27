@@ -49,6 +49,15 @@ gulp.task('build_book', function (callback) {
   });
 });
 
+gulp.task('date_change', function(cb) {
+  cmd = 'sed -i "4s/.*/Last updated: $(date \'+%B %d, %Y\')/g" solo.md'
+  exec(cmd, function(err,stdout,stderr) {
+    console.log(stdout);
+    console.log(stderr);
+    cb();
+  });
+});
+
 gulp.task('copy_html_content', function () {
   return gulp.src([
       '_book/**/*'
@@ -62,7 +71,8 @@ gulp.task('clean_book', function () {
   });
 });
 
-gulp.task('default', gulp.series('clean_docs', 'build_book', 'copy_html_content',
+gulp.task('default', gulp.series('clean_docs', 'date_change', 'build_book', 'copy_html_content',
   'clean_book', 'git_add', 'git_commit', 'git_push', function (done) {
   done();
 }));
+

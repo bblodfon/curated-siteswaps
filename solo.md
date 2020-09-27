@@ -1,14 +1,8 @@
 # Solo Juggling Siteswaps
 
-<p><i>Last updated: 
-  <span id="datetime"></span>
+<p><i>
+Last updated: September 28, 2020
 </i></p>
-
-<script>
-  var dt = new Date();
-  const options = { day: 'numeric', month: 'long', year: 'numeric' };
-  document.getElementById("datetime").innerHTML=dt.toLocaleDateString(undefined, options);
-</script>
 
 Knowledge acquired throughout years of practicing, playing over and over 
 siteswaps, trying to find pleasant and/or aesthetic pattern characteristics 
