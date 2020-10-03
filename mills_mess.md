@@ -29,7 +29,7 @@ D(down)
 - [52512](https://www.instagram.com/tv/B-KpToKg5x_/) (baby juggling, the baby cries!)
 - [53142](https://www.instagram.com/tv/B-KpToKg5x_/), [34512, 52413](https://www.instagram.com/tv/B-CcpDEA4pH/) (magic sequences)
 - [53403](https://www.instagram.com/tv/B-UaOtPAvYN/) (nice!)
-- 63141, 46131, 46401, **62313** (**TO RE-CHECK!!!**)
+- **63141, 62313** (6 is too high for 3 balls mm but at least these 2 feel kinda good)
 
 ### Other siteswaps
 
@@ -88,16 +88,24 @@ D(down)
 - [4FMM](https://www.instagram.com/tv/CAAWkh9AJQK/)
 - 4 Windmill, 4 Reverse Windmill
 - [4 Ball Boston Mess](https://www.instagram.com/tv/CAkTvd2AVxK/)
-- 534, 552, 642
 
-**TO CHECK!!!**  
-- 534-FMM, 552-FMM (seem interesting!)
-- **534+552+642 (D)** (should be able to do it!)
-- **53444 ???** (same here!)
-- 5|561 (D)
+### Standards
+
+- 534
+- 552
+- 642 (the 6{U} is not worth it!)
+- 5|5{D}61 **???**
+
+### Period 5
+
+- **53444** (2-colorable, nice)
+
+### RESEARCH
+
+- 534-FMM
+- 552-FMM
 - 55514 ???
 - 46451 ???
-- 45641 ???
 - 63524 ???
 
 # 5 balls
