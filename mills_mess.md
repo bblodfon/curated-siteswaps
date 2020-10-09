@@ -94,7 +94,7 @@ D(down)
 - 534
 - 552
 - 642 (the 6{U} is not worth it!)
-- 5|5{D}61 **???**
+- 5|5{D}61 (tricky, but nice)
 
 ### Period 5
 
@@ -104,9 +104,9 @@ D(down)
 
 - 534-FMM
 - 552-FMM
-- 55514 ???
-- 46451 ???
-- 63524 ???
+- 55514 (NICE)
+- 46451 (AMAZING)
+- 63524 **???**
 
 # 5 balls
 

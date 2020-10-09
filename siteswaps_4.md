@@ -55,8 +55,7 @@
 - **6375124, 635+714+2, 63+741+52, 63+724+51** (TENTES)
 - 7362+514 (6 as column feels nice)
 
-**514 Combinations - To check!**
-- 7362+514 (like above)
+**More 514 Combinations - To check!**
 - 7731+514
 - 5661+514
 - 7461+514
