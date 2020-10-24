@@ -29,7 +29,8 @@ D(down)
 - [52512](https://www.instagram.com/tv/B-KpToKg5x_/) (baby juggling, the baby cries!)
 - [53142](https://www.instagram.com/tv/B-KpToKg5x_/), [34512, 52413](https://www.instagram.com/tv/B-CcpDEA4pH/) (magic sequences)
 - [53403](https://www.instagram.com/tv/B-UaOtPAvYN/) (nice!)
-- **63141, 62313** (6 is too high for 3 balls mm but at least these 2 feel kinda good)
+- [63141](https://www.instagram.com/p/CGuRqCQgO3H/), 2-colorable!
+- [62313](https://www.instagram.com/p/CGnqpeLnMS0/), 3-colorable!
 
 ### Other siteswaps
 
@@ -99,13 +100,13 @@ D(down)
 ### Period 5
 
 - **53444** (2-colorable, nice)
+- **55514** (2-colorable, nice)
+- 46451 (amazing!)
 
 ### RESEARCH
 
-- 534-FMM
-- 552-FMM
-- 55514 (NICE)
-- 46451 (AMAZING)
+- 534-FMM (the 5{D}-version seems to be the best)
+- 552-FMM (the 5{U}5{D}-version seems to be the best)
 - 63524 **???**
 
 # 5 balls
