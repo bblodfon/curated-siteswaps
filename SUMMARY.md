@@ -8,6 +8,7 @@
     * [5 balls](siteswaps_5.md)
     * [6 balls](siteswaps_6.md)
   * [3 Ball Tricks](3balls.md)
+  * [4 Ball Colorable patterns](4_ball_col.md)
   * [Mills Mess](mills_mess.md)
   * [One hand](one_hand.md)
   * [Sync](sync.md)
