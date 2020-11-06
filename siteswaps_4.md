@@ -51,12 +51,12 @@
 
 **1-7 Permutations**
 - **1234567** (magic sequence)
-- **6375124, 635+714+2, 63+741+52, 63+724+51** (TENTES)
-- 7362+514 (6 as column feels nice)
+- 63+751+24, 63+724+51 (TENTES)
+- 7362+514 (AMAZING => 6 as column)
 
 **More 514 Combinations - To check!**
 - 5661+514 (6's outside)
-- 7461+514
+- 7461+514 (NICE)
 - 7425+514
 
 **6,7,1**
