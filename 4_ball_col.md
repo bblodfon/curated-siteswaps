@@ -9,17 +9,17 @@ So, we either search for patterns that 2 balls do something distinguished from t
 - <span style="color:red">64</span>2 vs <span style="color:red">6</span><span style="color:blue">4</span>2 (the 2 balls in any hand have the same color)
 - <span style="color:red">5</span>6<span style="color:red">1
 - check 741 and 714
+- check <span style="color:red">55</span><span style="color:blue">613</span>
 
 ## 3+1
 
 With <span style="color:red">red</span> the one ball that does something completely different from the other 3!
 
-- <span style="color:red">5</span>3444
-- 464<span style="color:red">5</span>1
-- 555<span style="color:red">14</span>
-- <span style="color:red">7</span>123456
+- 555<span style="color:red">14</span> - 464<span style="color:red">5</span>1 - <span style="color:red">5</span>3444 - 5<span style="color:red">3</span>4
+- check 63<span style="color:red">5</span>24, connect with above sequence?
 
 ## 1+1+2
 
 - <span style="color:red">4</span><span style="color:blue">5</span><span style="color:green">64</span><span style="color:red">1</span> - see [video](https://www.instagram.com/p/CIHBr8Fg9b3/)
+- <span style="color:red">12</span><span style="color:green">3</span><span style="color:red">4</span><span style="color:green">56</span><span style="color:blue">7</span>
 
