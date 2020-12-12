@@ -11,6 +11,7 @@ The most interesting patterns visually seem to be having 2 or 3 colors.
 - <span style="color:red">5</span><span style="color:blue">6<span><span style="color:red">1
 - <span style="color:red">74</span><span style="color:blue">1</span> and <span style="color:red">71</span><span style="color:blue">4</span>
 - <span style="color:red">55</span><span style="color:blue">613</span> and <span style="color:blue">63</span><span style="color:red">55</span><span style="color:blue">1</span>
+- <span style="color:red">6</span><span style="color:blue">3</span><span style="color:red">6</span><span style="color:blue">41</span> and <span style="color:red">6</span><span style="color:blue">4</span><span style="color:red">6</span><span style="color:blue">13</span>
 
 ### 3+1
 
