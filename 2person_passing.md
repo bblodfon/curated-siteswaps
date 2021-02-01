@@ -27,8 +27,6 @@ With zaps:
   - ppps = strawberry
   - pppp = banana (1-count :)
 - pps, ppsps (**bookends**)
-- Jim's 1-count: 774
-  - 1|2 vs 1|2: p2p (||,1st) vs pp2 (x,2nd)
 - Jim's 2-count: 77466
 - Jim's 3-count: 77466666
 - Jim's bookends!
@@ -41,6 +39,8 @@ With zaps:
 - 972
   - 2|1 vs 1|2: (dp)1p (x,||) vs p(dp)1 (x,||)
   - (dp) = double pass
+- Mild Madness (7777266)
+  - 1|2 vs 1|2: pp13pp3 (||) vs pp3pp13 (x)
 
 ### 7 clubs
 
