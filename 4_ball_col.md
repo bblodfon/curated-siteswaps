@@ -12,13 +12,16 @@ The most interesting patterns visually seem to be having 2 or 3 colors.
 - Start with monochromatic 552: <span style="color:red">55</span><span style="color:blue">2</span> - <span style="color:blue">55</span><span style="color:red">613</span> - <span style="color:blue">63</span><span style="color:red">55</span><span style="color:blue">1</span>
 - Start with monochromatic 552: <span style="color:red">55</span><span style="color:blue">2</span> - <span style="color:blue">55</span> |<span style="color:red">714</span> (connects with the above)
 - Start with *1 color per hand*: <span style="color:blue">6</span><span style="color:red">4</span><span style="color:blue">2</span> - <span style="color:red">6</span><span style="color:blue">3</span><span style="color:red">6</span><span style="color:blue">41</span> - <span style="color:red">6</span><span style="color:blue">4</span><span style="color:red">6</span><span style="color:blue">13</span> - <span style="color:blue">5</span>|<span style="color:red">5</span><span style="color:blue">6<span><span style="color:red">1
-- Start with dichromatic 552 (switch after the color order change): 5|<span style="color:red">74</span><span style="color:blue">1</span> 
+- Start ???: <span style="color:red">7</span><span style="color:blue">525</span><span style="color:red">1</span>
+- Start with dichromatic 552 (switch after the color order change): 5|<span style="color:red">74</span><span style="color:blue">1</span>
 
 ### 3+1
 
 With <span style="color:red">red</span> the one ball that does something completely different from the other 3!
 
 - 555<span style="color:red">14</span> - 464<span style="color:red">5</span>1 - 63<span style="color:red">5</span>24 - <span style="color:red">5</span>3444 - 5<span style="color:red">3</span>4 - see [video](https://www.instagram.com/p/CIrfEPyAulN/)
+- 734<span style="color:red">5</span>1
+- 744<span style="color:red">14</span>
 
 ## 3 colors
 
