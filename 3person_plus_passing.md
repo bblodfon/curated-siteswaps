@@ -3,6 +3,7 @@
 ## 3 jugglers
 
 ### 9-clubs
+
 - **2-count 9-club feed** 
   - Var: Runaround (when the feeder changes - base pattern for Scramble-V)
 - **pps 9-club feed**
@@ -10,6 +11,8 @@
 - [Bruno's Nightmare (3-count version)](https://www.passingdb.com/patterns.php?id=48)  
 A giant juggles 3 jugglers (2 do 6-count, one feeds in 3-count and they change
 roles)
+- Why Not Triangle  
+<img src="./img/why_not_triangle.png" width="500" height="420">
 
 ### 10 clubs
 - **2-count 10-club feed**  
