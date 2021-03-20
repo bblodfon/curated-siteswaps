@@ -22,7 +22,6 @@ The most interesting patterns visually seem to be having 2 or 3 colors.
 With <span style="color:red">red</span> the one ball that does something completely different from the other 3!
 
 - 555<span style="color:red">14</span> - 464<span style="color:red">5</span>1 - 63<span style="color:red">5</span>24 - <span style="color:red">5</span>3444 - 5<span style="color:red">3</span>4 - see [video](https://www.instagram.com/p/CIrfEPyAulN/)
-- 734<span style="color:red">5</span>1
 - 744<span style="color:red">14</span>
 - 5|7<span style-"color:red">5</span>161
 

@@ -20,18 +20,15 @@
 **Nice with 6s**
 - **63524**, 45623 (columns + 3 out)
 - 45641 (columns)
-- 5+561+3
 - 5|66161 (**6 ball practice favourite**)
-- 666+11, 756+11
 - 66251
 - 64613 =>(perm.) 63+641
-- **63551** (63501 evolution!)
+- 5+561+3, **63551** (63501 evolution!)
 
 **With a 7 :)**
 - 5|72722 (552 extension to almost snake :)
 - 5|74162 (6 as out column)
 - **75251** (async => sync => async => ...)
-- 73451 (4 as out column, 12345 on steroids)
 - **74414**
 - **7531(4)** (Tower)
 - **5|75161**
