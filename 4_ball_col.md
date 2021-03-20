@@ -15,6 +15,7 @@ The most interesting patterns visually seem to be having 2 or 3 colors.
 - Start with *1 color per hand*: <span style="color:blue">6</span><span style="color:red">4</span><span style="color:blue">2</span> - <span style="color:red">6</span><span style="color:blue">3</span><span style="color:red">6</span><span style="color:blue">41</span> - <span style="color:red">6</span><span style="color:blue">4</span><span style="color:red">6</span><span style="color:blue">13</span> - <span style="color:blue">5</span>|<span style="color:red">5</span><span style="color:blue">6<span><span style="color:red">1 - see [video 1 (full sequence)](https://www.instagram.com/p/CMkprhOncMA/) and [2 (part only)](https://www.instagram.com/p/CMdAizKA-ws/)
 - Start with dichromatic 552 (switch after 1st of 3rd period) or *1 color per hand*: <span style="color:red">7</span><span style="color:blue">5</span><span style="color:red">2</span><span style="color:blue">5</span><span style="color:red">1</span>
 - Start with dichromatic 552 (switch after 2nd or 4th period): 5|<span style="color:red">74</span><span style="color:blue">1</span> - see [video](https://www.instagram.com/p/CMoxzEtgGrf/)
+- 7531 x 2, 75314
 
 ### 3+1
 
@@ -23,6 +24,7 @@ With <span style="color:red">red</span> the one ball that does something complet
 - 555<span style="color:red">14</span> - 464<span style="color:red">5</span>1 - 63<span style="color:red">5</span>24 - <span style="color:red">5</span>3444 - 5<span style="color:red">3</span>4 - see [video](https://www.instagram.com/p/CIrfEPyAulN/)
 - 734<span style="color:red">5</span>1
 - 744<span style="color:red">14</span>
+- 5|7<span style-"color:red">5</span>161
 
 ## 3 colors
 
