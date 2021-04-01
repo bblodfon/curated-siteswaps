@@ -56,7 +56,7 @@
 - Tennis-Columns
   - [1up2up-half-penguin-Tennis Var](https://www.instagram.com/p/CAQ2qu9ACmI/)
 - [Fake Columns](https://youtu.be/U6wti1TvDpc?t=185)
-  - Yo-Yo (+many variations on this)
+  - Yo-Yo (+many variations on this, see a nice one [here](https://www.instagram.com/p/CM48A2Ln_s3/))
 - [Factory](https://youtu.be/U6wti1TvDpc?t=360) (Symmetric version, 3-count)
 - [Pendulum-Drop](https://youtu.be/U6wti1TvDpc?t=390) (Factory in 2-count, normal vs pendulum version)
 - **Time-reversed Factory** (Symmetric version, 3-count, [Asymmetric version clip](https://youtu.be/U6wti1TvDpc?t=755))
