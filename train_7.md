@@ -2,7 +2,8 @@
 
 Note: warmup with 3 and 4 ball section, put more effort and time to the 5+ 
 ball sections. 
-You can also skip sections or mix them, e.g. start from 5 ball section, etc.!
+You can also skip sections or mix them, e.g. start from 5 ball section.
+A very good advice is to build yourself up to 7 (pyramid) **quickly**, and do multiple short sessions/attemps on 7 during one practice (so not just once).
 
 ## 3 Balls (warm up)
 
@@ -42,5 +43,5 @@ You can also skip sections or mix them, e.g. start from 5 ball section, etc.!
 
 ## 7 balls
 
-- 7-cascade (until failure :)
+- 7-cascade
 
