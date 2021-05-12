@@ -1,7 +1,7 @@
 # Solo Juggling Siteswaps
 
 <p><i>
-Last updated: May 11, 2021
+Last updated: May 12, 2021
 </i></p>
 
 Knowledge acquired throughout years of practicing, playing over and over 
