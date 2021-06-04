@@ -30,7 +30,7 @@ With <span style="color:red">red</span> the one ball that does something complet
 
 - <span style="color:red">4</span><span style="color:blue">5</span><span style="color:green">64</span><span style="color:red">1</span> - see [video](https://www.instagram.com/p/CIHBr8Fg9b3/)
 - <span style="color:red">4</span><span style="color:green">64</span><span style="color:blue">5</span><span style="color:red">1</span> - see [video](https://www.instagram.com/p/CJzkuglgpZG/)
-- <span style="color:red">12</span><span style="color:green">3</span><span style="color:red">4</span><span style="color:green">56</span><span style="color:blue">7</span>
+- <span style="color:red">12</span><span style="color:green">3</span><span style="color:red">4</span><span style="color:green">56</span><span style="color:blue">7</span> - all the 3 above connected in one, see [video](https://www.instagram.com/p/CPsmUv_APlG/)
 - <span style="color:red">7</span><span style="color:blue">5</span><span style="color:red">3</span><span style="color:green">14</span> (start with 2 balls of the same color in one hand) - see [video](https://www.instagram.com/p/COv3pX7gYVt/)
 - <span style="color:blue">5</span>|<span style="color:red">5</span><span style="color:blue">8</span><span style="color:green">14</span><span style="color:blue">2</span> (start with 2 balls of the same color in one hand) - see [video](https://www.instagram.com/p/COyGytNn7KT/)
 
