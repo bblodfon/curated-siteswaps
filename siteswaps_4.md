@@ -2,13 +2,13 @@
 
 ### Period 2
 
-- 53 (half shower)
+- 53 (half shower, classic)
 
 ### Period 3
 
-- **534**, 552
-- **642**
-- **5|561**
+- **534**
+- 552
+- **642** => **5|561**
 - **5|741, 55|714**
 
 ### Period 5
@@ -33,17 +33,16 @@
 - **7531(4)** (Tower)
 - **5|75161**
 
-**With an 8**
+**With an 8 (AMAZING)**
 - **5|68141** (TENTA)
 - **55|81461** (TENTA)
-- 5|58142 (8 throw outside)
+- 5|58142 (8 as an outside throw, see [video](https://www.instagram.com/p/COyGytNn7KT/))
 - 5|68501
 
 ### Period 7
 
 **Simple**
 - 5+561+551
-- 5+741+524
 - **63+561+34** (TENTA)
 
 **1-7 Permutations**
@@ -51,21 +50,16 @@
 - 63+751+24, 63+724+51 (TENTES)
 - 7362+514 (AMAZING => 6 as column)
 
-**More 514 Combinations - To check!**
+**More 514 Combinations - TO CHECK!**
 - 5661+514 (6's outside)
 - 7461+514 (NICE)
 - 7425+514
 
-**6,7,1**
-- **6|6716071**
-- 5|7716160
-
 **6 ball practice**
-- **5|6716161**
-- 6461641
-- 6366151
-- 6661603, 6366601
-- 5|6616162
+- **5|6716161** (from magic sequence 1-7, video soon!)
+- 6461641 (tricky, nice practice, doesn't feel nice though!)
+- 6366151 (amazing)
+- 5|66161 => 5|6616162 (nice extension)
 
 **7 ball practice**
 - 5|7272712 (baby juggling)
@@ -79,7 +73,7 @@
 - 5|8416261
 
 **Others**
-- 6352+46451 (**9-period, nice combo**)
+- **6|6716071** (to video soon!)
 - **7427242**
 - 8531+524 (???)
 - 63+85501 - **the flower!**
