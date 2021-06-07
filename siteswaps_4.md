@@ -73,7 +73,7 @@
 - 5|8416261
 
 **Others**
-- **6|6716071** (to video soon!)
+- **6|6716071** (see [video](https://www.instagram.com/p/CP0LqHMgnIR/))
 - **7427242**
 - 8531+524 (???)
 - 63+85501 - **the flower!**
