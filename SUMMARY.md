@@ -14,7 +14,6 @@
   * [Sync](sync.md)
   * [Multiplex](multiplex.md)
   * [7 Balls Train](train_7.md)
-  * [5 Clubs Train](train_5.md)
 * [Passing](passing.md)
   * [Manipulation](manipulation.md)
   * [2 jugglers](2person_passing.md)
