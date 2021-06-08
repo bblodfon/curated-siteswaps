@@ -22,7 +22,7 @@ With <span style="color:red">red</span> the one ball that does something complet
 
 - 555<span style="color:red">14</span> - 464<span style="color:red">5</span>1 - 63<span style="color:red">5</span>24 - <span style="color:red">5</span>3444 - 5<span style="color:red">3</span>4 - see [video](https://www.instagram.com/p/CIrfEPyAulN/)
 - 555<span style="color:red">14</span> - 744<span style="color:red">14</span> - see [video](https://www.instagram.com/p/COD5XcyABKS/)
-- <span style="color:red">5</span>34 - 5|7<span style="color:red">5</span>161
+- <span style="color:red">5</span>34 - 5|7<span style="color:red">5</span>161 - see [video](https://www.instagram.com/p/CP29iqZglHK/)
 
 ## 3 colors
 
@@ -30,7 +30,7 @@ With <span style="color:red">red</span> the one ball that does something complet
 
 - <span style="color:red">4</span><span style="color:blue">5</span><span style="color:green">64</span><span style="color:red">1</span> - see [video](https://www.instagram.com/p/CIHBr8Fg9b3/)
 - <span style="color:red">4</span><span style="color:green">64</span><span style="color:blue">5</span><span style="color:red">1</span> - see [video](https://www.instagram.com/p/CJzkuglgpZG/)
-- <span style="color:red">12</span><span style="color:green">3</span><span style="color:red">4</span><span style="color:green">56</span><span style="color:blue">7</span> - all the 3 above connected in one, see [video](https://www.instagram.com/p/CPsmUv_APlG/)
+- <span style="color:red">12</span><span style="color:green">3</span><span style="color:red">4</span><span style="color:green">56</span><span style="color:blue">7</span> - the 2 above + the magic 1-7 all connected in one sequence: [video](https://www.instagram.com/p/CPsmUv_APlG/)
 - <span style="color:red">7</span><span style="color:blue">5</span><span style="color:red">3</span><span style="color:green">14</span> (start with 2 balls of the same color in one hand) - see [video](https://www.instagram.com/p/COv3pX7gYVt/)
 - <span style="color:blue">5</span>|<span style="color:red">5</span><span style="color:blue">8</span><span style="color:green">14</span><span style="color:blue">2</span> (start with 2 balls of the same color in one hand) - see [video](https://www.instagram.com/p/COyGytNn7KT/)
 
