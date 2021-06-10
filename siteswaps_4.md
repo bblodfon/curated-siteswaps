@@ -56,7 +56,7 @@
 - 7425+514
 
 **6 ball practice**
-- **5|6716161** (from magic sequence 1-7, video soon!)
+- **5|6716161**
 - 6461641 (tricky, nice practice, doesn't feel nice though!)
 - 6366151 (amazing)
 - 5|66161 => 5|6616162 (nice extension)
