@@ -50,7 +50,7 @@
 - 63+751+24, 63+724+51 (TENTES)
 - 7362+514 (AMAZING => 6 as column)
 
-**More 514 Combinations - TO CHECK!**
+**514 Combosite Combinations**
 - 5661+514 (6's outside)
 - 7461+514 (NICE)
 - 7425+514
