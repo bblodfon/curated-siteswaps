@@ -3,7 +3,6 @@
 ### Period 3
 
 - 423, 441, 531
-- 5|711
 - **46|801** (TENTA)
 
 ### Period 4
@@ -15,29 +14,32 @@
 **Max Throw: 5**  
 - 44403 (nice for learning 4)
 - **45141** (in and out of 51)
-- **34512, 53142, 52413** (magic sequence)
-- 35511
+- **34512, 53142, 52413** (magic sequence permutations)
 - 53403, 45303 (nice ones for 534)
 - **52512** (baby juggling)
 - **4|55050** (snake), 55140, 45501 (preparing for 55514 and 5)
 - 55500 (3up)
 
 **Max Throw: 6**  
-- **46401**, 64140, 64113
-- **46131, 63141, 63501 (last one taught by Andreas, core siteswap!)**
-- **62313, 63123**
-- 56112, 62511
-- 4|61251 (double async box), **4|61611** (very nice & aesthetic)
+- 46401, 64140, 64113
+- 46131, 63141, **63501 (Andreas favorite)**
+- **62313** (slam that zip!)
+- 4|61251 (double async box)
 
 **Max Throw: 7**  
 - 72312 (looking like 531 but not...)
-- 4|67011, **5|61701 (one of my favourites)**
+- **5|61701 (one of my favourites)**
 - **45|70701** (good exercise for 7)
 - **44|70350** (cool snake variation)
 
-**Max Throw: 8**  
-- 4|84012, 4|81312, 4|81231
-- 4|81411 (boxy), 4|85011
+**11-family**  
+- 5|711
+- 35511
+- 62511
+- **4|61611** (very nice & aesthetic)
+- 4|67011
+- 4|81411 (boxy)
+- 4|85011
 
 **Max Throw: 9**  
 - 45|90501 (all in one side!)
