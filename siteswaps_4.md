@@ -47,7 +47,8 @@
 
 **1-7 Permutations**
 - **1234567** (magic sequence)
-- 63+751+24, 63+724+51 (TENTES)
+- 6372+451 (TENTA, throw 7 in between 6 and 3)
+- 63+751+24 (TENTA)
 - 7362+514 (AMAZING => 6 as column)
 
 **514 Combosite Combinations**
