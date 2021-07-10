@@ -27,7 +27,7 @@
 
 **With a 7 :)**
 - 5|72722 (552 extension to almost snake :)
-- 5|74162 (6 as out column)
+- 5|74162 (6 as in column is best)
 - **75251** (async => sync => async => ...)
 - **74414**
 - **7531(4)** (Tower)
@@ -48,13 +48,13 @@
 **1-7 Permutations**
 - **1234567** (magic sequence)
 - 6372+451 (TENTA, throw 7 in between 6 and 3)
-- 63+751+24 (TENTA)
+- 63+751+24 (TENTA, same 'inside' 7 throw)
 - 7362+514 (AMAZING => 6 as column)
 
 **514 Combosite Combinations**
-- 5661+514 (6's outside)
-- 7461+514 (NICE)
-- 7425+514
+- 5661+514 (6's outside is best)
+- 7461+514 (NICE, evolution from 4615140!)
+- 7425+514 (EVEN NICER)
 
 **6 ball practice**
 - **5|6716161**
