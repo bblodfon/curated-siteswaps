@@ -60,18 +60,13 @@
 - **5|6716161**
 - 6461641 (tricky, nice practice, doesn't feel nice though!)
 - 6366151 (amazing)
-- 5|66161 => 5|6616162 (nice extension)
+- **5|66161** => 5|6616162 (nice extension) => 5|8416261 (bring it higher!)
+- 6481441, 8441641 (both nice and straightforward, 441's)
 
 **7 ball practice**
 - 5|7272712 (baby juggling)
 - 56|7707070 (snake)
 - 5|7770700 (3 and 1), 555|7077700 (1 and 3)
-
-**8,4,1 TO CHECK!!!**
-- 6481441
-- 8441641
-- 5|6812461
-- 5|8416261
 
 **Others**
 - **6|6716071** (see [video](https://www.instagram.com/p/CP0LqHMgnIR/))
