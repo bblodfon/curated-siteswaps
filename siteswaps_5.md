@@ -13,40 +13,37 @@
 
 ### Period 5
 
-**6-ball training**  
+**6-ball training**
 - 66661
 - 666660
 
-**With a 7**  
+**With a 7**
 - 77722 (**3up**), 7777700 (**5up**)
 - **6|77272** (snake)
-- 74464, 74635, 34567 (**TO CHECK!!!**)
-- **67+561**, 66751, 75661, 75751
+- 74464 (more easy, combosite), 74635 (seems ok)
+- **67+561**, 66751, 75661, 75751 (**TO CHECK ALL THESE AGAIN**)
 
-**Nice transition**  
+**Nice transition**
 - 744 => 8444 => 94444 (5551)
 
-**Known & nice**  
+**Known & nice**
 - 88441
 - 97531
 
-**TO CHECK SOS!!!**  
+**TO CHECK SOS!!!**
 - 86461, 6|66814
-- 86416 ~ 68641
+- 6|86416 ~ 68641 (shifted version, no transition required)
 - 68551, 68524
-- 85-561, 85-741
+- *85-561*, *85-741*
 - 6|75814
-- 72781, 78181
+- 67|72781, 67|78181
 
 ### Period >= 7
-                                                                                
-- 6777161 (55514-like)                           
-- 774-2-744 (nice one)                                                          
-- **774-714-744** (very nice combo)                                                 
 
-**TO CHECK SOS!!!**  
-- 8448641
-- 8558144
-- 2345678, 123456789 (!!!)
+- 6777161 (55514-like)
+- 774-2-744 (nice one)
+- **774-714-744** (very nice combo)
+- 8448641 (NICE?, **TO CHECK**)
+- 8558144 (NICE?, **TO CHECK**)
 - **8558158518551 (13-period, Ben Beever?)**
 
