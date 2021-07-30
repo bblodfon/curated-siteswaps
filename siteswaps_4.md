@@ -61,7 +61,7 @@
 - 6461641 (tricky, nice practice, doesn't feel nice though!)
 - 6366151 (amazing)
 - **5|66161** => 5|6616162 (nice extension) => 5|8416261 (bring it higher!)
-- 6481441, 8441641 (both nice and straightforward, 441's)
+- 6481**441**, 8**441**641 (both nice and straightforward, 441's)
 
 **7 ball practice**
 - 5|7272712 (baby juggling)
@@ -70,10 +70,7 @@
 
 **Others**
 - **6|6716071** (see [video](https://www.instagram.com/p/CP0LqHMgnIR/))
-- **7427242**
-- 8531+524 (???)
-- 63+85501 - **the flower!**
-- 63+82+531 (nice)
+- **7427242** (nice!)
 - 5|8518501 (TENTA)
 - **8441+8414+81441 (13-period, Ben Beever, Siteswaps DVD)**
 
