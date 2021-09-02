@@ -31,6 +31,7 @@
 - 97531
 
 **TO CHECK SOS!!!**
+- 6777701 (**should be good**!)
 - 86461, 6|66814
 - 6|86416 ~ 68641 (shifted version, no transition required)
 - 68551, 68524
