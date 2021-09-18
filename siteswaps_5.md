@@ -21,7 +21,7 @@
 - 77722 (**3up**), 7777700 (**5up**)
 - **6|77272** (snake)
 - 74464 (more easy, combosite), 74635 (seems ok)
-- **67+561**, 66751, 75661, 75751 (**TO CHECK ALL THESE AGAIN**)
+- **67+561**, 66751, 75661, **75751** (**Amazing permutations!**)
 
 **Nice transition**
 - 744 => 8444 => 94444 (5551)
