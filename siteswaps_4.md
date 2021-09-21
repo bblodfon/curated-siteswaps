@@ -2,7 +2,8 @@
 
 ### Period 2
 
-- 53 (half shower, classic)
+- 53 (half shower)
+- 71 (shower)
 
 ### Period 3
 

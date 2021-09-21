@@ -2,7 +2,7 @@
 
 ### Period 2
 
-- Half shower
+- Half Shower (5)
 - Shower (91)
 
 ### Period 3
