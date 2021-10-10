@@ -21,7 +21,7 @@
 - 77722 (**3up**), 7777700 (**5up**)
 - **6|77272** (snake)
 - 74464 (ok)
-- 74635 (**CHECK**, hm x 1)
+- 74635 (**CHECK**, hm x 2)
 - **67+561**, 66751, 75661, **75751** (**AMAZING permutations!**)
 
 **Nice transition**
@@ -43,5 +43,4 @@
 - **774-714-744** (very nice combo)
 - 774-2-744 (nice one? - **CHECK**)
 - 8448641 (**CHECK**)
-- **8558158518551 (CHECK, 13-period, Ben Beever?)**
 
