@@ -20,6 +20,10 @@ John
 
 ## Notes
 
+- *November 2021*: I found a better name for my collection of siteswaps: **curated siteswaps**!
+This name better encaptulates my effort to find the best ones and what best exactly means.
+Still an ongoing process!
+Also finally the 5 ball siteswaps have become more stable :)
 - *March 2021*: I have started realizing that using different colored objects to juggle is a major improvement over the unicolor culture that I was familiar with.
 The use of colors benefits your technique, it's more practical for learning new tricks, shows some hidden possibilities in your juggling exploiting a visual perspective, helps to build your own style and makes your mood better by adding an extra layer of diversity.
 So, I highly recommend it!
