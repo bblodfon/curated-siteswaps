@@ -1,4 +1,4 @@
-# Siteswaps
+# Curated Siteswaps
 
 Per number of balls:  
 - [2 balls](siteswaps_2.md)
