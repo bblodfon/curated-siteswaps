@@ -50,7 +50,7 @@ gulp.task('build_book', function (callback) {
 });
 
 gulp.task('date_change', function(cb) {
-  cmd = 'sed -i "4s/.*/Last updated: $(date \'+%B %d, %Y\')/g" solo.md'
+  cmd = 'sed -i "4s/.*/Last updated: $(date \'+%B %d, %Y\')/g" intro.md'
   exec(cmd, function(err,stdout,stderr) {
     console.log(stdout);
     console.log(stderr);

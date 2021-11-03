@@ -1,4 +1,4 @@
-# Solo Juggling Siteswaps
+# Intro
 
 <p><i>
 Last updated: October 25, 2021
