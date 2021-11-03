@@ -1,7 +1,7 @@
 # Intro
 
 <p><i>
-Last updated: October 25, 2021
+Last updated: November 03, 2021
 </i></p>
 
 Knowledge acquired throughout years of practicing, playing over and over 
