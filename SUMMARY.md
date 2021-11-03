@@ -11,7 +11,7 @@
   - [3 Ball Tricks](3balls.md)
   - [4 Ball Colored Patterns](4_ball_col.md)
   - [Mills Mess](mills_mess.md)
-  - [One hand](one_hand.md)
+  - [One Hand](one_hand.md)
   - [Sync](sync.md)
   - [Multiplex](multiplex.md)
   - [7 Balls Train](train_7.md)
