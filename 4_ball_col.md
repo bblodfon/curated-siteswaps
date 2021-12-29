@@ -21,6 +21,8 @@ This means that you can go from a dichromatic 552 after the 1st or 3rd global pe
 - Start with dichromatic 552 and switch after 2nd or 4th period (\*): <span style="color:blue">5</span>|<span style="color:red">74</span><span style="color:blue">1</span> - see [video](https://www.instagram.com/p/CMoxzEtgGrf/)
 - (\*): <span style="color:blue">5</span>|<span style="color:red">66</span><span style="color:blue">1616</span><span style="color:blue">2</span> - see [video](https://www.instagram.com/p/CRbPnz0n4bj/)
 - (\*): <span style="color:blue">7</span><span style="color:red">42</span><span style="color:blue">7</span><span style="color:red">242</span> - see [video](https://www.instagram.com/tv/CX9HXcaPgmb/)
+- (\*): <span style="color:blue">5</span>|<span style="color:red">85</span><span style="color:blue">185</span>0<span style="color:red">1</span> - see [video](https://www.instagram.com/tv/CYBkkBfLpDf/)
+- (\*): <span style="color:blue">8</span><span style="color:red">44</span><span style="color:blue">18</span><span style="color:red">414</span><span style="color:blue">8</span><span style="color:red">144</span><span style="color:blue">1</span> - see [video](https://www.instagram.com/p/CYFTlHcvCrh/)
 
 (\*): These are equivalent to starting from 4 ball fountain with throws corresponding to colors as (<span style="color:blue">blue</span>,<span style="color:red">red</span>,<span style="color:red">red</span>,<span style="color:blue">blue</span>).
 Note that the placement of the balls in your hands, so that the above throw sequence respects the coloring, forms a **crossing pattern**.
