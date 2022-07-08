@@ -87,6 +87,8 @@ D(down)
 
 - [4MM](https://www.instagram.com/tv/B_2a6xTAipu/)
 - [4FMM](https://www.instagram.com/tv/CAAWkh9AJQK/)
+  - 534-FMM (5{D}-[version](https://youtu.be/3O6OWj0O7W0?t=19))
+  - 552-FMM (5{U}5{D}-[version](https://youtu.be/3O6OWj0O7W0))
 - 4 Windmill, 4 Reverse Windmill
 - [4 Ball Boston Mess](https://www.instagram.com/tv/CAkTvd2AVxK/)
 
@@ -102,11 +104,6 @@ D(down)
 - **53444** (2-colorable, nice)
 - **55514** (2-colorable, nice)
 - 46451 (amazing!)
-
-### RESEARCH
-
-- 534-FMM (the 5{D}-version seems to be the best)
-- 552-FMM (the 5{U}5{D}-version seems to be the best)
 - 63524 **???**
 
 # 5 balls
