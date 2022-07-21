@@ -26,6 +26,11 @@ With zaps:
   - ppss = chocolate bar
   - ppps = strawberry
   - pppp = banana (1-count :)
+- 3/4-count with early doubles
+- 3-count variations on self throws:
+  - 42p
+  - 4p(early double)440p
+  - 520p(x)
 - pps, ppsps (**bookends**)
 - Jim's 2-count: 77466
 - Jim's 3-count: 77466666
@@ -33,7 +38,7 @@ With zaps:
 - **Why not** - 77862
   - 2|2 vs 1|2: p3p41 (||) vs 41p3p (x) 
   - 1|2 vs 1|2: p41p3 (||) vs p3p41 (x)
-  - Straight-passes-fella (||) always starts first!
+  - Straight-passes-person (||) always starts first!
 - **5 club Why Not?** vs **5-count Popcorn**
   - 1|2 vs 1|2: p3141 (||,1st) vs 44p33 (x,2nd)
 - 972
