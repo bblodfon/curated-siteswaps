@@ -27,11 +27,11 @@
 #### Max Throw: 5 {-}
 
 - 44403 (nice for learning 4)
-- **45141** (in and out of 51)
+- **4+51+41** (in and out of 51)
 - **34512, 53142, 52413** (magic sequence permutations)
 - 53403, 45303 (nice ones for 534)
 - **52512** (baby juggling)
-- **4|55050** (snake), 55140, 45501 (preparing for 55514 and 5)
+- **4|55050** (snake), 55140, 45501 (related to 55514)
 - 55500 (3up)
 
 #### Max Throw: 6 {-}
@@ -117,7 +117,7 @@
 
 #### Standards {-}
 
-- 534+44 => 7333444 (Tennis Var. - just for the fun of it)
+- 534+44 => 7333444 (Tennis fun variation!)
 - **55514, 46451**
 
 #### Nice with 6s {-}

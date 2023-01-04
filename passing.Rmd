@@ -1,53 +1,62 @@
 # Passing {-}
 
-Anything related to passing goes here!
+Passing patterns! Yay!
 
 ## Manipulation {-}
 
 ### 3-person {-}
 
 - 4-count Roundabout (standard)
-- 3-count Roundabout (Nickie's version)
-- Chopabout
-- Phoenician Waltz (pps, symmetrical)
-- MinuEd (pps, symmetrical)
-- Dolby 5.1 (5-count based)
+  - [Chopabout](https://fb.watch/hQFJcdEfP0/)
+  - [Slapabout](https://youtu.be/hQUMouImUaI)
+  - [3-count Roundabout (Nickie's version)](https://passing.zone/nickis-3-count-roundabout/)
+- [Phoenician Waltz](https://passing.zone/phoenician-waltz/) (pps, symmetrical)
+- [MinuEd](https://passing.zone/minued/) (pps, symmetrical)
+- [Dolby 5.1](https://passing.zone/dolby-5-1-mit-einzel-und-doppelganger/) (5-count based)
+- [ChampV](https://passing.zone/champ-v/) (ppsps, symmetrical)
+  - All chops thrown from the same side (north wall pattern)
+- [Why-not about (2014 version)](https://www.instagram.com/reel/Cm8Cam2u3tz/)
+  - p3p41, the 4 gets intercepted
+  - Alt. name: "What's that about?" :)
 
 ### 4-person {-}
 
-- Kennedy (4-count roundabout with 2 manipulators, helicopter version!)
+- Kennedy (4-count roundabout with 2 manipulators, [helicopter version](https://passing.zone/kennedy-helicopter-version/))
 - Scramble-V (Variations: 3,B,Toast,Zig-Zag)
+- [Cambled-V](https://passing.zone/cambled-v/) 
+  - Ambled-V variation
+  - All start right-handed at the same time!
+  - Feeder passes left-handed!
+  - All passes are crossed!
 
 ### 5-person {-}
 
-The next two patterns are 2-count 9-club feeds with runaround and 2 manipulators:
-
-- Scramble-3V
-- Scramble-3ZigZag
+- Scramble-3V or Scramble-3ZigZag => 2-count 9-club feeds with runaround and 2 manipulators
+- Shooting Star + 1 manipulator (or even 2)
 
 ## 2 jugglers {-}
 
 Non-manipulation, non-moving patterns for 2 jugglers :)
 
-### 3 clubs {-}
+### <=4 clubs {-}
 
-- 720 (501-like)
-- 522
-
-### 4 clubs {-}
-
-- 552
+- 720 (501-like), 522 (3 clubs)
+- 552 (4 clubs)
 
 ### 5 clubs {-}
 
 - 1-count, psz (726)
 - 41p31 (why not)
-- Parsnip (ppzpz)
+- **Parsnip** (ppzpz)
 
 With zaps:
 
 - 645
 - 852 (heff, zip, zap)
+- [825](https://passist.org/siteswap/852?jugglers=2) (heff, zap, zip)
+- [55258](https://passist.org/siteswap/55258?jugglers=2)
+  - With Christian at Swedish passout
+  - zap, zap, zap, zip, heff
 
 ### 6 clubs {-}
 
@@ -56,27 +65,28 @@ With zaps:
   - ppss = chocolate bar
   - ppps = strawberry
   - pppp = banana (1-count :)
-- 3/4-count with early doubles
-- 3-count variations on self throws:
+- 3-count variations:
+  - Early crossing double (on second throw)
   - 42p
   - 520p(x) => feels similar to the above (5 is like 4x)
-  - 4p(early double)440p
-  - Throw double crossing pass on time => causes the other person to wait and do 2-count kind-of
+  - 4(dp, early double)440p
 - pps, ppsps (**bookends**)
 - Jim's 2-count: 77466
 - Jim's 3-count: 77466666
-- Jim's bookends!
 - **Why not** - 77862
   - 2|2 vs 1|2: p3p41 (||) vs 41p3p (x) 
   - 1|2 vs 1|2: p41p3 (||) vs p3p41 (x)
   - Straight-passes-person (||) always starts first!
 - **5 club Why Not?** vs **5-count Popcorn**
   - 1|2 vs 1|2: p3141 (||,1st) vs 44p33 (x,2nd)
-- 972 (weird start!)
-  - 2|1 (start with right?) vs 1|2: (dp)1p (x,||) vs p(dp)1 (x,||)
+- [972](https://passist.org/siteswap/972?jugglers=2) (weird start!)
+  - 2|1 (you don't do the first zip!) vs 1|2: (dp)1p (x,||) vs p(dp)1 (x,||)
   - (dp) = double pass
-- Mild Madness (7777266)
-  - 1|2 vs 1|2: pp13pp3 (||) vs pp3pp13 (x)
+  - p(dp) => both end up on the same hand
+- [45678](https://passist.org/siteswap/78456?jugglers=2)
+  - All throws from flip to heff!
+- Nice 6-period siteswaps:
+  - [978822](https://passist.org/siteswap/978822?jugglers=2), 441's
 
 ### 7 clubs {-}
 
@@ -92,12 +102,17 @@ With zaps:
   - 2|2 vs 1|2: p34 (||) vs 4p3 (x)
 - **Funky Bookends** - 77786
   - 2|2 vs 1|2: pp3p4 (||) vs p4pp3 (x)
-- **Vitoria** - 7778686                                                         
+- **Vitoria** - 7778686
   - 2|2 vs 1|2: pp33p44 (||) vs p44pp33 (x)
 - 88892 (nice with 441, but somewhat difficult)
   - 1|2 vs 2|2: 4414d (x,1st) vs 4d441 (||,2nd)
 - **7 club why not** - 9968926
   - 2|2 vs 1|2: d3d3d41 (x) vs d41d3d3 (||)
+- Nice 6-period siteswaps:
+  - [678894](https://passist.org/siteswap/678894?jugglers=2) - 534 vs 423 kind-of
+  - [999942](https://passist.org/siteswap/999942?jugglers=2) - train your doubles :)
+- Not likely => [72966](https://passist.org/siteswap/72966?jugglers=2)
+  - Need good separation of single and double pass!
 
 ## 3+ jugglers {-}
 
@@ -122,7 +137,6 @@ Non-manipulation, non-moving patterns for 3 or more jugglers \\(\*0\*)\/
 - [Bruno's Nightmare (3-count version)](https://www.passingdb.com/patterns.php?id=48)
   - A giant juggles 3 jugglers (2 do 6-count, one feeds in 3-count and they change
 roles)
-  - Moving Feed pattern
   
 **Triangles**
 
@@ -146,12 +160,16 @@ for example (you have to fill 5 bits of time in there :)
   - Feeder: pps (out,out,in,in - like in the 9-club version), starts with 5 clubs.
   - Feedees: 3-count, crossing
 
+#### 6-handed siteswaps {-}
+
+- Experimental, tried: [a37979999](https://passist.org/siteswap/a37979999?jugglers=3)
+
 ### 4 jugglers {-}
 
 - Square placement, 2 jugglers work as **2-count feeders**, the 2 others do 
 **4-count** as simple feedees
 - **Shooting star** (single passes, one juggler runs to the extra corner of the 
-pentagram)
+pentagram when he rans out of clubs)
 - **Y** (2-count mostly, can be 4-count). Variations:
   - **Rotating Y**  
 Always moving clockwise, both groups change position every n passes (2 or 3 
@@ -163,13 +181,6 @@ changes the jugglers that they pass at, so generally you pass to both of the
 other group (but this is true only for one of the groups, the other does not 
 change to whom they pass at). Each juggler in the group moves in a 
 diamond-shaped path!
-- **Phantoms** (nice and easy). Positioning:  
-(Phantom) A B (Phantom)  
-(Phantom) C D (Phantom)  
-A pass to the phantom is  a pass to yourself! (or to some other person that 
-might be coming there and fill in the 'phantom' position). Each juggler does 
-a 2-count, windshield style. Example - D's throw sequence is: (Phantom), B, A, 
-B, (Phantom), ...
 - **Weaver**  
 Feeder: 2-count and feeds like a windshield 3 people  
 Feedees: 6-count and moving as a 3-people cascade
