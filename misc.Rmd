@@ -202,8 +202,7 @@ Notation:
 
 - R = Reverse (in time)
 - F = Flipped
-- Unless specified, each siteswap is done at all 3 positions: U(up), M(middle),
-D(down)
+- Unless specified, each siteswap is done at all 3 positions: **U** (UP), **M** (MIDDLE), **D** (DOWN)
 
 ### 2 balls {-}
 
@@ -295,15 +294,15 @@ D(down)
 
 #### Period 3 {-}
 
-- 534
-- 552
-- 642 (the 6{U} is not worth it!)
-- 5|5{D}61 (tricky, but nice)
+- 534 (difficulty ranking => 5{D} < 5{M} << 5{U})
+- 552 (nice stuff!)
+- 642 (6{M} and 6{D})
+- 5{M}|5{D}61 (tricky, but nice)
 
 #### Period 5 {-}
 
 - **53444** (2-colorable, nice)
-- **55514** (2-colorable, nice)
+- **55514** (2-colorable, mmm)
 - 46451 (amazing!)
 
 ### 5 balls {-}
