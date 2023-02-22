@@ -302,7 +302,6 @@ Notation:
 #### Period 5 {-}
 
 - **53444** (2-colorable, nice)
-- **55514** (2-colorable, mmm)
 - 46451 (amazing!)
 
 ### 5 balls {-}
