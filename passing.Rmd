@@ -38,24 +38,24 @@ Passing patterns! Yay!
 
 Non-manipulation, non-moving patterns for 2 jugglers :)
 
-### <=4 clubs {-}
+### <5 clubs {-}
 
 - 720 (501-like), 522 (3 clubs)
 - 552 (4 clubs)
 
 ### 5 clubs {-}
 
-- 1-count, psz (726)
+- 1-count (singles or **zaps**)
+- psz (726)
 - 41p31 (why not)
 - **Parsnip** (ppzpz)
 
 With zaps:
 
-- 645
+- 645 (killer bunny => zap, flip, self)
 - 852 (heff, zip, zap)
-- [825](https://passist.org/siteswap/852?jugglers=2) (heff, zap, zip)
 - [55258](https://passist.org/siteswap/55258?jugglers=2)
-  - With Christian at Swedish passout
+  - With Christian at Swedish passout (2022)
   - zap, zap, zap, zip, heff
 
 ### 6 clubs {-}
@@ -73,21 +73,29 @@ With zaps:
 - pps, ppsps (**bookends**)
 - Jim's 2-count: 77466
 - Jim's 3-count: 77466666
-- **Why not** - 77862
-  - 2|2 vs 1|2: p3p41 (||) vs 41p3p (x) 
+- **Why not** - [77862](https://passist.org/siteswap/77862?jugglers=2)
+  - 2|2 vs 1|2: p3p41 (||) vs 41p3p (x)
   - 1|2 vs 1|2: p41p3 (||) vs p3p41 (x)
   - Straight-passes-person (||) always starts first!
+- **Maybe** - [78672](https://passist.org/siteswap/78672?jugglers=2)
+  - 1|2 v2 1|2: p314p (||,1st) vs 4pp31 (x,2nd)
+- **Maybe not** - [79662](https://passist.org/siteswap/79662?jugglers=2)
+  - 1|2 vs 1|2: p31(dp)3 (|| => single) vs (dp)3p31 (x => single)
+- **Not likely** - [96672](https://passist.org/siteswap/96672?jugglers=2)
+  - 1|2 vs 1|2: (dp)313p (x => dp) vs 3p(dp)31 (x => single)
 - **5 club Why Not?** vs **5-count Popcorn**
   - 1|2 vs 1|2: p3141 (||,1st) vs 44p33 (x,2nd)
-- [972](https://passist.org/siteswap/972?jugglers=2) (weird start!)
-  - 2|1 (you don't do the first zip!) vs 1|2: (dp)1p (x,||) vs p(dp)1 (x,||)
+- **Parsnip** vs **funky bookends**
+  - 1|2 vs 1|2: ppzpz (||,1st) vs p4pp3 (x,2nd)
+- [855](https://passist.org/siteswap/855?jugglers=2) - (heff, zap, zap)
+- [972](https://passist.org/siteswap/972?jugglers=2)
+  - 1|2 vs 1|2: (dp)1p (x,||, don't do the zip!) vs p(dp)1 (x,||)
   - (dp) => double pass
   - Pattern feels like two passes - p(dp) - that both end up **on the same hand**
-  - First person that starts with 2 clubs on his/her left hand, sends a crossing double, waits a bit and then sends the above pattern starting with left.
 - [45678](https://passist.org/siteswap/78456?jugglers=2)
   - All throws from flip to heff!
-- Nice 6-period siteswaps:
-  - [978822](https://passist.org/siteswap/978822?jugglers=2), 441's
+- [978822](https://passist.org/siteswap/978822?jugglers=2), 441's
+  - 1|2 vs 1|2: (dp)41 (x,1st) bs p41 (x,2nd)
 
 ### 7 clubs {-}
 
@@ -156,7 +164,7 @@ roles)
 Feeder does a 2-count to the same person when the other juggler does the 
 runaround part. The runaround can be: 3 slow selfs, 1 double self + 2 normal 
 for example (you have to fill 5 bits of time in there :)
-- **6-club why-not feedees 2 x 7-club 5-count popcorns**  
+- **6-club why-not feeds 2 x 7-club 5-count popcorns**  
   - Everyone starts **right-handed**
   - Feeder has 4 clubs, does p3p41, doesn't matter with whom he starts, **passes are straight**
   - Feedees do 44p33, **crossing passes**
