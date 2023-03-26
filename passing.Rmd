@@ -81,8 +81,9 @@ With zaps:
   - 1|2 vs 1|2: p3141 (||,1st) vs 44p33 (x,2nd)
 - [972](https://passist.org/siteswap/972?jugglers=2) (weird start!)
   - 2|1 (you don't do the first zip!) vs 1|2: (dp)1p (x,||) vs p(dp)1 (x,||)
-  - (dp) = double pass
-  - p(dp) => both end up on the same hand
+  - (dp) => double pass
+  - Pattern feels like two passes - p(dp) - that both end up **on the same hand**
+  - First person that starts with 2 clubs on his/her left hand, sends a crossing double, waits a bit and then sends the above pattern starting with left.
 - [45678](https://passist.org/siteswap/78456?jugglers=2)
   - All throws from flip to heff!
 - Nice 6-period siteswaps:
@@ -132,8 +133,10 @@ Non-manipulation, non-moving patterns for 3 or more jugglers \\(\*0\*)\/
   - Feeder does 1-count, 2 straight passes in one feeder, 2 in the other
   - Feeders do ppss (one starts two beats later or with ss)
 - **Parsnip feeding** 7-club 5-count popcorn and 6-club why-not
-  - Feeder right-throws to left person (5-count popcorn) and then 2 passes to the why-not feedee (all straight)
-  - All start with right hand
+  - Feeder right-throws to left person (5-count popcorn) and then 2 passes to the why-not feedee (all straight) => ppzpz
+  - Everyone starts with **right hand**
+  - Feeder => straight passes, **feedees => crossing passes**
+  - Why-not feedee does p41p3 (crossing single passes, starts right-hand)
 - [Bruno's Nightmare (3-count version)](https://www.passingdb.com/patterns.php?id=48)
   - A giant juggles 3 jugglers (2 do 6-count, one feeds in 3-count and they change
 roles)
@@ -149,10 +152,14 @@ roles)
 #### 10 clubs {-}
 
 - **2-count 10-club feed**  
-Var: Runaround (when the feeder changes - base pattern for Ample-V)
+  - Var: Runaround (when the feeder changes - base pattern for Ample-V)
 Feeder does a 2-count to the same person when the other juggler does the 
 runaround part. The runaround can be: 3 slow selfs, 1 double self + 2 normal 
 for example (you have to fill 5 bits of time in there :)
+- **6-club why-not feedees 2 x 7-club 5-count popcorns**  
+  - Everyone starts **right-handed**
+  - Feeder has 4 clubs, does p3p41, doesn't matter with whom he starts, **passes are straight**
+  - Feedees do 44p33, **crossing passes**
 
 #### 11 clubs {-}
 
