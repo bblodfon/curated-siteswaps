@@ -120,12 +120,10 @@ With zaps:
 - Nice 6-period siteswaps:
   - [678894](https://passist.org/siteswap/678894?jugglers=2) - 534 vs 423 kind-of
   - [999942](https://passist.org/siteswap/999942?jugglers=2) - train your doubles :)
-- Not likely => [72966](https://passist.org/siteswap/72966?jugglers=2)
-  - Need good separation of single and double pass!
 
 ## 3+ jugglers {-}
 
-Non-manipulation, non-moving patterns for 3 or more jugglers \\(\*0\*)\/
+Non-manipulation patterns for 3 or more jugglers \\(\*0\*)\/
 
 ### 3 jugglers {-}
 
@@ -145,6 +143,8 @@ Non-manipulation, non-moving patterns for 3 or more jugglers \\(\*0\*)\/
   - Everyone starts with **right hand**
   - Feeder => straight passes, **feedees => crossing passes**
   - Why-not feedee does p41p3 (crossing single passes, starts right-hand)
+- **1-count feast**
+  - Everyone does pps out-of-phase
 - [Bruno's Nightmare (3-count version)](https://www.passingdb.com/patterns.php?id=48)
   - A giant juggles 3 jugglers (2 do 6-count, one feeds in 3-count and they change
 roles)
