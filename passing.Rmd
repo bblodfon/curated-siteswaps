@@ -145,6 +145,10 @@ Non-manipulation patterns for 3 or more jugglers \\(\*0\*)\/
   - Why-not feedee does p41p3 (crossing single passes, starts right-hand)
 - **1-count feast**
   - Everyone does pps out-of-phase
+- **ppz feeds french 3-count**
+  - All passes straight
+  - Feeders do 4p3, one starts with the left hand
+  - Feeder passes in,in,out,out
 - [Bruno's Nightmare (3-count version)](https://www.passingdb.com/patterns.php?id=48)
   - A giant juggles 3 jugglers (2 do 6-count, one feeds in 3-count and they change
 roles)
