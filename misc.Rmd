@@ -291,18 +291,11 @@ Notation:
   - 552-FMM (5{U}5{D}-[version](https://youtu.be/3O6OWj0O7W0))
 - 4 Windmill, 4 Reverse Windmill
 - [4 Ball Boston Mess](https://www.instagram.com/tv/CAkTvd2AVxK/)
-
-#### Period 3 {-}
-
-- 534 (difficulty ranking => 5{D} < 5{M} << 5{U})
+- 534 (from less difficult + nicer to harder and less nice => 5{D} < 5{M} << 5{U})
+  - [53444](https://www.instagram.com/reel/CrEJYQwJlml/) (2-colorable, nice)
 - 552 (nice stuff!)
 - 642 (6{M} and 6{D})
 - 5{M}|5{D}61 (tricky, but nice)
-
-#### Period 5 {-}
-
-- **53444** (2-colorable, nice)
-- 46451 (amazing!)
 
 ### 5 balls {-}
 
