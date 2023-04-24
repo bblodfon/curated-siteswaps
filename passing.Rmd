@@ -69,8 +69,8 @@ With zaps:
   - Early crossing double (on second throw)
   - 42p
   - 520p(x) => feels similar to the above (5 is like 4x)
-  - 4(dp, early double)440p
 - pps, ppsps (**bookends**)
+  - pps with 2 early doubles: pp(dp)(dp)13-pps
 - Jim's 2-count: 77466
 - Jim's 3-count: 77466666
 - **Why not** - [77862](https://passist.org/siteswap/77862?jugglers=2)
