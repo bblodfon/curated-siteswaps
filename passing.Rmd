@@ -77,6 +77,7 @@ With zaps:
   - 2|2 vs 1|2: p3p41 (||) vs 41p3p (x)
   - 1|2 vs 1|2: p41p3 (||) vs p3p41 (x)
   - Straight-passes-person (||) always starts first!
+  - Add an early double: p(dp)241 (p => ||, dp => x)
 - **Maybe** - [78672](https://passist.org/siteswap/78672?jugglers=2)
   - 1|2 v2 1|2: p314p (||,1st) vs 4pp31 (x,2nd)
 - **Maybe not** - [79662](https://passist.org/siteswap/79662?jugglers=2)
