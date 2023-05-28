@@ -334,12 +334,15 @@ Notation:
 
 ### 5 balls {-}
 
-- Shower (8x,2x)
-- (6x,4)\* (transition with ~757|)
-  - (6x,4)(6x,4x)\* (**NICE**)
-  - (6x,4)(8x,6)(4,2x)\*
-- (6,4x)\* (from (6x,4)\* no transition required)
-- (8,2x)\* (4-sprung fountain, tough)
+Base pattern here is **(6x,4)\*** (transition with ~757 from 5 ball cascade).
+
+From this you can go to the following:
+
+- Shower (8x,2x) - transition with (8x,6) to bring 4 balls in one side
+- (6x,4)(6x,4x)\* (**NICE**, no transition required)
+- (6x,4)(8x,6)(4,2x)\* (TO CHECK, no transition required)
+- (6,4x)\* (no transition required, sister pattern :)
+- (8,2x)\* (4-sprung fountain, tough, transition with (6,8))
 
 ## Multiplex {-}
 
