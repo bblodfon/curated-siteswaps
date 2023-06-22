@@ -340,7 +340,6 @@ From this you can go to the following:
 
 - Shower (8x,2x) - transition with (8x,6) to bring 4 balls in one side
 - (6x,4)(6x,4x)\* (**NICE**, no transition required)
-- (6x,4)(8x,6)(4,2x)\* (TO CHECK, no transition required)
 - (6,4x)\* (no transition required, sister pattern :)
 - (8,2x)\* (4-sprung fountain, tough, transition with (6,8))
 
