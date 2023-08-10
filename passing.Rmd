@@ -48,8 +48,9 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - <span style="color:blue">5</span>6662 (56464 for more beginners) - 5 is magic
 - 646455 (33zap vs zap)
 - [645](https://passist.org/siteswap/564?jugglers=2) (**Killer Bunny** - answer zap with self,zap)
-  - 64555 (brainy zap exercise)
+  - [64555](https://passist.org/siteswap/55645?jugglers=2) (brainy zap exercise)
 - 1-count with zaps
+- [7a224](https://passist.org/siteswap/7a224?jugglers=2) - single passes as zaps, and 5's as double selfs!
 - 756 family:
   - 7<span style="color:blue">5</span>666 (2+3-count mix with zaps - 5 is magic)
   - 756 (Baby Dragon)
@@ -145,10 +146,10 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 
 ## 6-handed siteswaps {-}
 
-- [Document](https://passing.zone/wp-content/uploads/2021/02/3-Person6-handed-Siteswaps.pdf)
-- [a37979999](https://passist.org/siteswap/a37979999?jugglers=3)
+- [PDF](https://passing.zone/wp-content/uploads/2021/02/3-Person6-handed-Siteswaps.pdf)
+- [a37979999 - Mayday Zap](https://passist.org/siteswap/a37979999?jugglers=3)
 - [a8999 - Gare du Zap](https://passing.zone/gare-du-zap/)
-- [Why-Not Triangle](https://passing.zone/whynot-triangle/) - I don't think this is a siteswap though!
+- [aaac993bbbcc933 - Why-Not Triangle](https://passing.zone/whynot-triangle/)
 
 ## Feeds and Triangles {-}
 
@@ -162,7 +163,7 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - **1-count chocolate bar feed**
   - Feeder does 1-count, 2 straight passes in one feeder, 2 in the other
   - Feeders do ppss (one starts two beats later or with ss)
-- **Parsnip feeding** 7-club 5-count popcorn and 6-club why-not
+- **Parsnip feeding 7-club 5-count popcorn and 6-club why-not**
   - Feeder right-throws to left person (5-count popcorn) and then 2 passes to the why-not feedee (all straight) => ppzpz
   - Everyone starts with **right hand**
   - Feeder => straight passes, **feedees => crossing passes**
