@@ -181,7 +181,7 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - All passes straight
   - Feeders do 4p3, one starts with the left hand (or with a self)
   - Feeder passes in,in,out,out, sends first pass to 4p3 feeder
-- **ppzspps feeding 2 x Jim's 3-count**
+- **ppzspps feeding two Jim's 3-counts**
   - Feeder: ||, feedees: x-passes
 
 ### 10 clubs {-}
@@ -210,6 +210,10 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - Feedees do 6-count popcorn with straight singles (44p333)
   - Left feedee starts 44... (right-handed pass)
   - Right feedee starts 333... (left-haded pass)
+- **PPS feeds two french 3-counts**
+  - Feeder starts with 4 clubs, straight passes
+  - Left-feedee does 4p3, straight short single passes, starts exactly the same time as the feeder
+  - Right-feedee does 34p, cross longer single passes, starts half a beat later
 
 #### 11 clubs {-}
 
