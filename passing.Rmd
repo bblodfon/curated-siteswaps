@@ -157,6 +157,10 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 ### 9 clubs {-}
 
 - **Triangle sync counts** (2,3,4-counts, pps, ppsps)
+- **Gorilla: 1-count feeds two 2-counts**
+  - Feeder: straight passes
+  - Left-feedee: 2-count right-handed
+  - Right-feedee: 2-count left-handed
 - **2-count feeds two 4-counts**
   - Var: Runaround (when the feeder changes - base pattern for Scramble-V)
 - **PPS feeds two 3-counts**
@@ -181,6 +185,11 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 
 ### 10 clubs {-}
 
+- **Gorilla**
+  - Feeder has 4 clubs, cross passes, start left
+  - Feedees straight passes
+  - Left-juggler starts first, right-handed 2-count
+  - Right-juggler does left-handed 2-count
 - **2-count feeds two 4-counts with doubles**
   - Var: Runaround (when the feeder changes - base pattern for Ample-V)
 - **6-club why-not feeds two 5-count popcorns**
@@ -201,7 +210,7 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - Left feedee starts 44... (right-handed pass)
   - Right feedee starts 333... (left-haded pass)
 
-## 11 clubs {-}
+#### 11 clubs {-}
 
 - **2-count feeds two 4-count popcorns with doubles**
   - Everybody sends straight doubles, all start at the same time
