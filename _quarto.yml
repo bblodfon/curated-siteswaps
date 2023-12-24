@@ -1,11 +1,14 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Curated Siteswaps"
   author: "[John Zobolas](https://github.com/bblodfon)"
   date: last-modified
   description: "Siteswaps and Juggling Patterns"
+  repo-url: https://github.com/bblodfon/my-siteswaps/
+  repo-branch: main
   chapters:
     - index.qmd
     - siteswaps.qmd
