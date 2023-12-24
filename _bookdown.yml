@@ -1,3 +1,0 @@
-output_dir: docs
-delete_merged_file: true
-rmd_files: [index.Rmd, siteswaps.Rmd, misc.Rmd, passing.Rmd]
