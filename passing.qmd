@@ -2,7 +2,7 @@
 
 Passing patterns! Yay!
 
-## Manipulation patterns {-}
+## Manipulation patterns {-#manipulation-patterns}
 
 Intercepts, substitutions, carries, and so on...
 
@@ -37,7 +37,7 @@ Intercepts, substitutions, carries, and so on...
   - Feeder passes left-handed!
   - All passes are crossed!
 
-## 2 person passing {-}
+## 2 person passing {-#2-person-passing}
 
 Non-manipulation, non-moving patterns for 2 jugglers :)
 
@@ -145,7 +145,7 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - 2|3 vs 2|2: pp355 (||) vs 55pp3 (x)
 - [996](https://passist.org/siteswap/996?jugglers=2) - PPS
 
-## 6-handed siteswaps {-}
+## 6-handed siteswaps {-#6-handed-siteswaps}
 
 - [PDF](https://passing.zone/wp-content/uploads/2021/02/3-Person6-handed-Siteswaps.pdf)
 - [a37979999 - Mayday Zap](https://passist.org/siteswap/a37979999?jugglers=3)

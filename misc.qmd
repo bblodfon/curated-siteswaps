@@ -1,6 +1,6 @@
 # Miscellaneous {-}
 
-## 3 Ball Tricks {-}
+## 3 Ball Tricks {-#3balls-tricks}
 
 Various 3 ball tricks I have mastered throughout my juggling years :)
 
@@ -131,7 +131,7 @@ Various 3 ball tricks I have mastered throughout my juggling years :)
   - [441+33](https://www.instagram.com/p/B_N0FyTA2qx/) *shapeshift* the 2nd 4 (33 is done with the same hand)
   - [Broken Boston shifter!](https://youtu.be/svtqDpN6i78?t=46) - 2-colorable!
 
-## 4 Ball Colored Patterns {-}
+## 4 Ball Colored Patterns {-#4ball-colored-patterns}
 
 My favorite 4 ball colored siteswaps :)
 
@@ -403,7 +403,7 @@ From this you can go to the following:
 
 - ([444x],2)\*
 
-## 7 Balls Train {-}
+## Train 7b Cascade {-}
 
 A 7 Balls training program!
 Warm-up with the 3 and 4 ball section, put more effort and time to the 5+ ball sections. 

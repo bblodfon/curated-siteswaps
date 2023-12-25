@@ -1,6 +1,6 @@
 # Siteswaps {-}
 
-## 2 balls {-}
+## 2 balls {-#2balls}
 
 ### Core {-}
 
@@ -11,7 +11,7 @@
 - 34030, 41131, 41401
 - 3|6011501 (Siteswaps DVD)
 
-## 3 balls {-}
+## 3 balls {-#3balls}
 
 ### Period 3 {-}
 
@@ -99,7 +99,7 @@
 - 4+7131+41
 - 4713501
 
-## 4 balls {-}
+## 4 balls {-#4balls}
 
 ### Period 2 {-}
 
@@ -185,7 +185,7 @@
 - 5|8518501 (TENTA)
 - **8441+8414+81441 (13-period, Ben Beever, Siteswaps DVD)**
 
-## 5 balls {-}
+## 5 balls {-#5balls}
 
 ### Period 3 {-}
 
@@ -230,7 +230,7 @@ Work on the "scoop" motion!
 - 66661 (4 6's)
 - 666660(5) (5 6's)
 
-## 6 balls {-}
+## 6 balls {-#6balls}
 
 - 6 Fountain (practice until failure :)
 - Half shower (75) - 'outside' throws works better
