@@ -8,25 +8,21 @@ Various 3 ball tricks I have mastered throughout my juggling years :)
 
 - Cross-arm Cascade
   - Reverse Cross-arm Cascade
-  - Galerkin's Guitar - a Reverse Cross-arm half shower with with the top hand doing a clawed elliptical chop - [video](https://www.instagram.com/p/CABUBdKgxwx/)
+  - Galerkin's Guitar - a Reverse Cross-arm cascade with with the top hand doing a clawed elliptical chop - [video](https://www.instagram.com/p/CABUBdKgxwx/)
   - Frantic Cascade (continuous under the catches)
 - Tennis
   - [2-colorable Tennis Variations in 52413 and 45141](https://www.instagram.com/p/B_mNs8_g81n/)
   - [2-colorable Tennis Variations in 45303 and 53403](https://www.instagram.com/p/CCTnR_agkrL/)
 - **Penguin Cascade**
 - Claw Cascade
-  - (4x,2)\* with 2 as active claws!
 - Chops
   - [Time Reverse Chops](https://www.instagram.com/p/CBD2byIAY7J/)
-  - [Time Reverse Chop Var (NoSlowerDNA)](https://youtu.be/MFpF8N_rHOE?t=323)
-  - [Time Reverse Chop + Claw-2x Box](https://www.instagram.com/p/CChJZCzgD6Y/) - 3rd and 4th patterns
   - [Time Reverse Chop + Broken Box](https://www.instagram.com/p/CClYuZFA0qx/) - 3-colorable (1 ball is caught continously under the arm, 1 stays in the center and 1 is being choped out!)
 - 3-MM (MM => Mills Mess)
 - 3-Pinball
 - 3-bbb (blind behind the back) - [my attemps :)](https://www.instagram.com/p/CDHwAZHg7cl/)
-- 333 (normal,rbxx,bxx)
-  - claw catch the bxx ball
-- 333 (normal, reverse/catch under the leg, throw under the leg)
+- 333 with body throws
+  - reverse throw, catch under the leg + throw under the leg
 - 3-Factory (normal,normal,carry)
 - 3 continuous under-the-arm throw (Mike's Mess - 5D22)
   - Var: 52{wd}2 (wd = wrist-drop)
@@ -38,10 +34,9 @@ Various 3 ball tricks I have mastered throughout my juggling years :)
 - 423 MM, FMM (Takeouts)
 - 4D2U3 MM with 2 active as *wrist drop*
 - 423 with 2 active *goes outside* and is caught below other hand
-- 423 claw (everything!)
-  - Claw just the 3: [video](https://www.instagram.com/p/CChJZCzgD6Y/)
+- 423 claw (every throw)
 - 423 penguin variation (4 or 2 as penguin catches)
-- 423 bxx (4 or 3 as bxx)
+- 423 (3 as bxx)
 - [423 follow variation](https://youtu.be/bQvlinPcW8c?t=80): active 2 that circles the 3 (carry around), claw throw the 4
   - 423(follow var) + 3(carry)3 - [Relf's Factory](http://www.libraryofjuggling.com/Tricks/3balltricks/Relf'sFactory.html)!
 - 423 **tornado**: 2 active in infinity motion
@@ -50,8 +45,7 @@ Various 3 ball tricks I have mastered throughout my juggling years :)
 - 423 with 2 active drop, *catch under the leg* (nice)
 - 423 (4 high throw and 3 overhead throw, catches 4)
 - 423 overheads
-- 423 with 4 as a pinball!
-- 423 with 4 as a throw-and-stick-to-the-neck!
+- 423 with 4 as a pinball throw!
 
 ### Columns + Factory {-}
 
@@ -341,7 +335,6 @@ From this you can go to the following:
 - Shower (8x,2x) - transition with (8x,6) to bring 4 balls in one side
 - (6x,4)(6x,4x)\* (**NICE**, no transition required)
 - (6,4x)\* (no transition required, sister pattern :)
-- (8,2x)\* (4-sprung fountain, tough, transition with (6,8))
 
 ## Multiplex {-}
 
@@ -415,7 +408,7 @@ From this you can go to the following:
 A 7 Balls training program!
 Warm-up with the 3 and 4 ball section, put more effort and time to the 5+ ball sections. 
 You can also skip sections or mix them, e.g. start from the 5 ball section.
-A good advice is to work yourself up to 7 **quickly** and do multiple short sessions/attempts on 7 during one practice (so not just once in the end when you are most tired).
+A good advice is to work yourself up to 7 quickly and **do multiple short sessions/attempts on 7** during one practice (so not just once in the end when you are most tired).
 
 ### 3 Balls (warm-up) {-}
 
@@ -423,40 +416,25 @@ A good advice is to work yourself up to 7 **quickly** and do multiple short sess
 
 ### 4 Balls (more warm up) {-}
 
-- 741, 714, others...
-
-**Core 7s**
-
-- 71(shower), 5|7272712 (baby juggling)
+- 741, 714
+- 71 (shower), 5|7272712 (baby juggling)
 - 56|7707070 (snake)
   - 2 Variations: start with 3 in one hand and 1 in the other. Either throw the 3 first or the 1
 - 5|7770700 (3 and 1), 555|7077700 (1 and 3)
 
 ### 5 Balls {-}
 
-**Stability + Core**
-
 - 5-cascade (endurance!) + play with dwell time (high throws)
 - 77722 (**3up**), 7777700 (**5up**)
-- **744, 66|771**
-
-**Extra**
-
 - **5|77272** (snake - tough)
-- **645**, (6x,4)\* (for fun!)
+- Others: **744, 66|771**
 
 ### 6 Balls {-}
 
-**Core**
-
 - 7777770 (six 7's)
 - 77772 (four 7's)
-
-**Extra**
-
-- Half-shower: **75**
-- **756**
+- Others: **75** (half-shower), **756**
 
 ### 7 balls {-}
 
-- 7-cascade
+- 7b cascade
