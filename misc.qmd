@@ -332,7 +332,7 @@ Base pattern here is **(6x,4)\*** (transition with ~757 from 5 ball cascade).
 
 From this you can go to the following:
 
-- Shower (8x,2x) - transition with (8x,6) to bring 4 balls in one side
+- **Shower** (8x,2x) - transition with (8x,6) to bring 4 balls in one side
 - (6x,4)(6x,4x)\* (**NICE**, no transition required)
 - (6,4x)\* (no transition required, sister pattern :)
 
