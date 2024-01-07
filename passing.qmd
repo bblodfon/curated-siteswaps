@@ -46,11 +46,12 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 [Workshop collection](https://photos.app.goo.gl/ZQd3mDUCAUfTVaMD8)
 
 - 522 (zap,zip,zip), 552 (zap,zip,zap)
-- <span style="color:blue">5</span>6662 (56464 for more beginners) - 5 is magic
-- 646455 (33zap vs zap)
+- 646455 (self,self,zap vs zap)
+- **zap intro** - <span style="color:blue">5</span>6464 (both: self,self,zap) - 5 is magic
+- <span style="color:blue">5</span>6662 - 5 is magic
 - [645](https://passist.org/siteswap/564?jugglers=2) (**Killer Bunny** - answer zap with self,zap)
-  - [64555](https://passist.org/siteswap/55645?jugglers=2) (brainy zap exercise)
-- 1-count with zaps
+  - [64555](https://passist.org/siteswap/55645?jugglers=2) (Funky magazine rack)
+- 5 (1-count with zaps)
 - [7a224](https://passist.org/siteswap/7a224?jugglers=2) - single passes as zaps, and 5's as double selfs!
 - 756 family:
   - 7<span style="color:blue">5</span>666 (2+3-count mix with zaps - 5 is magic)
@@ -93,23 +94,28 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - **Maybe** - [78672](https://passist.org/siteswap/78672?jugglers=2)
   - 1|2 v2 1|2: p314p (||,1st) vs 4pp31 (x,2nd)
 - [45678](https://passist.org/siteswap/78456?jugglers=2)
-  - All throws from flip to heff!
+- All throws from flip (4) to heff (8)
+  - [78456](https://passist.org/siteswap/78456?jugglers=2) - has stack
+  - [75864](https://passist.org/siteswap/75864?jugglers=2) - 75666 extension
+  - [85746](https://passist.org/siteswap/85746?jugglers=2)
 - [978822](https://passist.org/siteswap/978822?jugglers=2), 441's
   - 1|2 vs 1|2: d41 (x,1st) bs p41 (x,2nd)
 
-**Combos**  
+**5-club vs 7-club patterns**  
 
 - **5 club Why Not?** vs **5-count Popcorn**
   - 1|2 vs 1|2: p3141 (||,1st) vs 44p33 (x,2nd)
 - **Parsnip** vs **funky bookends**
   - 1|2 vs 1|2: ppzpz (||,1st) vs p4pp3 (x,2nd)
 
-**Single + double passes**  
+**Siteswaps with a stack (single + double pass)**  
 
 - [972](https://passist.org/siteswap/972?jugglers=2)
   - 1|2 vs 1|2: d1p (x,||, don't do the zip!) vs pd1 (x,||)
 - **Not likely** - [96672](https://passist.org/siteswap/96672?jugglers=2)
-  - 1|2 vs 1|2: d313p (x => d) vs 3pd31 (x => single)
+  - 1|2 vs 1|2: d313p (d => x) vs 3pd31 (single => x)
+- **Maybe not** - [79662](https://passist.org/siteswap/79662?jugglers=2)
+  - 1|2 vs 1|2: p31d3 (d => x) vs d3p31 (single => x)
 
 ### 7 clubs {-}
 
