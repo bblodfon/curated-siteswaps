@@ -108,6 +108,11 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - **Parsnip** vs **funky bookends**
   - 1|2 vs 1|2: ppzpz (||,1st) vs p4pp3 (x,2nd)
 
+**Hijacking**  
+
+- Why-not to (popcorn,5-club why-not) => instead of p3p41, do p33+44
+- Why-not to Maybe => instead of p3p+41, do pss+4pp31
+
 **Siteswaps with a stack (single + double pass)**  
 
 - [972](https://passist.org/siteswap/972?jugglers=2)
@@ -127,7 +132,7 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - Sync version (**Techno**, singles): (RH p, LH 3)(RH 3)(LH p, RH 3)(LH 3) - (||,1st), (x,2nd)
 - **Popcorn patterns**
   - **5-count** popcorn ([78686](https://passist.org/siteswap/78686?jugglers=2)) - can be 53 (triple,self) instead of 44
-  - **4-count** popcorn with straight single passes (53p33)
+  - **4-count** popcorn with straight single passes (53p3)
   - **6-count** popcorn with straight double passes (44d333)
 - **French 3-count** - 786
   - 2|2 vs 1|2: p34 (||) vs 4p3 (x)
@@ -256,6 +261,13 @@ So, in all patterns listed below, we will use the *standard* hand order, unless 
 - **Bruno's Nightmare** (3-count version, 3 people)
   - A giant juggles 3 jugglers (2 do 6-count, one feeds in 3-count and they change
 roles)
+- **Why-not feed for 4+ people**
+  - Feeders do why-not
+  - People at the ends do 5-count popcorn or 5-club why-not
+  - Two lines of people
+  - One line starts, everyone there has 4 clubs
+  - Other line responds, why-not jugglers have 2 clubs, 5-count popcorn start with 3 clubs
+  - If starting side does *straight passes*, everyone can start right-handed.
 - **Shooting star (4 people)**
   - 5 people, pentagram positioning
   - Idea is that one juggler runs to the extra corner of the pentagram when he/she rans out of clubs
@@ -282,6 +294,11 @@ roles)
 ### Clubs {-}
 
 Mostly **side-by-side**
+
+#### 3 clubs {-}
+
+- 3p0 (cascade in-hands or out-hands)
+- 2p1 (cascade-ish, in-hand to out-hand)
 
 #### 4 clubs {-}
 
