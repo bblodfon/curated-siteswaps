@@ -64,6 +64,7 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - 5|720 (501-like)
 - 1-count (singles)
   - psz (726)
+  - dszsz ([96262](https://passist.org/siteswap/96622?jugglers=2))
 - 41p31 (why not)
 - **Parsnip** (ppzpz)
 
@@ -93,7 +94,6 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - **Israeli bicep curls** - [97842](https://passist.org/siteswap/97842?jugglers=2)
 - **Maybe** - [78672](https://passist.org/siteswap/78672?jugglers=2)
   - 1|2 v2 1|2: p314p (||,1st) vs 4pp31 (x,2nd)
-- [45678](https://passist.org/siteswap/78456?jugglers=2)
 - All throws from flip (4) to heff (8)
   - [78456](https://passist.org/siteswap/78456?jugglers=2) - has stack
   - [75864](https://passist.org/siteswap/75864?jugglers=2) - 75666 extension
@@ -153,11 +153,30 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 
 ## 6-handed siteswaps {-#6-handed-siteswaps}
 
-- [PDF](https://passing.zone/wp-content/uploads/2021/02/3-Person6-handed-Siteswaps.pdf)
-- [a37979999 - Mayday Zap](https://passist.org/siteswap/a37979999?jugglers=3)
-- [a8999 - Gare du Zap](https://passing.zone/gare-du-zap/)
-- [aaac993bbbcc933 - Why-Not Triangle](https://passing.zone/whynot-triangle/)
+The only online document on 6-handed siteswaps I know is [this one](https://passing.zone/wp-content/uploads/2021/02/3-Person6-handed-Siteswaps.pdf).
+With regard to the hand-order, the aforementioned document mentions the *standard* (Ar-Bl-Cr-Al-Br-Cl) and the *staggered* (Ar-Al-Br-Bl-Cr-Cl) sequence, where A,B,C are the jugglers, and r = right hand, l = left hand.
+In most patterns listed below, we have tried both the standard and a new hand order (Ar-Br-Cr-Al-Bl-Cl, let's call it *all-rights-all-lefts*), which made more sense to me compared to the one called *staggered*.
+In most cases (but not all!), the patterns got more irregular (harder passes) and less interesting when using different hand orders from the *standard* one.
+So, in all patterns listed below, we will use the *standard* hand order, unless otherwise specified.
+
+### 8 clubs {-}
+
+- **Mayday zap** - [a37979999](https://passist.org/siteswap/a37979999?jugglers=3), [video](https://youtu.be/LXSHpPcaVTU), every juggler does something different
+- Jim's 2-count (name?) - [88996](https://passist.org/siteswap/88996?jugglers=3)
+  - Local is zap,3,zap,3,2
+- Why-not with zaps (name?) - [8839c](https://passist.org/siteswap/8839c?jugglers=3)
+  - Local is zap,3,zap,4,1
+
+### 9 clubs {-}
+
+- **2-count mix** - [aa7999](https://passist.org/siteswap/aa7999?jugglers=3&hands=Ar-Br-Cr-Al-Bl-Cl)
+  - Hand-order is *all-rights-all-lefts*
+- **Gare du Zap** - [a8999](https://passist.org/siteswap/a8999?jugglers=3&hands=Ar-Br-Cr-Al-Bl-Cl), [video](https://passing.zone/gare-du-zap/) 
+  - Hand-order is *all-rights-all-lefts*
+- **Why-Not Triangle** - [aaac993bbbcc933](https://passist.org/siteswap/aaac993bbbcc933?jugglers=3), [video](https://passing.zone/whynot-triangle/)
   - Local siteswaps: 2 x a9bc3 and 1 x b9ac3
+- **fast & lofty singles** - [abc39](https://passist.org/siteswap/abc39?jugglers=3&hands=Ar-Bl-Cr-Al-Br-Cl)
+  - Local is fast-single,1,lofty-single,3,4 for all jugglers
 
 ## Feeds and Triangles {-}
 
