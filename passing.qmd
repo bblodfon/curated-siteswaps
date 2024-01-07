@@ -113,14 +113,15 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - Why-not to (popcorn,5-club why-not) => instead of p3p41, do p33+44
 - Why-not to Maybe => instead of p3p+41, do pss+4pp31
 
-**Siteswaps with a stack (single + double pass)**  
+**Siteswaps with single + double pass**  
 
-- [972](https://passist.org/siteswap/972?jugglers=2)
+- [972](https://passist.org/siteswap/972?jugglers=2) - has a stack
   - 1|2 vs 1|2: d1p (x,||, don't do the zip!) vs pd1 (x,||)
-- **Not likely** - [96672](https://passist.org/siteswap/96672?jugglers=2)
+- **Not likely** - [96672](https://passist.org/siteswap/96672?jugglers=2) - has a stack
   - 1|2 vs 1|2: d313p (d => x) vs 3pd31 (single => x)
 - **Maybe not** - [79662](https://passist.org/siteswap/79662?jugglers=2)
   - 1|2 vs 1|2: p31d3 (d => x) vs d3p31 (single => x)
+- **Odnom** - [7772964](https://passist.org/siteswap/7772964?jugglers=2) - has a stack
 
 ### 7 clubs {-}
 
