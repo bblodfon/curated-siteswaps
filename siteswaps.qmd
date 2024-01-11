@@ -124,7 +124,7 @@
 
 - **63524**, 45623 (columns + 3 out)
 - 45641 (columns)
-- 5|66161 (**6 ball practice favorite**)
+- 5|66161 (**6 ball training favorite**)
 - 66251
 - 64613 =>(perm.) 63+641
 - 5+561+3, **63551** (63501 evolution!)
@@ -165,7 +165,7 @@
 - 7461+514 (NICE, evolution from 4615140!)
 - 7425+514 (EVEN NICER)
 
-#### 6 ball practice {-}
+#### 6 ball training {-}
 
 - **5|6716161**
 - 6461641 (tricky, nice practice, doesn't feel nice though!)
@@ -226,17 +226,15 @@
 
 Work on the "scoop" motion!
 
-- 64, 645, 64645
-- 66625 (3 6's)
+- 645, 64645
 - 66661 (4 6's)
 - 666660(5) (5 6's)
 
 ## 6 balls {-#6balls}
 
 - 6 Fountain (practice until failure :)
-- Half shower (75) - 'outside' throws works better
+- Half shower (75)
 - **756**
 - 774
 - 864
-- **7|945 (!!!)**
-- 7|963
+
