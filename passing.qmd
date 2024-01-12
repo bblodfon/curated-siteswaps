@@ -91,7 +91,6 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - 1|2 vs 1|2: p41p3 (||) vs p3p41 (x)
   - Straight-passes-person (||) always starts first!
   - Add an early double (Katia's idea): pd241 (p => ||, d => x) - [92478](https://passist.org/siteswap/92478?jugglers=2)
-- **Israeli bicep curls** - [97842](https://passist.org/siteswap/97842?jugglers=2)
 - **Maybe** - [78672](https://passist.org/siteswap/78672?jugglers=2)
   - 1|2 v2 1|2: p314p (||,1st) vs 4pp31 (x,2nd)
 - All throws from flip (4) to heff (8)
@@ -121,6 +120,7 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - 1|2 vs 1|2: d313p (d => x) vs 3pd31 (single => x)
 - **Maybe not** - [79662](https://passist.org/siteswap/79662?jugglers=2)
   - 1|2 vs 1|2: p31d3 (d => x) vs d3p31 (single => x)
+- **Israeli bicep curls** - [97842](https://passist.org/siteswap/97842?jugglers=2)
 - **Odnom** - [7772964](https://passist.org/siteswap/7772964?jugglers=2) - has a stack
 
 ### 7 clubs {-}
