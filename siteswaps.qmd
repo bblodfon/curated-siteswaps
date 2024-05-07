@@ -29,7 +29,7 @@
 - 44403 (nice for learning 4)
 - **4+51+41** (in and out of 51)
 - **34512, 53142, 52413** (magic sequence permutations)
-- 53403, 45303 (nice ones for 534)
+- 53403 (nice one for 534)
 - **52512** (baby juggling)
 - **4|55050** (snake), 55140, 45501 (related to 55514)
 - 55500 (3up)
@@ -54,12 +54,6 @@
 - 62511
 - **4|61611** (very nice & aesthetic)
 - 4|67011
-- 4|81411 (boxy)
-- 4|85011
-
-#### Max Throw: 9 {-}
-
-- 45|90501 (all in one side!)
 
 ### Period 7 {-}
 
@@ -168,7 +162,6 @@
 #### 6 ball training {-}
 
 - **5|6716161**
-- 6461641 (tricky, nice practice, doesn't feel nice though!)
 - 6366151 (amazing)
 - **5|66161** => 5|6616162 (nice extension) => 5|8416261 (bring it higher!)
 - 6481**441**, 8**441**641 (both nice and straightforward, 441's)
