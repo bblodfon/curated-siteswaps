@@ -24,6 +24,7 @@ Intercepts, substitutions, carries, and so on...
 - Why-not Abouts
   - [What's that about (2014)](https://www.instagram.com/reel/Cm8Cam2u3tz/) - 4 gets intercepted
   - [Australian version](https://passing.zone/why-not-about) - [notation](https://photos.app.goo.gl/85EC5X2tkbCuZkAL9) - a pass gets intercepted
+- [Shorty-About](https://passing.zone/shorty/)
 
 ### 4+ people {-}
 
@@ -31,7 +32,7 @@ Intercepts, substitutions, carries, and so on...
   - [Variations](https://passing.zone/27-scrambleds/): 3,B,Toast,Zig-Zag
   - Scrambled-3V combo: 2 manipulators
   - **Kennedy**: 4-count Roundabout + 2 manipulators, [helicopter version](https://passing.zone/kennedy-helicopter-version/)
-  - Ambled-V: +1 club, double passes
+  - **Ambled-V**: +1 club, double passes
 - [Cambled-V](https://passing.zone/cambled-v/)
   - Ambled-V variation
   - All start right-handed at the same time!
@@ -41,6 +42,18 @@ Intercepts, substitutions, carries, and so on...
 ## 2 person passing {-#2-person-passing}
 
 Non-manipulation, non-moving patterns for 2 jugglers :)
+
+Useful notations and conventions:
+
+- "s" => self (3)
+- "z" => zip (1)
+- "p" => single pass
+- "d" => double pass
+- "||" => straight pass
+- "X" => cross pass
+- "1|2" => start with 1 club on the left hand and 2 on the right
+- "J1" => Juggler 1, "J2" => Juggler 2
+- J1 does **straight passes** (||) and **starts first** (unless otherwise indicated)
 
 ### Zaps {-}
 
@@ -66,8 +79,8 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - 1-count (singles)
   - psz (726)
   - dszsz ([96262](https://passist.org/siteswap/96622?jugglers=2))
-- 41p31 (why not)
-- **Parsnip** (ppzpz)
+- 41p31 (why-not)
+- **Parsnip** ([ppzpz](https://passist.org/siteswap/77722?jugglers=2))
 
 ### 6 clubs {-}
 
@@ -76,87 +89,101 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - 1,2,3,4-count
   - Pyramid variations
   - 1-count x-singles vs doubles bxxs
-  - Jim's 2-count (77466)
+  - Jim's 2-count - [77466](https://passist.org/siteswap/77466?jugglers=2)
 - 3-count variations
-  - 3d2 (early x-double)
-  - 4d1 (early x-double)
-  - 42p, (4x)2(px)
+  - 3d2 (early X-double)
+  - **4d1 (early X-double)** - nice one, 441-ish
+  - 42p, (4X)2(pX)
   - Jim's 3-count (77466666)
 - pps, ppsps (**bookends**)
   - pps with 2 early doubles: ppdd13-pps
 
 **Async (siteswap) passing**  
 
-- **Why not** - [77862](https://passist.org/siteswap/77862?jugglers=2)
-  - 2|2 vs 1|2: p3p41 (||) vs 41p3p (x)
-  - 1|2 vs 1|2: p41p3 (||) vs p3p41 (x)
-  - Straight-passes-person (||) always starts first!
-  - Add an early double (Katia's idea): pd241 (p => ||, d => x) - [92478](https://passist.org/siteswap/92478?jugglers=2)
+- **Why-not** - [77862](https://passist.org/siteswap/77862?jugglers=2)
+  - J1: (2|2, ||, p3p41) or (1|2, ||, p41p3)
+  - J2: (1|2, X, 41p3p)  or (1|2, X, p3p41)
+  - Add an early double (Katia's idea): pd241 (p => ||, d => X) - [92478](https://passist.org/siteswap/92478?jugglers=2), has a stack
 - **Maybe** - [78672](https://passist.org/siteswap/78672?jugglers=2)
-  - 1|2 v2 1|2: p314p (||,1st) vs 4pp31 (x,2nd)
+  - J1: (1|2, ||, p314p)
+  - J2: (1|2, X, 4pp31)
 - All throws from flip (4) to heff (8)
-  - [78456](https://passist.org/siteswap/78456?jugglers=2) - has stack
+  - [78456](https://passist.org/siteswap/78456?jugglers=2) - has stack (???)
   - [75864](https://passist.org/siteswap/75864?jugglers=2) - 75666 extension
-  - [85746](https://passist.org/siteswap/85746?jugglers=2)
-- [978822](https://passist.org/siteswap/978822?jugglers=2), 441's
-  - 1|2 vs 1|2: d41 (x,1st) bs p41 (x,2nd)
+  - [85746](https://passist.org/siteswap/85746?jugglers=2) - ???
+- [978822](https://passist.org/siteswap/978822?jugglers=2), 441's with one double
+  - J1: (1|2, X, d41)
+  - J2: (1|2, X, p41)
 
 **5-club vs 7-club patterns**  
 
-- **5 club Why Not?** vs **5-count Popcorn**
-  - 1|2 vs 1|2: p3141 (||,1st) vs 44p33 (x,2nd)
+- **5 club Why-not?** vs **5-count Popcorn**
+  - J1: (1|2, ||, p3141)
+  - J2: (1|2, X, 44p33)
 - **Parsnip** vs **funky bookends**
-  - 1|2 vs 1|2: ppzpz (||,1st) vs p4pp3 (x,2nd)
+  - J1: (1|2, ||, ppzpz)
+  - J2: (1|2, X, p4pp3)
 
 **Hijacking**  
 
-- Why-not to (popcorn,5-club why-not) => instead of p3p41, do p33+44
+- Why-not to (popcorn, 5-club why-not) => instead of p3p41, do p33+44
 - Why-not to Maybe => instead of p3p+41, do pss+4pp31
 
 **Siteswaps with single + double pass**  
 
 - [972](https://passist.org/siteswap/972?jugglers=2) - has a stack
-  - 1|2 vs 1|2: d1p (x,||, don't do the zip!) vs pd1 (x,||)
+  - J1: (1|2, (X,||), d1p) - don't do the zip the first time!
+  - J2: (1|2, (X,||), pd1)
 - **Not likely** - [96672](https://passist.org/siteswap/96672?jugglers=2) - has a stack
-  - 1|2 vs 1|2: d313p (d => x) vs 3pd31 (single => x)
+  - J1: (1|2, (d => X), d313p)
+  - J2: (1|2, (p => X), 3pd31)
 - **Maybe not** - [79662](https://passist.org/siteswap/79662?jugglers=2)
-  - 1|2 vs 1|2: p31d3 (d => x) vs d3p31 (single => x)
+  - J1: (1|2, (d => X), p31d3)
+  - J2: (1|2, (p => X), d3p31)
 - **Israeli bicep curls** - [97842](https://passist.org/siteswap/97842?jugglers=2)
 - **Odnom** - [7772964](https://passist.org/siteswap/7772964?jugglers=2) - has a stack
 
 ### 7 clubs {-}
 
 - 1-count (singles)
-- 2-count - sd or sp (single passes)
-  - 2-count doubles vs French 3-count (2|2: p34, || vs 1|2: dss, ||)
+- 2-count (sd or sp)
 - 3-count
-  - Async version (doubles or singles): ssd - (||,1st) vs (x,2nd)
-  - Sync version (**Techno**, singles): (RH p, LH 3)(RH 3)(LH p, RH 3)(LH 3) - (||,1st), (x,2nd)
+  - Async version (doubles): dss - (J1: ||, J2: X)
+  - Sync version (**Techno**, singles): (RH p, LH 3)(RH 3)(LH p, RH 3)(LH 3) - (J1: ||), (J2: X)
 - **Popcorn patterns**
   - **5-count** popcorn ([78686](https://passist.org/siteswap/78686?jugglers=2)) - can be 53 (triple,self) instead of 44
   - **4-count** popcorn with straight single passes (53p3)
   - **6-count** popcorn with straight double passes (44d333)
-- **French 3-count** - 786
-  - 2|2 vs 1|2: p34 (||) vs 4p3 (x)
-- **Funky Bookends** - 77786
-  - 2|2 vs 1|2: pp3p4 (||) vs p4pp3 (x)
-- **Vitoria** - 7778686
-  - 2|2 vs 1|2: pp33p44 (||) vs p44pp33 (x)
-- [88892](https://passist.org/siteswap/88892?jugglers=2) (nice with 441, but somewhat difficult)
-  - 1|2 vs 2|2: 4414d (x,1st) vs 4d441 (||,2nd)
-- **7-club why not** - [9968926](https://passist.org/siteswap/9968926?jugglers=2)
-  - 2|2 vs 1|2: d3d3d41 (x) vs d41d3d3 (||)
+- **French 3-count** - [786](https://passist.org/siteswap/786?jugglers=2))
+  - J1: (2|2, ||, p34)
+  - J2: (1|2, X, 4p3)
+- **2-count vs French 3-count**
+  - J1: (2|2, ||, p34)
+  - J2: (1|2, ||, dss)
+- **Funky Bookends** - [77786](https://passist.org/siteswap/77786?jugglers=2))
+  - J1: (2|2, ||, pp3p4)
+  - J2: (1|2, X, p4pp3)
+- **Vitoria** - [7778686](https://passist.org/siteswap/7778686?jugglers=2))
+  - J1: (2|2, ||, pp33p44)
+  - J2: (1|2, X, p44pp33)
+- [88892](https://passist.org/siteswap/88892?jugglers=2) (nice with 441, but difficult!)
+  - J1: (1|2, X, 4414d)
+  - J2: (2|2, ||, 4d441)
+- **7-club why-not** - [9968926](https://passist.org/siteswap/9968926?jugglers=2)
+  - J1: (2|2, X, d3d3d41)
+  - J2: (1|2, ||, d41d3d3)
 - **7-club maybe (1)** - [9969268](https://passist.org/siteswap/9969268?jugglers=2)
 - [96677](https://passist.org/siteswap/96677?jugglers=2) (single + double passes, bookends variation)
+- **Shorty** - [796686867](https://passist.org/siteswap/796686867?jugglers=2), [video link](https://passing.zone/shorty/)
 - Nice 6-period siteswaps:
-  - [678894](https://passist.org/siteswap/678894?jugglers=2) - 534 vs 423 kind-of
   - [999942](https://passist.org/siteswap/999942?jugglers=2) - train your doubles :)
 
 ### 8 clubs {-}
 
 - [7a7a6](https://passist.org/siteswap/7a7a6?jugglers=2) - [Sven](https://www.instagram.com/p/CvATESjg17A/)
-  - 2|3 vs 2|2: pp355 (||) vs 55pp3 (x)
-- [996](https://passist.org/siteswap/996?jugglers=2) - PPS
+- [996](https://passist.org/siteswap/996?jugglers=2) - dds
+- 2-count (ds)
+- [978888](https://passist.org/siteswap/978888?jugglers=2)
 
 ## 6-handed siteswaps {-#6-handed-siteswaps}
 
@@ -182,81 +209,97 @@ So, in all patterns listed below, we will use the *standard* hand order, unless 
   - Hand-order is *all-rights-all-lefts*
 - **Why-Not Triangle** - [aaac993bbbcc933](https://passist.org/siteswap/aaac993bbbcc933?jugglers=3), [video](https://passing.zone/whynot-triangle/)
   - Local siteswaps: 2 x a9bc3 and 1 x b9ac3
-- **fast & lofty singles** - [abc39](https://passist.org/siteswap/abc39?jugglers=3&hands=Ar-Bl-Cr-Al-Br-Cl)
+- **Fast & lofty singles** - [abc39](https://passist.org/siteswap/abc39?jugglers=3&hands=Ar-Bl-Cr-Al-Br-Cl)
   - Local is fast-single,1,lofty-single,3,4 for all jugglers
 
-## Feeds and Triangles {-}
+### 10 clubs {-}
+
+- [bbbcc9d3acacc93](https://passist.org/siteswap/bbbcc9d3acacc93?jugglers=3) - **TO-TRY**, 2 why-not feedees vs 1 feeder doing p4p44
+
+## 8-handed siteswaps {-#8-handed-siteswaps}
+
+- [3-count friction](https://youtu.be/g4q6-SwCwwk) - [fcc](https://passist.org/siteswap/fcc?jugglers=4&hands=Ar-Bl-Cr-Dl-Al-Br-Cl-Dr)
+
+## Feeds and Triangles {-#feeds}
+
+In this section, "Feeds" and "Triangles" refer to patterns for **3 people**.
+In feeding patterns, one person (the *feeder*) passes to the other two (the *feedees*).
+The feedees don't pass to each other.
+
+Useful notation:
+
+- "F" => Feeder
+- "LF" => Left-Feedee and "RF" => "Right-Feedee" refer to the two feedees/passers **as the feeder views them**
+- "R" => starts right-handed, "L" => starts left-handed
+- "||" => straight passes, "X" => cross passes
 
 ### 9 clubs {-}
 
-- **Triangle sync counts** (2,3,4-counts, pps, ppsps)
+- **Triangle sync counts** (2,3,4-count, pps, ppsps)
 - **Gorilla: 1-count feeds two 2-counts**
-  - Feeder: straight passes
-  - Left-feedee: 2-count right-handed
-  - Right-feedee: 2-count left-handed
+  - F: (R, ||, 1-count) - first pass to LF
+  - LF: (R, ||, 2-count)
+  - RF: (L, ||, 2-count) - starts on 2nd beat
 - **2-count feeds two 4-counts**
-  - Var: Runaround (when the feeder changes - base pattern for Scramble-V)
+  - Variation: Runaround (changes feeder - base pattern for Scramble-V)
 - **PPS feeds two 3-counts**
-  - Var: Runaround (the person who walks does a 4-count, the feeder does a 2-count with the same person that is not moving, the future feeder does sp (2-count) + psppspps...
+  - Variation: Runaround (the person who walks does a 4-count, the feeder does a 2-count with the same person that is not moving, the future feeder does sp (2-count) + psppspps...
 - **1-count chocolate bar feed**
-  - Feeder does 1-count, 2 straight passes in one feeder, 2 in the other
-  - Feeders do ppss (one starts two beats later or with ss)
+  - Feeder does 1-count, 2 straight passes in one feedee, 2 in the other
+  - Feedees: ppss (one starts two beats later or with ss)
 - **Parsnip feeds 5-count popcorn and 6-club why-not**
-  - Feeder right-throws to left person (5-count popcorn) and then 2 passes to the why-not feedee (all straight) => ppzpz
-  - Everyone starts with **right hand**
-  - Feeder => straight passes, **feedees => crossing passes**
-  - Why-not feedee does p41p3 (crossing single passes, starts with right hand)
+  - F: (R, ||, ppzpz) - first pass to LF, two next to RF
+  - LF: (R, X, 44p33)
+    - Change to an 8-club pattern with LF: (R, X, 41p31) - starts with 2 clubs
+  - RF: (R, X, p41p3)
 - **1-count feast**
   - All jugglers do pps out-of-phase
   - All start **right-handed**
-- **ppz feeds french 3-count**
-  - All passes straight
-  - Feeders do 4p3, one starts with the left hand (or with a self)
-  - Feeder passes in,in,out,out, sends first pass to 4p3 feeder
+- **ppz feeds two french 3-counts**
+  - F: (R, ||, ppz) - in,in,out,out
+  - LF: (R, ||, 4p3)
+  - RF: (R, ||, 34p)
 - **ppzspps feeding two Jim's 3-counts**
-  - Feeder: ||, feedees: x-passes
+  - Feeder: ||, feedees: X
 
 ### 10 clubs {-}
 
 - **Gorilla**
-  - Feeder has 4 clubs, cross passes, start left
-  - Feedees straight passes
-  - Left-juggler starts first, right-handed 2-count
-  - Right-juggler does left-handed 2-count
+  - F: (L, 2|2, X, 1-count) - first pass to LF
+  - LF: (R, ||, 2-count)
+  - RF: (L, ||, 2-count)
 - **2-count feeds two 4-counts with doubles**
-  - Var: Runaround (when the feeder changes - base pattern for Ample-V)
+  - Variation: Runaround (when the feeder changes - base pattern for Ambled-V)
 - **6-club why-not feeds two 5-count popcorns**
-  - Everyone starts **right-handed**
-  - Feeder has 4 clubs, does p3p41, doesn't matter with whom he starts, **passes are straight**
-  - Feedees do 44p33, **crossing passes**
-- **Maybe feeds two 5-count popcorns**
-  - Feeder has 4 clubs, does pp314, doesn't matter with whom he starts, **passes are straight** (out/out/in/in pattern)
-  - Feedees do 44p33, **crossing passes**, one throws from right hand the other from left
+  - F: (R, 2|2, ||, p3p41) - starts with LF
+  - LF: (R, X, 44p33)
+  - RF: (R, X, 3344p) or wait for feeder's pass and do: (R, X, 44p33)
+- **6-club Maybe feeds two 5-count popcorns**
+  - Same configuration as above pattern, RF waits 1 beat less time for feeder's pass
 - **Funky bookends feeds 5-count popcorn and 6-club why-not** - COLLISIONS?
-  - Feeder right-throws to left person (5-count popcorn) and then 2 passes to the why-not feedee (all straight)
-  - Everyone starts with **right hand**
-  - Feeder => straight passes, **feedees => crossing passes**
-  - Why-not feedee does p41p3 (crossing single passes, starts with right hand)
+  - F: (R, 2|2, ||, pp3p4) - first pass to LF, two next to RF
+  - LF: (R, X, 44p33)
+  - RF: (R, X, p41p3)
 - **3-count feeds two 6-count popcorns**
-  - Feeder has 4 clubs, starts left-handed, 3-count crossed singles, starts with left person
-  - Feedees do 6-count popcorn with straight singles (44p333)
-  - Left feedee starts 44... (right-handed pass)
-  - Right feedee starts 333... (left-haded pass)
-- **PPS feeds two french 3-counts**
-  - Feeder starts with 4 clubs, straight passes
-  - Left-feedee does 4p3, straight short single passes, starts exactly the same time as the feeder
-  - Right-feedee does 34p, cross longer single passes, starts half a beat later
+  - F: (L, 2|2, X, 3-count) - starts with LF
+  - LF: (R, 1|2, ||, 44p333) - passes with right hand
+  - RF: (R, 1|2, ||, 33344p) - passes with left hand
+- **pss feeds two french 3-counts**
+  - F: (R, 2|2, ||, pps)
+  - LF: (R, 1|2, ||, 4p3) - start exactly the same time as F, fast single pass
+  - RF: (R, 1|2, X, 34p) - start 1 beat later than F, lofty single pass
 
-#### 11 clubs {-}
+### 11 clubs {-}
 
 - **2-count feeds two 4-count popcorns with doubles**
-  - Everybody sends straight doubles, all start at the same time
-  - Feeder starts with 4 clubs, does 2-count
-  - Left feedee starts with 3 clubs, left-handed, does 344d...
-  - Right feedee starts with 4 clubs, left-handed, does 4d34...
+  - F: (R, 2|2, ||, ds) - first pass to LF, second to RF
+  - LF: (L, 2|1, ||, 344d) or (R, 1|2, ||, 44d3) but waits 1 beat
+  - RF: (L, 2|2, ||, 4d34)
+  - Everybody starts exactly at the same time
 - **PPS feeds 3-count with doubles** (996 vs 2x966)
-  - Feeder: pps (out,out,in,in - like in the 9-club version), has **5 clubs**.
-  - Feedees: 3-count, 3 clubs each, crossing doubles, right-hand start (one passes, the other does a self)
+  - F: (R, 3|2, dds) - out,out,in,in, starts with **5 clubs**
+  - LF: (R, 1|2, X, dss)
+  - RF: (R, 1|2, X, sds)
 
 ## Many people patterns {-}
 

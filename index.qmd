@@ -1,14 +1,15 @@
 # Preface {-}
 
-Knowledge acquired throughout years of practicing, playing over and over siteswaps, trying to find pleasant and/or aesthetic pattern characteristics through the siteswap numbering system.
+Knowledge acquired throughout years of practicing, playing over and over with siteswaps, trying to find pleasant/aesthetic pattern characteristics using the siteswap notation system.
 This is **a collection of what feels good for me**, without taking the difficulty to the extreme levels (e.g. 7+ balls).
 
-I also include **specialized training regimes** (again what worked for me best) and other miscellaneous stuff like mills mess and 3 ball patterns.
+I also include **specialized training regimes** (again what worked for me best) and other (miscellaneous) stuff like mills mess patterns, 3 ball tricks and **a lot of passing patterns** as well!
 
 *John Zobolas*
 
 ## Notes {-}
 
+- *July 2024*: Changed notation for passing patterns, I feel I am closing on a curated list for 2 and 3 person passing.
 - *December 2023*: Changed to [Quarto](https://quarto.org/).
 - *September 2022*: Changed to GitBook using [bookdown](https://bookdown.org/yihui/bookdown/).
 - *November 2021*: I found a better name for my collection of siteswaps: **curated siteswaps**! This name better encapsulates my effort to find the best ones and what best exactly means. Still an ongoing process! Also finally the 5 ball siteswaps have become more stable :)
