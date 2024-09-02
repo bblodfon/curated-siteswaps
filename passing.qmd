@@ -185,6 +185,9 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - J2: (1|2, ||, d41d3d3)
 - **7-club maybe (1)** - [9969268](https://passist.org/siteswap/9969268?jugglers=2)
 - [96677](https://passist.org/siteswap/96677?jugglers=2) (single + double passes, bookends variation)
+- [979962](https://passist.org/siteswap/979962?jugglers=2)
+  - J1: (2|2, X, dd3)
+  - J2: (2|2, (p => X), pd4)
 
 ### 8 clubs {-}
 
@@ -194,6 +197,9 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - [978888](https://passist.org/siteswap/978888?jugglers=2)
   - J1: (2|2, X, d44)
   - J2: (2|2, X, s44)
+- [979968](https://passist.org/siteswap/979968?jugglers=2)
+  - J1: (2|2, X, dd3)
+  - J2: (2|2, (p => X), pd4)
 
 ## 6-handed siteswaps {-#6-handed-siteswaps}
 
@@ -206,8 +212,6 @@ So, in all patterns listed below, we will use the *standard* hand order, unless 
 ### 8 clubs {-}
 
 - **Mayday zap** - [a37979999](https://passist.org/siteswap/a37979999?jugglers=3), [video](https://youtu.be/LXSHpPcaVTU), every juggler does something different
-- Jim's 2-count (name?) - [88996](https://passist.org/siteswap/88996?jugglers=3)
-  - Local is zap,3,zap,3,2
 - Why-not with zaps (name?) - [8839c](https://passist.org/siteswap/8839c?jugglers=3)
   - Local is zap,3,zap,4,1
 
@@ -229,6 +233,7 @@ So, in all patterns listed below, we will use the *standard* hand order, unless 
 ## 8-handed siteswaps {-#8-handed-siteswaps}
 
 - [3-count friction](https://youtu.be/g4q6-SwCwwk) - [fcc](https://passist.org/siteswap/fcc?jugglers=4&hands=Ar-Bl-Cr-Dl-Al-Br-Cl-Dr)
+- [ecd] - pps variation (**TO-TRY**)
 
 ## Feeds and Triangles {-#feeds}
 
