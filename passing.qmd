@@ -28,7 +28,7 @@ Intercepts (I), substitutions (S), carries (C), and so on...
 - Why-not Abouts
   - [What's that about (2014)](https://www.instagram.com/reel/Cm8Cam2u3tz/) - 4 gets intercepted
   - [Australian version](https://passing.zone/why-not-about) - [notation](https://photos.app.goo.gl/85EC5X2tkbCuZkAL9) - a pass gets intercepted
-- [Shorty-About](https://passing.zone/shorty/)
+- [Shorty](https://passing.zone/shorty/)
 
 ### 4+ people {-}
 
@@ -164,7 +164,6 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - Sync version (**Techno**, singles): (RH p, LH 3)(RH 3)(LH p, RH 3)(LH 3) - (J1: ||), (J2: X)
 - **Popcorn patterns**
   - **5-count** popcorn ([78686](https://passist.org/siteswap/78686?jugglers=2)) - can be 53 (triple,self) instead of 44
-  - **4-count** popcorn with straight single passes (53p3)
   - **6-count** popcorn with straight double passes (44d333)
 - **French 3-count** - [786](https://passist.org/siteswap/786?jugglers=2))
   - J1: (2|2, ||, p34)
@@ -186,16 +185,15 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - J2: (1|2, ||, d41d3d3)
 - **7-club maybe (1)** - [9969268](https://passist.org/siteswap/9969268?jugglers=2)
 - [96677](https://passist.org/siteswap/96677?jugglers=2) (single + double passes, bookends variation)
-- **Shorty** - [796686867](https://passist.org/siteswap/796686867?jugglers=2), [video link](https://passing.zone/shorty/)
-- Nice 6-period siteswaps:
-  - [999942](https://passist.org/siteswap/999942?jugglers=2) - train your doubles :)
 
 ### 8 clubs {-}
 
-- [7a7a6](https://passist.org/siteswap/7a7a6?jugglers=2) - [Sven](https://www.instagram.com/p/CvATESjg17A/)
+- [7a7a6](https://passist.org/siteswap/7a7a6?jugglers=2) - [Sven](https://www.instagram.com/p/CvATESjg17A/) ???
 - [996](https://passist.org/siteswap/996?jugglers=2) - dds
-- 2-count (ds)
+- 2-count (ds, sync)
 - [978888](https://passist.org/siteswap/978888?jugglers=2)
+  - J1: (2|2, X, d44)
+  - J2: (2|2, X, s44)
 
 ## 6-handed siteswaps {-#6-handed-siteswaps}
 
