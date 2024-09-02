@@ -70,6 +70,8 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - [645](https://passist.org/siteswap/564?jugglers=2) (**Killer Bunny** - answer zap with self,zap)
   - [64555](https://passist.org/siteswap/55645?jugglers=2) (Funky magazine rack)
 - 5 (1-count with zaps)
+  - zaps (X) vs tomahawks (||)
+  - zaps (||) vs bxxs (d,X)
 - [7a224](https://passist.org/siteswap/7a224?jugglers=2) - single passes as zaps, and 5's as double selfs!
 - 756 family:
   - 7<span style="color:blue">5</span>666 (2+3-count mix with zaps - 5 is magic)
@@ -79,10 +81,12 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 
 ### 3-5 clubs {-}
 
-- 5|720 (501-like)
+- [720](https://passist.org/siteswap/720?jugglers=2) - (501-like)
+  - J1: (0|2, ||, p-wait-1)
+  - J2: (0|1, X, 1-wait-p)
 - 1-count (singles)
-  - psz (726)
-  - dszsz ([96262](https://passist.org/siteswap/96622?jugglers=2))
+  - p31 (726)
+  - d3131 ([96262](https://passist.org/siteswap/96622?jugglers=2))
 - 41p31 (why-not)
 - **Parsnip** ([ppzpz](https://passist.org/siteswap/77722?jugglers=2))
 
@@ -92,7 +96,8 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 
 - 1,2,3,4-count
   - Pyramid variations
-  - 1-count x-singles vs doubles bxxs
+  - 1-count singles (p,X) vs bxxs (d,X)
+  - 1-count singles (p,||) vs tomahawks (d,||)
   - Jim's 2-count - [77466](https://passist.org/siteswap/77466?jugglers=2)
 - 3-count variations
   - 3d2 (early X-double)
