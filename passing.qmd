@@ -4,7 +4,7 @@ Passing patterns! Yay!
 
 ## Manipulation patterns {-#manipulation-patterns}
 
-Intercepts, substitutions, carries, and so on...
+Intercepts (I), substitutions (S), carries (C), and so on...
 
 ### 3 people {-}
 
@@ -13,6 +13,10 @@ Intercepts, substitutions, carries, and so on...
   - [Slapabout](https://youtu.be/hQUMouImUaI)
   - [Ronjabout](https://passing.zone/ronjabout/)
   - Jim's 4-count Roundabout
+  - Pop-about
+    - M (2 clubs): C (to B) + S (to B), get the pop => A
+    - A (2 clubs): 333p(gets substituted)333 => B
+    - B (3 clubs): p333p33pop => M
 - 3-count Roundabouts
   - [3-count Roundabout (Nickie's version)](https://passing.zone/nickis-3-count-roundabout/)
   - [Catch the carrot](https://passing.zone/catch-the-carrot/) - based on Jim's 3-count
@@ -43,7 +47,7 @@ Intercepts, substitutions, carries, and so on...
 
 Non-manipulation, non-moving patterns for 2 jugglers :)
 
-Useful notations and conventions:
+### Notation
 
 - "s" => self (3)
 - "z" => zip (1)
