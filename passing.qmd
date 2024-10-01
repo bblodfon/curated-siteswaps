@@ -188,7 +188,7 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - [96677](https://passist.org/siteswap/96677?jugglers=2) (single + double passes, bookends variation)
 - [979962](https://passist.org/siteswap/979962?jugglers=2)
   - J1: (2|2, X, dd3)
-  - J2: (2|2, (p => X), pd4)
+  - J2: (1|2, (p => X), pd1)
 
 ### 8 clubs {-}
 
