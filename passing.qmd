@@ -186,13 +186,15 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - J2: (1|2, ||, d41d3d3)
 - **7-club maybe (1)** - [9969268](https://passist.org/siteswap/9969268?jugglers=2)
 - [96677](https://passist.org/siteswap/96677?jugglers=2) (single + double passes, bookends variation)
+- **Aspirin** - [7966786](https://passist.org/siteswap/7966786?jugglers=2)
+  - J1: (2|2, (p => ||), p3p3d34)
+  - J2: (1|2, (d => ||), d34p3p3)
 - [979962](https://passist.org/siteswap/979962?jugglers=2)
   - J1: (2|2, X, dd3)
   - J2: (1|2, (p => X), pd1)
 
 ### 8 clubs {-}
 
-- [7a7a6](https://passist.org/siteswap/7a7a6?jugglers=2) - [Sven](https://www.instagram.com/p/CvATESjg17A/) ???
 - [996](https://passist.org/siteswap/996?jugglers=2) - dds
 - 2-count (ds, sync)
 - [978888](https://passist.org/siteswap/978888?jugglers=2)
