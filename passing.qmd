@@ -232,6 +232,13 @@ So, in all patterns listed below, we will use the *standard* hand order, unless 
 ### 10 clubs {-}
 
 - [bbbcc9d3acacc93](https://passist.org/siteswap/bbbcc9d3acacc93?jugglers=3) - **TO-TRY**, 2 why-not feedees vs 1 feeder doing p4p44
+- 10 clubs 2-count - [b9](https://passist.org/siteswap/b9?jugglers=3&hands=Ar-Bl-Cr-Al-Br-Cl)
+
+### 11 clubs {-}
+
+- 11 clubs 2-count - [d9](https://passist.org/siteswap/d9?jugglers=3&hands=Ar-Bl-Cr-Al-Br-Cl)
+  - 13 club version is [h9](https://passist.org/siteswap/h9?jugglers=3&hands=Ar-Bl-Cr-Al-Br-Cl)!
+
 
 ## 8-handed siteswaps {-#8-handed-siteswaps}
 
