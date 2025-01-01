@@ -104,7 +104,7 @@
 
 - **534**
 - 552
-- **642** => **5|561**
+- **642, 5|561**
 - **5|741, 55|714**
 
 ### Period 5 {-}
@@ -116,19 +116,17 @@
 
 #### Nice with 6s {-}
 
-- **63524**, 45623 (columns + 3 out)
-- 45641 (columns)
+- **63524**, 45623 (columns + 3 out), 45641 (columns)
 - 5|66161 (**6 ball training favorite**)
 - 66251
-- 64613 =>(perm.) 63+641
+- 63+641
 - 5+561+3, **63551** (63501 evolution!)
 
 #### With a 7 :) {-}
 
 - 5|72722 (552 extension to almost snake :)
-- 5|74162 (6 as in column is best)
 - **75251** (async => sync => async => ...)
-- **74414**
+- 74414 (tight)
 - **7531(4)** (Tower)
 - **5|75161**
 
@@ -137,7 +135,7 @@
 - **5|68141** (TENTA)
 - **55|81461** (TENTA)
 - 5|58142 (8 as an outside throw, see [video](https://www.instagram.com/p/COyGytNn7KT/))
-- 5|68501
+- 5|68501 (tough, but nice when you get it running)
 
 ### Period 7 {-}
 
