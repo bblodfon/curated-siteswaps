@@ -76,6 +76,7 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - [7a224](https://passist.org/siteswap/7a224?jugglers=2) - single passes as zaps, and 5's as double selfs!
 - 756 family:
   - 7<span style="color:blue">5</span>666 (2+3-count mix with zaps - 5 is magic)
+  - 75666 vs why-not (instead of pss{zap}s do psp41)
   - 756 (Baby Dragon)
   - 7<span style="color:blue">5</span>7<span style="color:blue">5</span>6 (2 magic 5s!)
 - [85566](https://passist.org/siteswap/85566?jugglers=2)
@@ -120,11 +121,9 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - **Mild Madness** - [7777266](https://passist.org/siteswap/7777266?jugglers=2)
   - J1: (1|2, ||, pp13pp3)
   - J2: (1|2, X, pp3pp13)
-- All throws from flip (4) to heff (8)
-  - [78456](https://passist.org/siteswap/78456?jugglers=2) - has stack (???)
-  - [75864](https://passist.org/siteswap/75864?jugglers=2) - 75666 extension
-  - [85746](https://passist.org/siteswap/85746?jugglers=2) - ???
-- [978822](https://passist.org/siteswap/978822?jugglers=2), 441's with one double
+  - Nice to exchange {p,p} with {double,zap}
+- **Flip-2-Heff** - [85746](https://passist.org/siteswap/85746?jugglers=2) - ???
+- [978822](https://passist.org/siteswap/978822?jugglers=2), 441's ???
   - J1: (1|2, X, d41)
   - J2: (1|2, X, p41)
 
@@ -150,11 +149,12 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - **Not likely** - [96672](https://passist.org/siteswap/96672?jugglers=2) - has a stack
   - J1: (1|2, (d => X), d313p)
   - J2: (1|2, (p => X), 3pd31)
+- **Flip-to-Heff** - [78456](https://passist.org/siteswap/78456?jugglers=2) - has stack
+- **Odnom** - [7772964](https://passist.org/siteswap/7772964?jugglers=2) - has a stack
 - **Maybe not** - [79662](https://passist.org/siteswap/79662?jugglers=2)
   - J1: (1|2, (d => X), p31d3)
   - J2: (1|2, (p => X), d3p31)
 - **Israeli bicep curls** - [97842](https://passist.org/siteswap/97842?jugglers=2)
-- **Odnom** - [7772964](https://passist.org/siteswap/7772964?jugglers=2) - has a stack
 
 ### 7 clubs {-}
 
@@ -192,6 +192,9 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - [979962](https://passist.org/siteswap/979962?jugglers=2)
   - J1: (2|2, X, dd3)
   - J2: (1|2, (p => X), pd1)
+- **Double BANANA** - [966777777](https://passist.org/siteswap/966777777?jugglers=2)
+  - J1: (2|2, (p => ||), d3ppp3ppp)
+  - J2: (1|2, (d => ||), 3pppd3ppp)
 
 ### 8 clubs {-}
 
