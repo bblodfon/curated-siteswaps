@@ -122,10 +122,11 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
   - J1: (1|2, ||, pp13pp3)
   - J2: (1|2, X, pp3pp13)
   - Nice to exchange {p,p} with {double,zap}
-- **Flip-2-Heff** - [85746](https://passist.org/siteswap/85746?jugglers=2) - ???
-- [978822](https://passist.org/siteswap/978822?jugglers=2), 441's ???
+- **Flip-to-Heff (2)** - [85746](https://passist.org/siteswap/85746?jugglers=2) - **???**
+- [978822](https://passist.org/siteswap/978822?jugglers=2), 441's
   - J1: (1|2, X, d41)
   - J2: (1|2, X, p41)
+- [979722](https://passist.org/siteswap/979722?jugglers=2), ddz vs ppz
 
 **5-club vs 7-club patterns**  
 
@@ -195,6 +196,7 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - **Double BANANA** - [966777777](https://passist.org/siteswap/966777777?jugglers=2)
   - J1: (2|2, (p => ||), d3ppp3ppp)
   - J2: (1|2, (d => ||), 3pppd3ppp)
+- **5-count triples** - [b6666](https://passist.org/siteswap/b6666?jugglers=2)
 
 ### 8 clubs {-}
 
