@@ -31,11 +31,12 @@
 - **34512, 53142, 52413** (magic sequence permutations)
 - 53403 (nice one for 534)
 - **52512** (baby juggling)
-- **4|55050** (snake), 55140, 45501 (related to 55514)
+- **4|55050** (snake)
+- 45501 (related to 55514)
 - 55500 (3up)
 
 #### Max Throw: 6 {-}
-- 46401, 64140, 64113
+- 46401
 - 46131, 63141, **63501 (Andreas favorite)**
 - **62313** (slam that zip!)
 - 4|61251 (double async box)
@@ -109,13 +110,14 @@
 
 ### Period 5 {-}
 
-#### Standards {-}
+#### With 5s {-}
 
-- 534+44 => 7333444 (Tennis fun variation!)
-- **55514, 46451**
+- 534+44
+- 55514
 
 #### Nice with 6s {-}
 
+- **46451** (NICE)
 - **63524**, 45623 (columns + 3 out), 45641 (columns)
 - 5|66161 (**6 ball training favorite**)
 - 66251
@@ -124,6 +126,7 @@
 
 #### With a 7 :) {-}
 
+- 7333(4) (tight but nice!)
 - 5|72722 (552 extension to almost snake :)
 - **75251** (async => sync => async => ...)
 - 74414 (tight)
