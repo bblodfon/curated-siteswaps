@@ -50,8 +50,9 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 
 ### Notation
 
-- "s" => self (3)
 - "z" => zip (1)
+- "f" => flip (2)
+- "s" => self (3)
 - "p" => single pass
 - "d" => double pass
 - "||" => straight pass
@@ -136,6 +137,9 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - **Parsnip** vs **funky bookends**
   - J1: (1|2, ||, ppzpz)
   - J2: (1|2, X, p4pp3)
+- **5 club 1-count** vs **French 3-count** - [784746](https://passist.org/siteswap/784746?jugglers=2)
+  - J1: (1|2, ||, pff)
+  - J2: (1|2, X, 4p3)
 
 **Hijacking**  
 
@@ -167,16 +171,23 @@ Non-manipulation, non-moving patterns for 2 jugglers :)
 - **Popcorn patterns**
   - **5-count** popcorn ([78686](https://passist.org/siteswap/78686?jugglers=2)) - can be 53 (triple,self) instead of 44
   - **6-count** popcorn with straight double passes (44d333)
-- **French 3-count** - [786](https://passist.org/siteswap/786?jugglers=2))
+- **French 3-count** - [786](https://passist.org/siteswap/786?jugglers=2)
   - J1: (2|2, ||, p34)
   - J2: (1|2, X, 4p3)
-- **2-count vs French 3-count**
+- **7 club 3-count** vs **French 3-count**
   - J1: (2|2, ||, p34)
   - J2: (1|2, ||, dss)
-- **Funky Bookends** - [77786](https://passist.org/siteswap/77786?jugglers=2))
+- **6 club 3-count** vs **Almost-French 3-count** - [786966](https://passist.org/siteswap/786966?jugglers=2)
+  - J1: (2|2, ||, p33)
+  - J2: (1|2, (d => ||), 4ds)
+- **7 club 3-count** vs **stack** - [979962](https://passist.org/siteswap/979962?jugglers=2)
+  - J1: (2|2, X, dd3)
+  - J2: (1|2, (p => X), pd1)
+  - Sync version: dd3 vs 3pd, with all doubles straight (||)
+- **Funky Bookends** - [77786](https://passist.org/siteswap/77786?jugglers=2)
   - J1: (2|2, ||, pp3p4)
   - J2: (1|2, X, p4pp3)
-- **Vitoria** - [7778686](https://passist.org/siteswap/7778686?jugglers=2))
+- **Vitoria** - [7778686](https://passist.org/siteswap/7778686?jugglers=2)
   - J1: (2|2, ||, pp33p44)
   - J2: (1|2, X, p44pp33)
 - [88892](https://passist.org/siteswap/88892?jugglers=2) (nice with 441, but difficult!)
@@ -231,8 +242,6 @@ So, in all patterns listed below, we will use the *standard* hand order, unless 
   - Hand-order is *all-rights-all-lefts*
 - **Why-Not Triangle** - [aaac993bbbcc933](https://passist.org/siteswap/aaac993bbbcc933?jugglers=3), [video](https://passing.zone/whynot-triangle/)
   - Local siteswaps: 2 x a9bc3 and 1 x b9ac3
-- **Fast & lofty singles** - [abc39](https://passist.org/siteswap/abc39?jugglers=3&hands=Ar-Bl-Cr-Al-Br-Cl)
-  - Local is fast-single,1,lofty-single,3,4 for all jugglers
 
 ### 10 clubs {-}
 
@@ -343,7 +352,7 @@ roles)
   - One line starts, everyone there has 4 clubs
   - Other line responds, why-not jugglers have 2 clubs, 5-count popcorn start with 3 clubs
   - If starting side does *straight passes*, everyone can start right-handed.
-- **Shooting star (4 people)**
+- **Shooting star (4 people, 4-count)**
   - 5 people, pentagram positioning
   - Idea is that one juggler runs to the extra corner of the pentagram when he/she rans out of clubs
   - Throw to the person that's right-next to the person that's right of you!
@@ -351,6 +360,12 @@ roles)
 - **Weaver (4 people)**
   - Feeder: 2-count and feeds like a windshield 3 people
   - Feedees: 6-count and moving as a 3-people cascade
+- **3 vs 2-count** (4 people)
+  - Cross positioning: each 2-person group forms a line, and the two lines are perpendicular
+  - 2 people do 2-count, 2 people do 3-count
+  - Right-hand start for all
+  - 2-count person: left, middle, middle, right, middle, middle, left, ...
+  - 3-count person: right, middle, left, middle, right, ...
 - **Feast (1-N people)**
   - Pass clockwise!
   - Hand-feast (nice variation, feels like Jim's)
