@@ -7,3 +7,5 @@ getopt
 os
 sys
 sysconfig
+
+**/*.quarto_ipynb
