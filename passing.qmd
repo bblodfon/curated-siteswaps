@@ -303,6 +303,11 @@ Useful notation:
 
 ### 10 clubs {-}
 
+- **3-count triangle**
+  - One juggler with 4 clubs, starts first with a pass
+  - Crossing doubles for all
+  - Passes go: A => B, B => C, C => A
+  - A: pss, B: sps, C: ssp
 - **Gorilla**
   - F: (L, 2|2, X, 1-count) - first pass to LF
   - LF: (R, ||, 2-count)
@@ -352,32 +357,42 @@ roles)
   - One line starts, everyone there has 4 clubs
   - Other line responds, why-not jugglers have 2 clubs, 5-count popcorn start with 3 clubs
   - If starting side does *straight passes*, everyone can start right-handed.
-- **Shooting star (4 people, 4-count)**
-  - 5 people, pentagram positioning
-  - Idea is that one juggler runs to the extra corner of the pentagram when he/she rans out of clubs
-  - Throw to the person that's right-next to the person that's right of you!
+- **Shooting star (4 people, 9 clubs, 4-count)**
+  - 5 people, pentagram positioning: A => B => C => D => E (think A is top in a diagram and the arrow shows who is "right-next-to" the previous person)
+  - A, C and E start with 3 clubs (1|2), B starts with no clubs, D is phantom
+  - Right-hand start for all
+  - Pass to the person two to your right, i.e. A => C, C => E, E => B.
+  - When A is out of clubs, runs to point D (where he/she was expecting passes from).
+- **Shooting star (4 people, 11 clubs, 4-count)**
+  - Same as above, but faster
+  - B has 2 clubs now
+  - A starts the run immediately after the first pass, then C moves (after 1 4-count), then E (after 2 4-counts), then B (after 3 4-counts)
 - **Y (4 people)** (2,3,4-count)
 - **Weaver (4 people)**
   - Feeder: 2-count and feeds like a windshield 3 people
   - Feedees: 6-count and moving as a 3-people cascade
-- **3 vs 2-count** (4 people)
+- **3 vs 2-count (4 people)**
   - Cross positioning: each 2-person group forms a line, and the two lines are perpendicular
   - 2 people do 2-count, 2 people do 3-count
   - Right-hand start for all
   - 2-count person: left, middle, middle, right, middle, middle, left, ...
   - 3-count person: right, middle, left, middle, right, ...
-- **Feast (1-N people)**
-  - Pass clockwise!
-  - Hand-feast (nice variation, feels like Jim's)
 - **Dropback Line**
   - 3 people: A,B vs C => A passes to C, C to B, B dropbacks to A
   - 4 people: A,B vs C,D => A passes to C, C dropbacks to D, D to B, B dropbacks to A
+- **Star (5 people)**
+  - Start right-handed, everyone holding 3 clubs (1|2)
+  - 1,2,3,4-count works!
+- **3-count Feast (Boston circle, 5 people)**
+  - Pass to everyone in turn, including yourself! All passes start right-handed, then become left-handed, etc.
+  - Hand-feast (nice variation, feels like Jim's)
+  - In principle, this pattern can be done with more people and different counts as well!
 - **5-count Star with doubles (5 people, 16 clubs)**
-  - Pentagram positioning, 5-count
-  - Double passes
+  - Pentagram positioning, each person passes 5-count
+  - Double crossing passes for all
   - 16 clubs (one person holds 4 clubs and starts throwing in the 1st beat)
-  - In each beat a different person throws a double (5 beats in total)
-  - Throw **crossing passes** to the same person (the same person you would throw if you were doing a 4-count Star). Your right hand pass goes to his right hand, etc.
+  - In each beat a different person throws a crossing double (5 beats in total)
+  - Pass to the person two to your right
 
 ## Minis {-}
 
