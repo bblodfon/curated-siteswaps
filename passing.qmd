@@ -335,11 +335,16 @@ Useful notation:
 
 ### 11 clubs {-}
 
+- **1-count feeds two 2-count with doubles**
+  - Proposed name: Gorilla+
+  - F: (R, 2|2, ||, d) - first pass to LF, second to RF
+  - LF: (R, 1|2, ||, d3) - waits 1 beat
+  - RF: (L, 2|2, ||, d3) - starts with F
+  - Everybody starts exactly at the same time
 - **2-count feeds two 4-count popcorns with doubles**
   - F: (R, 2|2, ||, ds) - first pass to LF, second to RF
-  - LF: (L, 2|1, ||, 344d) or (R, 1|2, ||, 44d3) but waits 1 beat
-  - RF: (L, 2|2, ||, 4d34)
-  - Everybody starts exactly at the same time
+  - LF: (L, 2|1, ||, 344d) or (R, 1|2, ||, 44d3) but waits 1 beat (better for some people)
+  - RF: (L, 2|2, ||, 4d34) - starts with F
 - **PPS feeds 3-count with doubles** (996 vs 2x966)
   - F: (R, 3|2, dds) - out,out,in,in, starts with **5 clubs**
   - LF: (R, 1|2, X, dss)
