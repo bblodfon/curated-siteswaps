@@ -340,7 +340,6 @@ Useful notation:
   - F: (R, 2|2, ||, d) - first pass to LF, second to RF
   - LF: (R, 1|2, ||, d3) - waits 1 beat
   - RF: (L, 2|2, ||, d3) - starts with F
-  - Everybody starts exactly at the same time
 - **2-count feeds two 4-count popcorns with doubles**
   - F: (R, 2|2, ||, ds) - first pass to LF, second to RF
   - LF: (L, 2|1, ||, 344d) or (R, 1|2, ||, 44d3) but waits 1 beat (better for some people)
