@@ -12,8 +12,8 @@ book:
   chapters:
     - index.qmd
     - siteswaps.qmd
-    - misc.qmd
     - passing.qmd
+    - misc.qmd
 
 format:
   html:
