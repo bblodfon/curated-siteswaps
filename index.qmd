@@ -7,8 +7,9 @@ I also include **specialized training regimes** (again what worked for me best) 
 
 *John Zobolas*
 
-## Notes {-}
+## News & Changelog {-}
 
+- *August 2025*: Restructured the passing pattern page, refined a bit some patterns.
 - *July 2024*: Changed notation for passing patterns, I feel I am closing on a curated list for 2 and 3 person passing.
 - *December 2023*: Changed to [Quarto](https://quarto.org/).
 - *September 2022*: Changed to GitBook using [bookdown](https://bookdown.org/yihui/bookdown/).
