@@ -2,7 +2,7 @@
 
 Passing patterns! Yay!
 
-## 2 jugglers {-#2-person-passing}
+## 2 jugglers {-#2-jugglers}
 
 Non-manipulation, non-moving patterns for 2 jugglers :)
 
@@ -214,7 +214,7 @@ So, in all patterns listed below, we will use the *standard* hand order, unless 
 
 - 2-count - [h9](https://passist.org/siteswap/h9?jugglers=3&hands=Ar-Bl-Cr-Al-Br-Cl)
 
-## 3 jugglers {-#feeds}
+## 3 jugglers {-#3-jugglers}
 
 Most patterns in this section are either *feeds* or *triangles*, i.e. static (non-moving) patterns for **3 jugglers**.
 In feeding patterns, one person (the *feeder*) passes to the other two (the *feedees*), while the feedees don't pass to each other 
@@ -312,7 +312,7 @@ Useful notation:
   - LF: (R, 1|2, X, dss)
   - RF: (R, 1|2, X, sds)
 
-## 4 jugglers
+## 4 jugglers {-#4-jugglers}
 
 Unless otherwise specified, each juggler has 3 clubs and the patterns are for 4 x 3 = 12 clubs in total.
 
@@ -370,7 +370,7 @@ Unless otherwise specified, each juggler has 3 clubs and the patterns are for 4 
   - [3-count friction](https://youtu.be/g4q6-SwCwwk) - [fcc](https://passist.org/siteswap/fcc?jugglers=4&hands=Ar-Bl-Cr-Dl-Al-Br-Cl-Dr)
   - [ecd](https://passist.org/siteswap/ecd?jugglers=4&hands=Ar-Bl-Cr-Dl-Al-Br-Cl-Dr) - pps variation (**TO-TRY**)
 
-## 5 jugglers
+## 5 jugglers {-#5-jugglers}
 
 See more info on stars and feasts with 5 jugglers in [this IJA article](https://www.juggle.org/five-person-feasts-and-stars/), by Aidan Burns.
 
